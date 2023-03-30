@@ -1,0 +1,1001 @@
+,breakfast,cancelation,guest_reviews,location,price_AZN,review_number,title,type_room,distance_km,latitude,longitude
+0,No,Yes,Exceptional,Chugureti,83.0,64,Mose art Hotel,Luxury Triple Room,1.2,41.72340168819495,44.82088685166248
+1,No,Yes,Excellent,Vera,69.0,30,Costé Hotel,Standard Single Room,2.2,41.70761261768468,44.787408551790755
+2,Yes,Yes,Exceptional,Old Tbilisi,91.0,6,Green Inn,Standard Twin Room,0.4,41.69209658252052,44.79406059228808
+3,Yes,Yes,Wonderful,Old Tbilisi,71.0,359,David Hotel - Ethno style,Triple Room,0.4,41.69209658252052,44.79406059228808
+4,No,Yes,Excellent,Mtatsminda,109.0,751,Hotel Adamo,Economy Double Room,1.2,41.693060457156996,44.78551384334914
+5,No,Yes,Wonderful,Chugureti,24.0,118,Pigeon guest house,Bed in 6-Bed Dormitory Room,2.3,41.72340168819495,44.82088685166248
+6,Yes,Yes,Wonderful,Vera,124.0,12,Zemeli Boutique Hotel,Budget Double Room,1.7,41.70761261768468,44.787408551790755
+7,Yes,Yes,Excellent,Old Tbilisi,69.0,476,Old Side Corner,Standard Single Room,0.35,41.69209658252052,44.79406059228808
+8,Yes,Yes,Excellent,Other,97.0,166,Biography Tbilisi,Budget Double Room,2.1,,
+9,No,Yes,Excellent,Old Tbilisi,72.0,317,Penthouse Hotel,Budget Single Room,,41.69209658252052,44.79406059228808
+10,No,Yes,Excellent,Chugureti,14.0,2096,Fabrika Hostel & Suites, Bed in a 12 Mixed Dormitory Room,1.8,41.72340168819495,44.82088685166248
+11,No,Yes,Wonderful,Chugureti,38.0,98,ANNA,Twin Room,,41.72340168819495,44.82088685166248
+12,No,Yes,,Other,28.0,,Gold house,Large Double Room,4.5,,
+13,No,Yes,Wonderful,Other,85.0,233,Green Boutique Hotel,Deluxe Double Room with Shower,2.4,,
+14,Yes,Yes,Excellent,Old Tbilisi,74.0,200,MariaLuis Hotel,Small Double or Twin Room,1.1,41.69209658252052,44.79406059228808
+15,No,Yes,Exceptional,Old Tbilisi,58.0,1,Old Tbilisi Terrace,Double Room,1.2,41.69209658252052,44.79406059228808
+16,Yes,Yes,Very Good,Vake,72.0,133,Hotel Genio,Budget Double or Twin Room,3.3,41.70553522376798,44.75495342831405
+17,Yes,Yes,Exceptional,Other,38.0,214,Guesthouse different,Small Single Room,2.4,,
+18,Yes,Yes,Wonderful,Old Tbilisi,115.0,449,Address Boutique Hotel,Economy Double or Twin Room,,41.69209658252052,44.79406059228808
+19,Yes,Yes,Very Good,Other,85.0,110,Dolabauri Hotel,Standard Double Room,2.7,,
+20,No,Yes,Very Good,Old Tbilisi,19.0,263,Namaste Hostel,Single Bed in Mixed Dormitory Room,0.6,41.69209658252052,44.79406059228808
+21,No,Yes,Wonderful,Old Tbilisi,125.0,354,Redrum Tbilisi Boutique Hotel,Deluxe Double Room with Bath,0.6,41.69209658252052,44.79406059228808
+22,No,Yes,Excellent,Old Tbilisi,45.0,160,Hotel Blissdom,Standard Single Room,,41.69209658252052,44.79406059228808
+23,Yes,Yes,Good,Chugureti,56.0,110,Sultan Hotel,Economy Single Room,2.4,41.72340168819495,44.82088685166248
+24,No,Yes,Excellent,Old Tbilisi,58.0,412,Hotel Opinion,Double or Twin Room with Balcony,0.45,41.69209658252052,44.79406059228808
+25,No,Yes,Wonderful,Old Tbilisi,65.0,292,Golden Light Hotel,Large Double Room,0.7,41.69209658252052,44.79406059228808
+26,No,Yes,Wonderful,Old Tbilisi,122.0,540,Galaktioni 22,Large Double Room,0.35,41.69209658252052,44.79406059228808
+27,Yes,Yes,Very Good,Other,105.0,129,Hotel Beaumonde Garden,Budget Double Room,6.9,,
+28,No,No,Exceptional,Mtatsminda,120.0,284,Bazzar Boutique Hotel,Double Room - Disability Access,0.5,41.693060457156996,44.78551384334914
+29,No,Yes,Excellent,Old Tbilisi,100.0,87,Hotel Brigitte Tbilisi,Budget Twin Room,0.5,41.69209658252052,44.79406059228808
+30,Yes,Yes,Excellent,Mtatsminda,118.0,970,The Terrace Boutique Hotel,Standard Double Room,1.1,41.693060457156996,44.78551384334914
+31,No,Yes,Excellent,Mtatsminda,116.0,374,Citrus Hotel,Standard Double or Twin Room,0.5,41.693060457156996,44.78551384334914
+32,No,No,Wonderful,Old Tbilisi,121.0,846,Citadel Narikala Hotel,"Standard Single Room with City View, Without Balcony",0.8,41.69209658252052,44.79406059228808
+33,No,Yes,Excellent,Vera,75.0,130,Old Gold Pero,Deluxe Double Room,1.9,41.70761261768468,44.787408551790755
+34,No,Yes,Exceptional,Mtatsminda,83.0,21,6 Unique Apartments,Superior Apartment,0.8,41.693060457156996,44.78551384334914
+35,No,Yes,Wonderful,Old Tbilisi,65.0,277,Piano Borracho Boutique Hotel Old Tbilisi,Hippie Standard Double/Twin,1.7,41.69209658252052,44.79406059228808
+36,Yes,Yes,Very Good,Other,69.0,16,New White House,Double Room with Garden View,1.7,,
+37,No,Yes,Good,Vera,9.0,132,Footpath Hostel,Bunk Bed in Mixed Dormitory Room,,41.70761261768468,44.787408551790755
+38,No,Yes,Wonderful,Old Tbilisi,31.0,150,Guest House Hello,Twin Room with Shared Bathroom,0.4,41.69209658252052,44.79406059228808
+39,Yes,Yes,Wonderful,Chugureti,113.0,53,Hotel avenue 106,Superior Single Room,,41.72340168819495,44.82088685166248
+40,No,Yes,Excellent,Mtatsminda,44.0,153,Diwan,Large Double Room,0.5,41.693060457156996,44.78551384334914
+41,No,Yes,Wonderful,Didube,62.0,79,Hotel Toma's House,Economy Twin Room,3.7,41.750520159335146,44.7815007925187
+42,No,Yes,Exceptional,Chugureti,28.0,327,When in Tbilisi,Economy Triple Room,2.5,41.72340168819495,44.82088685166248
+43,No,Yes,Wonderful,Old Tbilisi,71.0,108,Downtown Hotel Tbilisi,Superior Single Room,0.4,41.69209658252052,44.79406059228808
+44,No,Yes,Wonderful,Old Tbilisi,226.0,659,About Sololaki,Standard Double or Twin Room,0.7,41.69209658252052,44.79406059228808
+45,No,No,Wonderful,Old Tbilisi,141.0,206,Hotel Abanotubani,Standard Double Room,,41.69209658252052,44.79406059228808
+46,Yes,Yes,Wonderful,Mtatsminda,105.0,79,EPIGRAPH TOWN HOTEL,Economy Double Room,0.7,41.693060457156996,44.78551384334914
+47,Yes,Yes,Exceptional,Old Tbilisi,60.0,7,Qeroli old town,Double or Twin Room,,41.69209658252052,44.79406059228808
+48,Yes,Yes,Excellent,Chugureti,75.0,544,Ornament Boutique Hotel,Budget Double or Twin Room,1.3,41.72340168819495,44.82088685166248
+49,No,Yes,Exceptional,Old Tbilisi,66.0,221,Sina Hotel,Budget Double or Twin Room,0.6,41.69209658252052,44.79406059228808
+50,No,No,Wonderful,Vera,101.0,80,Ramada by Wyndham Tbilisi,"1 Queen Bed, Compact Room, Non-Smoking",2.1,41.70761261768468,44.787408551790755
+51,No,Yes,Wonderful,Mtatsminda,74.0,127,Homey,Double Room with Private Bathroom,1.3,41.693060457156996,44.78551384334914
+52,No,Yes,Excellent,Chugureti,22.0,133,Valera Homestay,Budget Double Room,2.9,41.72340168819495,44.82088685166248
+53,Yes,Yes,Excellent,Old Tbilisi,38.0,137,Guest House Gio,Economy Twin Room,0.1,41.69209658252052,44.79406059228808
+54,No,Yes,Exceptional,Old Tbilisi,38.0,167,Guest House Lile,Superior Twin Room,0.5,41.69209658252052,44.79406059228808
+55,Yes,Yes,Excellent,Other,88.0,114,Granada Hotel and Restaurant,Double Room,,,
+56,No,No,Wonderful,Old Tbilisi,110.0,552,Matiane Boutique Hotel,Budget Double or Twin Room,1.3,41.69209658252052,44.79406059228808
+57,No,Yes,Excellent,Mtatsminda,116.0,374,Citrus Hotel,Standard Double or Twin Room,0.5,41.693060457156996,44.78551384334914
+58,Yes,Yes,Exceptional,Vera,76.0,87,Hotel Home,Double or Twin Room,1.6,41.70761261768468,44.787408551790755
+59,Yes,Yes,Very Good,Old Tbilisi,66.0,50,Hotel Metekhi Line,Economy Double or Twin Room,1.3,41.69209658252052,44.79406059228808
+60,No,Yes,Exceptional,Chugureti,24.0,194,Lets Go House,Twin Room with Shared Toilet,1.1,41.72340168819495,44.82088685166248
+61,Yes,Yes,Exceptional,Old Tbilisi,69.0,387,B&B Old Tbilisi,Economy Twin Room,0.9,41.69209658252052,44.79406059228808
+62,Yes,Yes,Very Good,Old Tbilisi,92.0,237,Hotel Marlyn,Standard Twin Room,0.1,41.69209658252052,44.79406059228808
+63,No,Yes,Exceptional,Old Tbilisi,44.0,107,Guesthouse Hillside,Quadruple Room with Balcony,0.1,41.69209658252052,44.79406059228808
+64,No,Yes,Excellent,Other,79.0,258,East Gate Boutique Hotel,Economy Double Room,2.9,,
+65,Yes,Yes,Very Good,Chugureti,119.0,326,King David Hotel,Standard Double Room,2.5,41.72340168819495,44.82088685166248
+66,Yes,Yes,Exceptional,Old Tbilisi,164.0,93,STROFI by Tbilisi Luxury Boutique Hotels,Standard Double Room,0.4,41.69209658252052,44.79406059228808
+67,Yes,Yes,Exceptional,Other,104.0,344,Siberia Hotel,Superior King Room,1.7,,
+68,No,Yes,Excellent,Chugureti,65.0,50,OGE Boutique Midtown hotel,Standard Single Room,2.1,41.72340168819495,44.82088685166248
+69,No,Yes,Good,Vera,169.0,1637,Margo Palace Hotel,Standard Double or Twin Room,1.7,41.70761261768468,44.787408551790755
+70,No,Yes,Exceptional,Chugureti,118.0,71,Lemo Hotel Tbilisi,Standard Double Room,1.7,41.72340168819495,44.82088685166248
+71,Yes,Yes,Wonderful,Other,68.0,271,Hotel Piano,Budget Double Room,2.6,,
+72,Yes,Yes,Wonderful,Old Tbilisi,176.0,62,Writers' House Residency,Superior Double Room,0.4,41.69209658252052,44.79406059228808
+73,No,Yes,Good,Old Tbilisi,25.0,70,Hostel Old City Sololaki,Budget Single Room,0.8,41.69209658252052,44.79406059228808
+74,No,Yes,Exceptional,Old Tbilisi,113.0,5,Rikhe palace boutique hotel,Budget Double Room,,41.69209658252052,44.79406059228808
+75,Yes,Yes,Very Good,Old Tbilisi,91.0,457,Kindli Hotel,Double or Twin Room with Shared Bathroom,0.45,41.69209658252052,44.79406059228808
+76,No,Yes,Excellent,Vera,56.0,96,Anbani Apartments - City Center,King Studio,1.6,41.70761261768468,44.787408551790755
+77,No,Yes,Very Good,Old Tbilisi,35.0,128,Hotel Canyon,Double or Twin Room with Private External Bathroom,,41.69209658252052,44.79406059228808
+78,No,Yes,Exceptional,Old Tbilisi,108.0,17,Hotel Blue Balcony,Single Room with Terrace,0.4,41.69209658252052,44.79406059228808
+79,Yes,Yes,Excellent,Other,144.0,528,Reed Hotel Tbilisi,Budget Double Room,3.1,,
+80,No,Yes,Exceptional,Vake,69.0,254,Sakhli at Chavchavadze ave 15,Standard King Room,3.1,41.70553522376798,44.75495342831405
+81,Yes,Yes,Very Good,Old Tbilisi,274.0,1354,Wyndham Grand Tbilisi,King Room with Interior View,0.1,41.69209658252052,44.79406059228808
+82,Yes,Yes,Excellent,Chugureti,107.0,300,History of Tbilisi,Budget Double Room,1.6,41.72340168819495,44.82088685166248
+83,Yes,Yes,Excellent,Chugureti,94.0,443,Tiflis Hotel,Budget Single Room,1.8,41.72340168819495,44.82088685166248
+84,No,Yes,Very Good,Mtatsminda,102.0,520,Hotel Liberty Theatre,Small Twin Room,0.25,41.693060457156996,44.78551384334914
+85,Yes,No,Wonderful,Chugureti,94.0,148,Hotel Adora,Budget Twin Room,1.2,41.72340168819495,44.82088685166248
+86,No,Yes,Very Good,Other,82.0,247,BG Palace Hotel,Standard Twin Room,6.3,,
+87,Yes,No,Wonderful,Old Tbilisi,73.0,409,Tbilisi Story Hotel,Economy Double or Twin Room,1.1,41.69209658252052,44.79406059228808
+88,No,Yes,Excellent,Mtatsminda,18.0,313,Moosica Hostel,Single Bed in Mixed Dormitory Room,0.9,41.693060457156996,44.78551384334914
+89,No,Yes,Exceptional,Chugureti,71.0,2,Leo palace,Deluxe Double Room with Balcony,1.7,41.72340168819495,44.82088685166248
+90,No,Yes,Wonderful,Old Tbilisi,63.0,140,Heart of Old Tbilisi Apartments,Apartment,0.3,41.69209658252052,44.79406059228808
+91,Yes,Yes,Excellent,Other,82.0,327,Reikartz Horizont Tbilisi,King Room,8.2,,
+92,No,Yes,Wonderful,Chugureti,68.0,144,House 52 Boutique Hotel,Standard Double Room,,41.72340168819495,44.82088685166248
+93,Yes,Yes,Wonderful,Other,110.0,895,Timber Boutique Hotel,Economy Double Room,2.1,,
+94,No,Yes,Very Good,Saburtalo,75.0,38,Hotel Caucasus,Standard Double Room,7.7,41.72222376354178,44.746048306010806
+95,No,Yes,Excellent,Mtatsminda,69.0,117,Atoneli Apartment hotel,Apartment - Ground Floor,0.8,41.693060457156996,44.78551384334914
+96,Yes,No,Exceptional,Old Tbilisi,147.0,168,Hotel Address 9D,Standard Double Room,1.4,41.69209658252052,44.79406059228808
+97,No,Yes,Very Good,Chugureti,19.0,122,Hostel 17,Budget Single Room,1.6,41.72340168819495,44.82088685166248
+98,Yes,Yes,Excellent,Old Tbilisi,62.0,275,Hotel Classic,Single Room,1.3,41.69209658252052,44.79406059228808
+99,Yes,Yes,Wonderful,Old Tbilisi,98.0,883,Silver 34 Boutique,Budget Double Room,0.25,41.69209658252052,44.79406059228808
+100,Yes,Yes,Wonderful,Chugureti,151.0,207,Heritage Hotel and Suites,Deluxe Double or Twin Room with Balcony,1.7,41.72340168819495,44.82088685166248
+101,No,Yes,Very Good,Chugureti,16.0,183,Hostel Indie Mindie,Bed in 6-Bed Mixed Dormitory Room,1.1,41.72340168819495,44.82088685166248
+102,No,Yes,Wonderful,Old Tbilisi,75.0,519,Le Caucase,Standard Double Room,0.25,41.69209658252052,44.79406059228808
+103,No,Yes,Good,Mtatsminda,8.0,148,My Hostel and Cooking House!,6-Bed Mixed Dormitory Room,1.5,41.693060457156996,44.78551384334914
+104,No,Yes,Exceptional,Other,50.0,85,Apart Hotel Vera,Double Room with Extra Bed,2.4,,
+105,Yes,Yes,Wonderful,Mtatsminda,58.0,739,Old Town Mtatsminda,Budget Double Room,0.8,41.693060457156996,44.78551384334914
+106,Yes,Yes,Wonderful,Old Tbilisi,116.0,169,Betlemi Hotel,Standard Double Room,0.6,41.69209658252052,44.79406059228808
+107,No,Yes,Very Good,Vake,66.0,33,Hotel Ciskari,Twin Room,5.2,41.70553522376798,44.75495342831405
+108,Yes,Yes,Excellent,Mtatsminda,41.0,223,Guest House Zemeli,Family Suite,1.3,41.693060457156996,44.78551384334914
+109,No,Yes,Excellent,Old Tbilisi,40.0,36,Gela's Apartment,Apartment,0.6,41.69209658252052,44.79406059228808
+110,No,No,Very Good,Other,63.0,335,Victoria Inn Tbilisi,Economy Double Room,3.8,,
+111,No,Yes,Wonderful,Old Tbilisi,150.0,1128,TbiliSee Hotel,Double Room,0.6,41.69209658252052,44.79406059228808
+112,No,Yes,Excellent,Chugureti,63.0,451,Hotel Corner,Standard Double or Twin Room with City View,1.2,41.72340168819495,44.82088685166248
+113,Yes,Yes,Excellent,Old Tbilisi,119.0,547,Hotel Sololaki,Superior Twin Room,0.3,41.69209658252052,44.79406059228808
+114,Yes,Yes,Excellent,Chugureti,69.0,535,Tiflis Inn Boutique Hotel,Deluxe Double Room with Extra Bed,2.1,41.72340168819495,44.82088685166248
+115,Yes,Yes,Wonderful,Other,41.0,241,Sanata,Budget Single Room,3.7,,
+116,Yes,No,Wonderful,Old Tbilisi,77.0,849,Graphica Tbilisi Hotel,Economy Double Room,1.6,41.69209658252052,44.79406059228808
+117,No,Yes,Very Good,Other,85.0,132,Apart Hotel MX,Double Room,5.7,,
+118,Yes,Yes,Good,Old Tbilisi,63.0,131,Meidan View,Budget Double Room (Internal window) ,0.8,41.69209658252052,44.79406059228808
+119,No,Yes,Exceptional,Mtatsminda,44.0,45,Modern apartment in the heart of Old Tbilisi,One-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+120,No,Yes,Excellent,Mtatsminda,31.0,188,Gallery Hostel Tbilisi,Bed in 8-Bed Mixed Dormitory Room,,41.693060457156996,44.78551384334914
+121,Yes,Yes,Excellent,Old Tbilisi,126.0,340,Mariam R,Twin Room,0.45,41.69209658252052,44.79406059228808
+122,Yes,Yes,Very Good,Old Tbilisi,91.0,457,Kindli Hotel,Double or Twin Room with Shared Bathroom,0.45,41.69209658252052,44.79406059228808
+123,No,Yes,Excellent,Vera,56.0,96,Anbani Apartments - City Center,King Studio,1.6,41.70761261768468,44.787408551790755
+124,No,Yes,Very Good,Old Tbilisi,35.0,128,Hotel Canyon,Double or Twin Room with Private External Bathroom,,41.69209658252052,44.79406059228808
+125,No,Yes,Wonderful,Saburtalo,94.0,223,Batesta Hotel,Budget Double Room,5.4,41.72222376354178,44.746048306010806
+126,Yes,Yes,Exceptional,Saburtalo,79.0,264,Hotel Wine Palace,Double Room with Balcony,3.3,41.72222376354178,44.746048306010806
+127,No,Yes,Excellent,Saburtalo,116.0,976,Episode Tbilisi,Single Room,,41.72222376354178,44.746048306010806
+128,No,Yes,Good,Chugureti,86.0,482,Tribeca Hotel,Double Room,2.2,41.72340168819495,44.82088685166248
+129,Yes,Yes,Very Good,Chugureti,75.0,32,Redline Hotel,Standard Twin Room,1.8,41.72340168819495,44.82088685166248
+130,No,Yes,Excellent,Old Tbilisi,41.0,153,7 Rooms,Twin Room with City View,1.1,41.69209658252052,44.79406059228808
+131,No,Yes,Very Good,Old Tbilisi,19.0,309,Soul Kitchen,Bed in 10-Bed Mixed Dormitory Room,0.25,41.69209658252052,44.79406059228808
+132,No,Yes,Exceptional,Mtatsminda,101.0,264,Stay Boutique Hotel,Double or Twin Room,1.5,41.693060457156996,44.78551384334914
+133,Yes,Yes,Excellent,Chugureti,88.0,543,Royal Inn,Standard Twin Room,1.2,41.72340168819495,44.82088685166248
+134,Yes,Yes,Very Good,Old Tbilisi,105.0,519,Hotel Imperial House,Economy Double Room,0.2,41.69209658252052,44.79406059228808
+135,No,Yes,Wonderful,Mtatsminda,50.0,56,Twins Hotel,Standard Double Room,1.4,41.693060457156996,44.78551384334914
+136,Yes,Yes,Exceptional,Old Tbilisi,16.0,491,Maria's homestay,Bed in 4-Bed Mixed Dormitory Room,0.5,41.69209658252052,44.79406059228808
+137,Yes,Yes,Wonderful,Vake,90.0,123,Hotel Linge,Double Room with Balcony,2.5,41.70553522376798,44.75495342831405
+138,Yes,Yes,Wonderful,Old Tbilisi,102.0,200,Artists Residence in Tbilisi,Large Double Room,1.6,41.69209658252052,44.79406059228808
+139,Yes,Yes,Wonderful,Old Tbilisi,122.0,536,Hotel Khokhobi Old Tbilisi,Standard Double Room,,41.69209658252052,44.79406059228808
+140,No,Yes,Wonderful,Old Tbilisi,94.0,292,Boutique Fantaisie,Twin Room,0.2,41.69209658252052,44.79406059228808
+141,Yes,No,Very Good,Mtatsminda,45.0,736,Villa Hotel Tbilisi,Single Room,1.2,41.693060457156996,44.78551384334914
+142,No,Yes,Good,Old Tbilisi,59.0,272,AIA Hotel,Standard Single Room,1.1,41.69209658252052,44.79406059228808
+143,Yes,Yes,Wonderful,Other,83.0,60,Rivendell Umbrella Collection,Single Room,3.2,,
+144,No,Yes,Very Good,Old Tbilisi,68.0,503,Hotel Iveria,Budget Double Room,0.6,41.69209658252052,44.79406059228808
+145,Yes,Yes,Wonderful,Chugureti,99.0,251,Hotel Art Nebula,Budget Twin Room,2.1,41.72340168819495,44.82088685166248
+146,No,Yes,Wonderful,Mtatsminda,89.0,230,Octava Boutique Hotel,Deluxe Twin Room,0.7,41.693060457156996,44.78551384334914
+147,Yes,Yes,Wonderful,Vera,80.0,111,Laguna Hotel,Double or Twin Room with Balcony,2.3,41.70761261768468,44.787408551790755
+148,No,Yes,Exceptional,Old Tbilisi,151.0,163,Vinotel Boutique Hotel,Single Room,0.9,41.69209658252052,44.79406059228808
+149,No,Yes,Excellent,Old Tbilisi,69.0,89,Red Fox Guesthouse,Budget Single Room,1.1,41.69209658252052,44.79406059228808
+150,No,Yes,Wonderful,Old Tbilisi,75.0,291,Pantomime Museum Hotel,Standard Double Room,0.8,41.69209658252052,44.79406059228808
+151,No,Yes,Excellent,Mtatsminda,69.0,180,Star Hotel,Deluxe Double Room,0.7,41.693060457156996,44.78551384334914
+152,No,Yes,Wonderful,Other,53.0,281,Gamarjoba Hotel,Deluxe Double Room,,,
+153,Yes,No,Good,Chugureti,91.0,15,ARISTOCRAT,Large Double or Twin Room,3.1,41.72340168819495,44.82088685166248
+154,Yes,Yes,Exceptional,Saburtalo,100.0,116,HOTEL SABU,Standard Double or Twin Room with Balcony,5.1,41.72222376354178,44.746048306010806
+155,No,Yes,Good,Chugureti,107.0,268,Sama Grand Hotel,Deluxe Twin Room,3.1,41.72340168819495,44.82088685166248
+156,No,Yes,Excellent,Mtatsminda,376.0,1736,The Biltmore Tbilisi Hotel,Deluxe Room,1.1,41.693060457156996,44.78551384334914
+157,Yes,Yes,Excellent,Old Tbilisi,113.0,315,Old Metekhi Hotel,Double Room - Attic without View ,,41.69209658252052,44.79406059228808
+158,No,No,Exceptional,Old Tbilisi,66.0,123,Friendship House,Economy Double Room,1.5,41.69209658252052,44.79406059228808
+159,No,Yes,Wonderful,Old Tbilisi,138.0,145,Boutique Apart Hotel Adagio,Standard Double or Twin Room,0.35,41.69209658252052,44.79406059228808
+160,No,Yes,Wonderful,Other,63.0,3,Tunti's Apartments,One-Bedroom Apartment,3.2,,
+161,No,Yes,Very Good,Old Tbilisi,39.0,50,Art-Gallery Avlabari,Double Room with Balcony,1.3,41.69209658252052,44.79406059228808
+162,Yes,Yes,Exceptional,Other,56.0,90,Family Hotel Triston,Economy Twin Room without Window,2.9,,
+163,No,No,Excellent,Old Tbilisi,98.0,45,Hotel Tbiliseli,Double Room with Balcony,0.25,41.69209658252052,44.79406059228808
+164,No,Yes,Exceptional,Old Tbilisi,169.0,156,Boutique Apart Upe,Penthouse Apartment with balcony and panoramic view,0.8,41.69209658252052,44.79406059228808
+165,Yes,Yes,Excellent,Old Tbilisi,151.0,361,Theory Hotel,Economy Double Room,0.25,41.69209658252052,44.79406059228808
+166,No,Yes,Exceptional,Old Tbilisi,63.0,84,Borboleta 3,Studio Apartment,0.5,41.69209658252052,44.79406059228808
+167,No,Yes,Very Good,Old Tbilisi,41.0,72,MyVibe,Queen Room,0.25,41.69209658252052,44.79406059228808
+168,Yes,Yes,Good,Didube,97.0,104,Hotel Betlem,Budget Double Room,3.7,41.750520159335146,44.7815007925187
+169,No,Yes,Exceptional,Old Tbilisi,91.0,23,OLD CORNER,One-Bedroom Apartment,0.4,41.69209658252052,44.79406059228808
+170,Yes,No,Very Good,Chugureti,131.0,519,New Tiflis Hotel,Standard King Room,1.7,41.72340168819495,44.82088685166248
+171,Yes,Yes,Exceptional,Chugureti,85.0,31,Hotel Renesans,Standard Double Room,1.9,41.72340168819495,44.82088685166248
+172,No,Yes,Very Good,Chugureti,19.0,84,Wine Hostel,Single Bed in Male Dormitory Room,2.2,41.72340168819495,44.82088685166248
+173,No,Yes,Very Good,Old Tbilisi,75.0,13,Appartament Home Plus,Budget Double Room,0.4,41.69209658252052,44.79406059228808
+174,No,Yes,Very Good,Saburtalo,63.0,22,Hotel Bu,Double Room with Balcony,4.7,41.72222376354178,44.746048306010806
+175,No,Yes,Wonderful,Old Tbilisi,53.0,135,Hotel New Avlabari,Large Twin Room,1.9,41.69209658252052,44.79406059228808
+176,Yes,Yes,Exceptional,Mtatsminda,119.0,363,City Heart Hotel,Twin Room,0.7,41.693060457156996,44.78551384334914
+177,Yes,Yes,Very Good,Other,,484,Iveria Inn Hotel,Single,5.3,,
+178,No,No,Very Good,Vera,78.0,357,ibis budget Tbilisi Center,Double Room with Extra Bed,1.9,41.70761261768468,44.787408551790755
+179,No,No,Excellent,Chugureti,159.0,678,Moxy Tbilisi by Marriott,Moxy Sleeper Twin Room,1.1,41.72340168819495,44.82088685166248
+180,No,Yes,Excellent,Chugureti,55.0,61,Hotel Grandis,Double or Twin Room with Terrace,1.1,41.72340168819495,44.82088685166248
+181,Yes,No,Excellent,Vera,85.0,114,Hotel Georgian Holiday,Single Room with Private Bathroom,2.2,41.70761261768468,44.787408551790755
+182,No,Yes,Wonderful,Saburtalo,94.0,39,Sol's M2 White Modern Apartments,Standard Apartment,5.3,41.72222376354178,44.746048306010806
+183,No,Yes,Wonderful,Mtatsminda,78.0,262,9 Borbalo Street Apartment with terrace,Apartment with Terrace,1.1,41.693060457156996,44.78551384334914
+184,No,Yes,Excellent,Ortachala,63.0,83,Light Hotel,Budget Triple Room,2.4,41.67561715536923,44.80989550394795
+185,Yes,Yes,Very Good,Old Tbilisi,66.0,153,The One Terrace,Double Room,1.1,41.69209658252052,44.79406059228808
+186,No,Yes,,Other,107.0,,Feel home and enjoy your stay,One-Bedroom Apartment,9.4,,
+187,No,Yes,Good,Other,9.0,76,MARIELI HOTEL,10-Bed Mixed Dormitory Room,3.2,,
+188,No,Yes,Excellent,Chugureti,86.0,197,Ninoshvili Apartments by Picnic,Studio Apartment,2.9,41.72340168819495,44.82088685166248
+189,No,Yes,Good,Old Tbilisi,13.0,13,Guest house on Gorgasali 37,Single Bed in Dormitory Room,,41.69209658252052,44.79406059228808
+190,Yes,Yes,Very Good,Old Tbilisi,113.0,183,MUSMORE Boutique Hotel,Single Room,0.15,41.69209658252052,44.79406059228808
+191,No,Yes,Excellent,Mtatsminda,42.0,247,HOME 6,Budget Twin Room without Window,0.5,41.693060457156996,44.78551384334914
+192,No,No,Good,Old Tbilisi,18.0,136,Georgia On My Mind,Single Bed in 4-Bed Dormitory Room,,41.69209658252052,44.79406059228808
+193,No,No,Exceptional,Vake,167.0,320,Hotel S&L,Twin Room,5.2,41.70553522376798,44.75495342831405
+194,No,No,Excellent,Old Tbilisi,323.0,392,Sheraton Grand Tbilisi Metechi Palace,"Deluxe King, Guest room, 1 King",1.9,41.69209658252052,44.79406059228808
+195,No,Yes,Very Good,Old Tbilisi,132.0,465,Maison Boutique Hotel,Single Room with Balcony,0.7,41.69209658252052,44.79406059228808
+196,No,No,Wonderful,Old Tbilisi,67.0,29,Hotel Loft,Deluxe Double or Twin Room,0.35,41.69209658252052,44.79406059228808
+197,No,No,Very Good,Old Tbilisi,207.0,233,Monograph Freedom Square,Standard Double Room,0.1,41.69209658252052,44.79406059228808
+198,No,No,Wonderful,Old Tbilisi,56.0,58,Bliss Hotel,Budget Double Room,0.9,41.69209658252052,44.79406059228808
+199,Yes,Yes,Very Good,Other,75.0,262,Orchid Boutique Hotel,Deluxe Double Room,2.7,,
+200,No,Yes,Wonderful,Chugureti,56.0,39,Apartments Se7en,Studio Apartment,1.3,41.72340168819495,44.82088685166248
+201,Yes,Yes,Excellent,Ortachala,79.0,61,Hotel Boutique George,Budget Double Room,2.3,41.67561715536923,44.80989550394795
+202,No,Yes,Exceptional,Other,38.0,22,Tbilisi View House,Standard Double Room,1.9,,
+203,No,Yes,Very Good,Chugureti,63.0,56,Guest House Keria,Comfort Triple Room with Shower,1.5,41.72340168819495,44.82088685166248
+204,No,No,Excellent,Old Tbilisi,223.0,232,Courtyard by Marriott Tbilisi,"Deluxe Room, 1 King",,41.69209658252052,44.79406059228808
+205,No,Yes,Wonderful,Other,38.0,121,guest house katia tbilisi,Deluxe Room,3.2,,
+206,No,Yes,Exceptional,Mtatsminda,56.0,129,Guest House Nana,Double Room with Private Bathroom,0.35,41.693060457156996,44.78551384334914
+207,Yes,No,Exceptional,Mtatsminda,69.0,801,Tbilisi View Hotel,Standard Double Room without Window,1.5,41.693060457156996,44.78551384334914
+208,No,Yes,Good,Other,28.0,4,Guest House Gikacha,Apartment,2.4,,
+209,No,Yes,Excellent,Other,78.0,70,Hotel Delisi,Standard Single Room,6.1,,
+210,No,Yes,Good,Didube,69.0,105,Athletics Hotel,Budget Double Room,5.6,41.750520159335146,44.7815007925187
+211,Yes,Yes,Wonderful,Old Tbilisi,157.0,295,Marionn Hotel,Comfort Single Room,1.4,41.69209658252052,44.79406059228808
+212,Yes,Yes,Wonderful,Old Tbilisi,82.0,194,Citadel Express,Small Double Room,0.8,41.69209658252052,44.79406059228808
+213,No,No,Excellent,Didube,62.0,285,Iberia Didube,Budget Double or Twin Room,5.9,41.750520159335146,44.7815007925187
+214,No,Yes,Exceptional,Chugureti,110.0,72,"ApartTen ""capture old Tbilisi spirit""",Studio Apartment,1.8,41.72340168819495,44.82088685166248
+215,No,Yes,Very Good,Other,97.0,46,Hotel Pushkin,Standard Double Room,,,
+216,No,Yes,Exceptional,Other,44.0,2,Hotel MKM GROUP,Double Room,6.7,,
+217,No,Yes,Excellent,Old Tbilisi,31.0,58,Guest House Zatika,Budget Double Room,0.2,41.69209658252052,44.79406059228808
+218,No,Yes,Good,Chugureti,108.0,454,The Grove Design Hotel,Mood Room,2.9,41.72340168819495,44.82088685166248
+219,Yes,Yes,Wonderful,Vera,73.0,287,Terrace House Tbilisi,King Room with Mountain View,1.6,41.70761261768468,44.787408551790755
+220,No,No,Exceptional,Saburtalo,71.0,72,Hotel Elite Lux,Standard Twin Room,4.7,41.72222376354178,44.746048306010806
+221,Yes,Yes,Wonderful,Old Tbilisi,94.0,689,Brooch Boutique Hotel,Budget Double Room,1.4,41.69209658252052,44.79406059228808
+222,No,Yes,Wonderful,Old Tbilisi,119.0,51,Margot Old Tbilisi,Double Room with Garden View,1.5,41.69209658252052,44.79406059228808
+223,No,Yes,Wonderful,Didube,56.0,161,Hotel LU-MA,Deluxe Double Room with Bath,3.7,41.750520159335146,44.7815007925187
+224,No,Yes,Wonderful,Chugureti,44.0,13,OLD TBILISI APARTMENTS,One-Bedroom Apartment,2.3,41.72340168819495,44.82088685166248
+225,Yes,No,Very Good,Mtatsminda,158.0,770,Radius Hotel Tbilisi,Urban Twin Room,0.15,41.693060457156996,44.78551384334914
+226,Yes,No,Excellent,Old Tbilisi,56.0,98,Legend Hotel,Single Room,1.3,41.69209658252052,44.79406059228808
+227,No,Yes,Wonderful,Old Tbilisi,56.0,72,Guest house Lusia,One-Bedroom Suite,1.1,41.69209658252052,44.79406059228808
+228,Yes,Yes,Wonderful,Saburtalo,63.0,191,Alliance Hotel,Standard Single Room,3.9,41.72222376354178,44.746048306010806
+229,No,Yes,Wonderful,Chugureti,44.0,19,2B Hotel & Apartaments,Budget Double Room,1.7,41.72340168819495,44.82088685166248
+230,No,Yes,Exceptional,Vera,71.0,37,Midtown-Vera,Double Room,1.8,41.70761261768468,44.787408551790755
+231,No,Yes,Very Good,Old Tbilisi,75.0,148,Nine Hotel,Standard Single Room,1.1,41.69209658252052,44.79406059228808
+232,No,Yes,Excellent,Old Tbilisi,74.0,230,Guest House Lusi,Small Twin Room,0.6,41.69209658252052,44.79406059228808
+233,No,Yes,,Old Tbilisi,85.0,,простор,Apartment,0.45,41.69209658252052,44.79406059228808
+234,No,Yes,Very Good,Old Tbilisi,44.0,60,RRooms Old City Apartment,One-Bedroom Apartment,0.5,41.69209658252052,44.79406059228808
+235,No,Yes,Exceptional,Other,63.0,28,Sunny apartments. Tbilisi. 300 Aragveli,One-Bedroom Apartment,2.2,,
+236,Yes,Yes,Exceptional,Other,85.0,47,Basa Boutique Hotel,Budget Double Room,6.7,,
+237,Yes,No,Wonderful,Old Tbilisi,59.0,230,Eleon Boutique Hotel,Standard Double or Twin Room,0.9,41.69209658252052,44.79406059228808
+238,No,No,Wonderful,Old Tbilisi,94.0,143,King Tamar Hotel,Budget Double Room,1.4,41.69209658252052,44.79406059228808
+239,No,No,Excellent,Old Tbilisi,199.0,407,Mercure Tbilisi Old Town,Standard Double Room,1.1,41.69209658252052,44.79406059228808
+240,No,Yes,Wonderful,Chugureti,132.0,12,History Hotel Tbilisi,Superior Double Room,3.2,41.72340168819495,44.82088685166248
+241,Yes,Yes,Wonderful,Old Tbilisi,63.0,7,Big Family,Deluxe Double Room,0.45,41.69209658252052,44.79406059228808
+242,No,Yes,Good,Old Tbilisi,82.0,274,Tbilisi Inn,Double Room - Ground Floor,1.1,41.69209658252052,44.79406059228808
+243,No,Yes,Very Good,Saburtalo,97.0,367,Art Hotel Claude Monet,Standard Double Room,,41.72222376354178,44.746048306010806
+244,No,Yes,Wonderful,Old Tbilisi,63.0,30,Garry Apartment,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+245,No,Yes,Exceptional,Old Tbilisi,100.0,20,Avlabari Metro Apartments,Apartment with Balcony,1.1,41.69209658252052,44.79406059228808
+246,No,Yes,Wonderful,Old Tbilisi,16.0,586,ALCATRAZ JAIL-HOSTEL,Bed in 6-Bed Mixed Dormitory Room,0.6,41.69209658252052,44.79406059228808
+247,Yes,Yes,Excellent,Other,90.0,59,Tiflis Great View Hotel,Double Room,,,
+248,No,No,Very Good,Mtatsminda,368.0,713,Tbilisi Marriott Hotel,"Twin Room, Guest room, 2 Queen ",0.7,41.693060457156996,44.78551384334914
+249,No,Yes,Wonderful,Vera,28.0,54,Hostel Simple,Bunk Bed in Mixed Dormitory Room,2.2,41.70761261768468,44.787408551790755
+250,No,Yes,Wonderful,Saburtalo,119.0,66,Apartment in Tbilisi “Green Budapest “,Apartment with Garden View,5.1,41.72222376354178,44.746048306010806
+251,No,Yes,,Other,72.0,,apartment in tbilisi,One-Bedroom Apartment,1.5,,
+252,No,Yes,Wonderful,Other,94.0,51,Hotel Agava,Standard Double Room,9.9,,
+253,Yes,No,Excellent,Old Tbilisi,175.0,432,Old Meidan Tbilisi By Urban Hotels,Double Room with Balcony,0.8,41.69209658252052,44.79406059228808
+254,Yes,Yes,Excellent,Old Tbilisi,119.0,424,Hotel Elesa,Budget Double Room,0.8,41.69209658252052,44.79406059228808
+255,Yes,Yes,Exceptional,Old Tbilisi,26.0,24,Sunny Hostel,6-Bed Mixed Dormitory Room,0.9,41.69209658252052,44.79406059228808
+256,No,Yes,Wonderful,Vake,69.0,58,Mais Guest House,Deluxe Double or Twin Room,2.7,41.70553522376798,44.75495342831405
+257,Yes,Yes,Excellent,Saburtalo,100.0,309,Tbilotel,Single Room,,41.72222376354178,44.746048306010806
+258,Yes,No,Very Good,Old Tbilisi,85.0,246,Irmeni Hotel,Standard Single Room,1.4,41.69209658252052,44.79406059228808
+259,Yes,Yes,Very Good,Chugureti,132.0,532,Just Inn Tbilisi,Standard Double Room,,41.72340168819495,44.82088685166248
+260,Yes,Yes,Excellent,Vera,120.0,42,Hotel Vere Tower,Standard Triple Room,2.4,41.70761261768468,44.787408551790755
+261,No,Yes,Excellent,Other,38.0,136,Hotel 4You,Economy Triple Room,2.9,,
+262,No,Yes,Good,Chugureti,94.0,24,ADELTON+,Budget Twin Room,1.9,41.72340168819495,44.82088685166248
+263,No,Yes,Exceptional,Chugureti,78.0,386,D and D hotel,Budget Double Room,1.3,41.72340168819495,44.82088685166248
+264,No,Yes,Very Good,Chugureti,41.0,29,Cozy House II,One-Bedroom Apartment,1.2,41.72340168819495,44.82088685166248
+265,Yes,Yes,Wonderful,Old Tbilisi,95.0,56,Hotel VIP,Basic Triple Room,0.4,41.69209658252052,44.79406059228808
+266,Yes,Yes,Wonderful,Old Tbilisi,125.0,351,Hotel Avlabari Terrace,Double Room with Balcony,1.6,41.69209658252052,44.79406059228808
+267,No,No,Very Good,Old Tbilisi,24.0,24,Old Tbilisi,One-Bedroom Apartment,0.6,41.69209658252052,44.79406059228808
+268,Yes,No,Excellent,Mtatsminda,84.0,273,Magnolia,Budget Single Room,0.7,41.693060457156996,44.78551384334914
+269,No,Yes,Good,Chugureti,58.0,68,Hotel IMERETI,Single Room,,41.72340168819495,44.82088685166248
+270,Yes,Yes,Wonderful,Mtatsminda,63.0,79,Beaumonde Hotel Tbilisi,Standard Single Room,,41.693060457156996,44.78551384334914
+271,No,No,Very Good,Chugureti,79.0,5,"Tbilisi Chambers, Trademark Collection by Wyndham",Standard Chamber King Room  - Non-Smoking,3.1,41.72340168819495,44.82088685166248
+272,Yes,No,Wonderful,Vera,167.0,368,MIRAVERE Hotel,Standard Double or Twin Room,2.2,41.70761261768468,44.787408551790755
+273,Yes,No,Very Good,Mtatsminda,158.0,770,Radius Hotel Tbilisi,Urban Twin Room,0.15,41.693060457156996,44.78551384334914
+274,Yes,No,Excellent,Old Tbilisi,56.0,98,Legend Hotel,Single Room,1.3,41.69209658252052,44.79406059228808
+275,No,No,Very Good,Ortachala,53.0,228,Hotel King Tom,Single Room,,41.67561715536923,44.80989550394795
+276,No,Yes,Wonderful,Vera,370.0,942,Stamba Hotel,Aviator Room,1.7,41.70761261768468,44.787408551790755
+277,No,Yes,,Other,94.0,,tbilisi-gldani,One-Bedroom Apartment,1.4,,
+278,No,Yes,Excellent,Vera,96.0,290,Royal Plaza Hotel,Standard Double Room,,41.70761261768468,44.787408551790755
+279,No,Yes,Excellent,Mtatsminda,82.0,98,Ornament Hotel,Standard Double Room,1.1,41.693060457156996,44.78551384334914
+280,No,Yes,Very Good,Chugureti,16.0,169,Hi Hostel,Bed in 4-Bed Female Dormitory Room,1.9,41.72340168819495,44.82088685166248
+281,No,Yes,,Chugureti,50.0,,Hotel Roni-L,Large Double Room,2.5,41.72340168819495,44.82088685166248
+282,No,Yes,Wonderful,Old Tbilisi,62.0,124,19th century,Studio,0.25,41.69209658252052,44.79406059228808
+283,Yes,Yes,Excellent,Old Tbilisi,50.0,157,Babilina B&B,Single Room,0.45,41.69209658252052,44.79406059228808
+284,Yes,Yes,Good,Chugureti,120.0,100,Gold Tbilisi Hotel,Standard Twin Room,,41.72340168819495,44.82088685166248
+285,No,Yes,Wonderful,Old Tbilisi,65.0,43,Apartment On Gudiashvili,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+286,No,Yes,Score under 7,Old Tbilisi,37.0,212,Holiday Georgia,Budget Twin Room,0.15,41.69209658252052,44.79406059228808
+287,Yes,Yes,Exceptional,Old Tbilisi,132.0,1,"Holiday Inn Express Tbilisi Avlabari, an IHG Hotel",Standard King Room with Sofa Bed,1.3,41.69209658252052,44.79406059228808
+288,No,Yes,Excellent,Other,73.0,213,Golden Nugget Tbilisi,Classic Double Room,,,
+289,No,Yes,Exceptional,Other,56.0,62,Old Tbilisi Apartments,Two-Bedroom Apartment,1.9,,
+290,Yes,Yes,Exceptional,Old Tbilisi,124.0,5,Graf Hotel,Budget Double Room,0.15,41.69209658252052,44.79406059228808
+291,Yes,Yes,Wonderful,Chugureti,55.0,6,DownTown,Standard Double Room,1.2,41.72340168819495,44.82088685166248
+292,No,Yes,Excellent,Vake,125.0,221,Gallery Art Hotel,Double or Twin Room,3.5,41.70553522376798,44.75495342831405
+293,Yes,Yes,Very Good,Other,102.0,124,Hotel Residence Plaza,Standard Double or Twin Room,2.6,,
+294,No,Yes,Wonderful,Mtatsminda,104.0,324,Otiums Hotel,Budget Double Room,0.7,41.693060457156996,44.78551384334914
+295,No,Yes,Wonderful,Old Tbilisi,119.0,51,Margot Old Tbilisi,Double Room with Garden View,1.5,41.69209658252052,44.79406059228808
+296,No,No,Excellent,Old Tbilisi,72.0,389,Hotel Four Brothers,Budget Triple Room,,41.69209658252052,44.79406059228808
+297,Yes,Yes,Very Good,Other,85.0,198,Gold Line Hotel,Deluxe Double Room with Balcony,4.3,,
+298,No,Yes,Excellent,Other,50.0,30,Hotel Elegant 2,Double or Twin Room,3.2,,
+299,No,Yes,Exceptional,Chugureti,79.0,104,G-Old Town,Economy Twin Room,1.2,41.72340168819495,44.82088685166248
+300,No,Yes,Good,Other,55.0,36,Hotel Batoni Near Airport,Standard Double Room,5.9,,
+301,No,Yes,Very Good,Old Tbilisi,94.0,51,GTM Kapan,Double Room with Balcony,,41.69209658252052,44.79406059228808
+302,Yes,Yes,Wonderful,Chugureti,130.0,375,Communal Hotel Plekhanovi,Small Double Room,2.5,41.72340168819495,44.82088685166248
+303,Yes,Yes,Very Good,Vera,72.0,208,Hotel Beli,Single Room,1.8,41.70761261768468,44.787408551790755
+304,No,Yes,Wonderful,Old Tbilisi,62.0,124,19th century,Studio,0.25,41.69209658252052,44.79406059228808
+305,No,Yes,Exceptional,Other,46.0,120,Big Family Guest House,Standard Twin Room with Shared Bathroom,1.8,,
+306,No,Yes,Exceptional,Mtatsminda,28.0,168,Hostel Nomad,Single Bed in Female Dormitory Room,1.1,41.693060457156996,44.78551384334914
+307,No,Yes,Exceptional,Mtatsminda,94.0,199,Griboedov 13,Double Room,0.9,41.693060457156996,44.78551384334914
+308,No,Yes,Wonderful,Other,94.0,15,Boutique Hotel,Double Room,2.8,,
+309,Yes,No,Exceptional,Chugureti,185.0,371,Unfound Door - Design Hotel,Queen Room with Garden View,2.2,41.72340168819495,44.82088685166248
+310,Yes,Yes,Very Good,Old Tbilisi,96.0,403,Kalasi Hotel,Standard Single Room,0.25,41.69209658252052,44.79406059228808
+311,No,Yes,Excellent,Old Tbilisi,51.0,84,Hotel A&K,Standard King Room,1.6,41.69209658252052,44.79406059228808
+312,No,Yes,Wonderful,Old Tbilisi,69.0,113,Hotel Nicolas,Economy Double or Twin Room,0.6,41.69209658252052,44.79406059228808
+313,No,Yes,Wonderful,Old Tbilisi,65.0,226,Hotel Maria,Double Room,0.9,41.69209658252052,44.79406059228808
+314,Yes,No,Excellent,Old Tbilisi,110.0,517,Hotel Livin,King Room with Garden View,1.2,41.69209658252052,44.79406059228808
+315,No,Yes,Very Good,Saburtalo,135.0,107,Boutique Hotel MOJO,Double or Twin Room with Garden View,6.4,41.72222376354178,44.746048306010806
+316,No,Yes,Exceptional,Other,53.0,187,X Palace,Triple Room,1.5,,
+317,Yes,Yes,Exceptional,Vera,82.0,536,Lowell Hotel,Standard Single Room,1.6,41.70761261768468,44.787408551790755
+318,Yes,Yes,Very Good,Saburtalo,107.0,85,Denis hotel,Standard Double Room,3.3,41.72222376354178,44.746048306010806
+319,No,Yes,Wonderful,Vera,208.0,740,Rooms Hotel Tbilisi,Urban Queen Street Room,1.8,41.70761261768468,44.787408551790755
+320,No,Yes,Wonderful,Vera,82.0,109,Classy Apartments Central,Apartment 2,1.7,41.70761261768468,44.787408551790755
+321,Yes,Yes,Exceptional,Old Tbilisi,149.0,311,Wine Hills,Standard Triple Room,1.6,41.69209658252052,44.79406059228808
+322,No,No,Very Good,Ortachala,53.0,228,Hotel King Tom,Single Room,,41.67561715536923,44.80989550394795
+323,No,Yes,Wonderful,Vera,370.0,942,Stamba Hotel,Aviator Room,1.7,41.70761261768468,44.787408551790755
+324,No,Yes,,Other,94.0,,tbilisi-gldani,One-Bedroom Apartment,1.4,,
+325,No,Yes,Excellent,Vera,113.0,53,Vere Side Hotel,Double Room,1.9,41.70761261768468,44.787408551790755
+326,No,Yes,Wonderful,Other,28.0,11,Cozy space in Tbilisi,Double Room,2.3,,
+327,Yes,Yes,Very Good,Other,35.0,412,Paradise Hotel,Economy Single Room,6.4,,
+328,Yes,No,Very Good,Old Tbilisi,142.0,740,Hotel Aqua Liberty,Large Double Room,0.15,41.69209658252052,44.79406059228808
+329,No,Yes,Exceptional,Old Tbilisi,60.0,6,Old Town-Booking Apartment,One-Bedroom Apartment,1.1,41.69209658252052,44.79406059228808
+330,No,Yes,Excellent,Saburtalo,82.0,11,Hotel Solum Roof Top,Double Room with Balcony,3.3,41.72222376354178,44.746048306010806
+331,No,Yes,Wonderful,Old Tbilisi,125.0,369,Amante Narikala by Tbilisi Luxury Boutique Hotels,Library Twin Room,0.6,41.69209658252052,44.79406059228808
+332,Yes,No,Good,Saburtalo,80.0,162,Best Western Tbilisi Art Hotel,Standard King Room with King Bed,3.4,41.72222376354178,44.746048306010806
+333,Yes,Yes,Very Good,Mtatsminda,177.0,148,Urban Lodge Hotels,Economy Double Room,1.5,41.693060457156996,44.78551384334914
+334,No,Yes,Wonderful,Vera,174.0,118,Boutique Hotel Day Inn,Queen Room with Balcony,1.6,41.70761261768468,44.787408551790755
+335,No,Yes,,Other,60.0,,MARI,Two-Bedroom Apartment,,,
+336,Yes,No,Exceptional,Old Tbilisi,158.0,18,Hotel Banovani,Standard Double Room,1.4,41.69209658252052,44.79406059228808
+337,No,Yes,Wonderful,Other,77.0,40,Hotel Aura in Digomi,Budget Double Room,1.1,,
+338,Yes,Yes,Wonderful,Old Tbilisi,176.0,525,Sandali by Tbilisi Luxury Boutique Hotels,Double or Twin Room with City View,1.2,41.69209658252052,44.79406059228808
+339,No,Yes,Exceptional,Old Tbilisi,97.0,98,Khedi Hotel by Ginza Project,Standard Double or Twin Room,1.6,41.69209658252052,44.79406059228808
+340,No,Yes,Wonderful,Old Tbilisi,63.0,59,Apartment on Freedom Square Diuma Street,One-Bedroom Apartment,0.15,41.69209658252052,44.79406059228808
+341,No,Yes,Wonderful,Old Tbilisi,113.0,131,Hotisi Hotel,Standard King Room,1.4,41.69209658252052,44.79406059228808
+342,No,Yes,Excellent,Old Tbilisi,82.0,104,Silver Hotel,Double Room,0.25,41.69209658252052,44.79406059228808
+343,No,Yes,Good,Old Tbilisi,41.0,1,Toma’s guest house,One-Bedroom Apartment,1.3,41.69209658252052,44.79406059228808
+344,Yes,Yes,Very Good,Other,102.0,124,Hotel Residence Plaza,Standard Double or Twin Room,2.6,,
+345,No,Yes,Excellent,Old Tbilisi,63.0,83,Quality Inn Tbilisi,Budget Double Room,,41.69209658252052,44.79406059228808
+346,No,Yes,Very Good,Vera,63.0,76,Hotel MM Apartments,Budget Double Room,1.6,41.70761261768468,44.787408551790755
+347,No,Yes,Excellent,Other,38.0,224,Hotel S.R,Budget Double Room,5.9,,
+348,No,Yes,Wonderful,Chugureti,14.0,143,Bude Hostel,Bed in 6-Bed Mixed Dormitory Room,2.2,41.72340168819495,44.82088685166248
+349,Yes,No,Wonderful,Old Tbilisi,215.0,354,Castle in Old Town,Studio Apartment with Balcony under the Castle,0.5,41.69209658252052,44.79406059228808
+350,No,Yes,Excellent,Other,61.0,100,Hotel Nabadi,Large Double Room,0.6,,
+351,Yes,Yes,Wonderful,Old Tbilisi,100.0,57,Old Georgia,Standard Twin Room with City View,1.3,41.69209658252052,44.79406059228808
+352,No,Yes,Exceptional,Other,42.0,19,Green Garden - Crimea,Double Room,2.7,,
+353,Yes,Yes,Excellent,Chugureti,94.0,443,Tiflis Hotel,Budget Single Room,1.8,41.72340168819495,44.82088685166248
+354,Yes,Yes,Very Good,Old Tbilisi,63.0,93,Hotel Konka,Budget Twin Room - No Window,0.45,41.69209658252052,44.79406059228808
+355,No,Yes,Good,Vake,119.0,206,Hotel Orion Tbilisi,Standard Double Room,2.6,41.70553522376798,44.75495342831405
+356,Yes,No,Excellent,Old Tbilisi,168.0,1062,ibis Styles Tbilisi Center,Standard Double Room,0.15,41.69209658252052,44.79406059228808
+357,No,Yes,Excellent,Old Tbilisi,91.0,527,Eleven Inn Tbilisi,Double Room,1.2,41.69209658252052,44.79406059228808
+358,Yes,Yes,Exceptional,Old Tbilisi,122.0,4,Makmani Hotel,Standard Single Room,0.25,41.69209658252052,44.79406059228808
+359,No,Yes,Wonderful,Chugureti,58.0,146,Hotel Vorontsov,Small Double or Twin Room,1.3,41.72340168819495,44.82088685166248
+360,No,Yes,Wonderful,Vera,94.0,124,Gutsa Artists Mini-Hotel,Apartment,1.7,41.70761261768468,44.787408551790755
+361,No,Yes,Excellent,Other,38.0,77,Hotel Kvareli,Deluxe Double Room,6.4,,
+362,No,Yes,Wonderful,Vera,173.0,109,Blueberry Nights,Budget Double Room,1.8,41.70761261768468,44.787408551790755
+363,No,No,Very Good,Saburtalo,167.0,1216,"Holiday Inn - Tbilisi, an IHG Hotel",Standard King Room - Non-Smoking ,3.5,41.72222376354178,44.746048306010806
+364,No,Yes,Wonderful,Old Tbilisi,21.0,99,Hotel Costa,Bed in 4-Bed Mixed Dormitory Room,,41.69209658252052,44.79406059228808
+365,Yes,Yes,Exceptional,Old Tbilisi,163.0,210,Mukhrantubani Boutique Hotel,Standard Double Room,0.5,41.69209658252052,44.79406059228808
+366,Yes,Yes,Excellent,Old Tbilisi,85.0,162,Hotel Voyager,Standard King Room,1.1,41.69209658252052,44.79406059228808
+367,No,Yes,Very Good,Old Tbilisi,100.0,595,Sharden Hotel,Economy Single Room,0.5,41.69209658252052,44.79406059228808
+368,No,Yes,Wonderful,Chugureti,14.0,143,Bude Hostel,Bed in 6-Bed Mixed Dormitory Room,2.2,41.72340168819495,44.82088685166248
+369,No,No,Very Good,Chugureti,80.0,283,ibis Tbilisi Stadium,Standard Double Room,3.2,41.72340168819495,44.82088685166248
+370,No,Yes,Exceptional,Old Tbilisi,130.0,344,hotel terrace,Comfort Quadruple Room,0.4,41.69209658252052,44.79406059228808
+371,No,Yes,Wonderful,Old Tbilisi,82.0,65,Ethnograph Old Tbilisi,Standard Single Room,0.6,41.69209658252052,44.79406059228808
+372,No,Yes,Score under 7,Mtatsminda,19.0,150,your hostel,Single Bed in Dormitory Room,1.2,41.693060457156996,44.78551384334914
+373,No,Yes,Good,Other,69.0,865,Hotel Tbilisi Central by Mgzavrebi,Double or Twin Room with City View,3.1,,
+374,No,Yes,Excellent,Vera,113.0,53,Vere Side Hotel,Double Room,1.9,41.70761261768468,44.787408551790755
+375,No,Yes,Exceptional,Old Tbilisi,66.0,221,Sina Hotel,Budget Double or Twin Room,0.6,41.69209658252052,44.79406059228808
+376,No,Yes,Wonderful,Old Tbilisi,38.0,51,Guest House Nice,Triple Room with Bathroom,0.3,41.69209658252052,44.79406059228808
+377,Yes,Yes,Very Good,Chugureti,94.0,413,Elle Boutique Hotel,Small Double Room,1.7,41.72340168819495,44.82088685166248
+378,Yes,Yes,Very Good,Saburtalo,188.0,228,Meta Business Hotel By King David,Single Room,,41.72222376354178,44.746048306010806
+379,No,Yes,Good,Chugureti,88.0,191,Tbilisi Times,Standard Double or Twin Room with Garden View,1.7,41.72340168819495,44.82088685166248
+380,Yes,Yes,Very Good,Vake,116.0,311,Best Western Tbilisi City Center,Standard Single Room,2.6,41.70553522376798,44.75495342831405
+381,No,Yes,Wonderful,Other,88.0,601,Hotel West,Standard Double or Twin Room,,,
+382,Yes,Yes,Excellent,Vera,102.0,53,Hotel Verisima,Standard Double Room,2.1,41.70761261768468,44.787408551790755
+383,Yes,Yes,Wonderful,Vera,56.0,206,"Hotel ""Elesa Wera""",Budget Double Room,,41.70761261768468,44.787408551790755
+384,Yes,No,Excellent,Other,56.0,188,Jazz Hotel,Standard Double or Twin Room with Balcony,4.5,,
+385,Yes,Yes,Excellent,Other,167.0,220,Cron Palace kosher Tbilisi Hotel,Standard Double Room,2.8,,
+386,No,Yes,Wonderful,Old Tbilisi,60.0,377,Old Tbilisi Apart-Hotel,Classic Double Room,0.2,41.69209658252052,44.79406059228808
+387,Yes,Yes,Very Good,Mtatsminda,135.0,56,Hotel Bella Casa,Budget Double or Twin Room,1.3,41.693060457156996,44.78551384334914
+388,No,Yes,,Other,38.0,,"Saburtalo, mini room",Loft,,,
+389,No,Yes,Wonderful,Old Tbilisi,18.0,217,Envoy Hostel,Single Bed in 8-Bed Dormitory Room,0.8,41.69209658252052,44.79406059228808
+390,No,Yes,Wonderful,Old Tbilisi,22.0,15,Lucky Hotel,Bunk Bed in Mixed Dormitory Room,0.15,41.69209658252052,44.79406059228808
+391,No,Yes,Exceptional,Other,20.0,46,Elia Boutique Hostel,Male Dormitory Room,1.7,,
+392,No,Yes,Very Good,Vera,75.0,4,Sunset Tbilisi Luxury ApartHotel,Deluxe Double Room with Balcony,2.5,41.70761261768468,44.787408551790755
+393,No,Yes,Excellent,Other,25.0,451,Alex's Cosy Guesthouse,Double or Twin Room,2.8,,
+394,Yes,Yes,Exceptional,Mtatsminda,78.0,441,Family Hotel Kolorit Old Tbilisi,Double Room with Balcony,0.8,41.693060457156996,44.78551384334914
+395,Yes,Yes,Very Good,Other,169.0,1500,Hotels & Preference Hualing Tbilisi,Standard Twin Room,6.5,,
+396,Yes,Yes,Wonderful,Old Tbilisi,169.0,494,Old Side Boutique Hotel,Standard Double or Twin Room,0.6,41.69209658252052,44.79406059228808
+397,Yes,Yes,Wonderful,Mtatsminda,188.0,1012,Taberne Boutique Hotel Tbilisi,Standard Single Room,0.7,41.693060457156996,44.78551384334914
+398,No,Yes,Very Good,Mtatsminda,66.0,173,Check-In Hotel,Junior Suite with Balcony,1.3,41.693060457156996,44.78551384334914
+399,Yes,Yes,Excellent,Chugureti,50.0,49,"Guest House, Old-Si",Standard Apartment,2.6,41.72340168819495,44.82088685166248
+400,No,Yes,Exceptional,Other,50.0,14,Babilon Hotel Tbilisi,Family Room,4.2,,
+401,No,Yes,Exceptional,Mtatsminda,151.0,14,Tbilisi Apartment ll,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+402,No,Yes,Wonderful,Old Tbilisi,96.0,63,Wine Rock Hotel,Budget Double Room,1.2,41.69209658252052,44.79406059228808
+403,No,Yes,Exceptional,Mtatsminda,232.0,7,Luxury Apartment For Families Or Group of Visitors In City Center,Apartment,0.5,41.693060457156996,44.78551384334914
+404,No,Yes,Exceptional,Other,75.0,20,Bellis,Double Room,4.4,,
+405,No,No,Wonderful,Old Tbilisi,114.0,89,Hotel Gureli,Deluxe Single Room with Balcony,1.4,41.69209658252052,44.79406059228808
+406,No,No,Very Good,Old Tbilisi,151.0,96,Golden Tulip Design Tbilisi,Standard Room 1 Queen Bed,1.9,41.69209658252052,44.79406059228808
+407,No,Yes,Wonderful,Other,75.0,161,Wine Symphony Boutique Hotel,Standard Double Room,4.2,,
+408,No,Yes,Wonderful,Other,59.0,137,GK Villa,Double Room with Balcony,5.3,,
+409,Yes,Yes,Exceptional,Other,91.0,97,Upstairs Hotel Tbilisi,Double Room with Balcony,2.4,,
+410,No,No,Excellent,Other,88.0,157,Hotel Grand View in Tbilisi,Large Double or Twin Room,2.2,,
+411,No,Yes,Good,Chugureti,38.0,7,dinahouse2,Budget Triple Room,1.6,41.72340168819495,44.82088685166248
+412,No,Yes,Excellent,Old Tbilisi,31.0,74,Ortachala Summer House,Mixed Dormitory Room,2.1,41.69209658252052,44.79406059228808
+413,No,Yes,Score under 7,Saburtalo,100.0,3,Cosmogreen apartments in Ameri Plaza,Deluxe Apartment,3.9,41.72222376354178,44.746048306010806
+414,No,Yes,Excellent,Old Tbilisi,85.0,139,Historical Old Tbilisi,Apartment with Terrace,1.1,41.69209658252052,44.79406059228808
+415,Yes,Yes,Excellent,Vera,138.0,133,Boho Tiflis Hotel,Standard Double Room,,41.70761261768468,44.787408551790755
+416,Yes,Yes,Good,Other,63.0,76,New Hotel,Double Room,2.3,,
+417,No,Yes,Exceptional,Old Tbilisi,138.0,39,Room 19,One-Bedroom Apartment,0.5,41.69209658252052,44.79406059228808
+418,No,Yes,Excellent,Old Tbilisi,98.0,80,Cherry Garden,Standard Twin Room,1.2,41.69209658252052,44.79406059228808
+419,Yes,No,Very Good,Vera,133.0,252,Sephia Hotel,Standard Double Room,2.2,41.70761261768468,44.787408551790755
+420,No,No,Exceptional,Old Tbilisi,66.0,74,Tbilisi Center Hotel,Standard Double Room,1.3,41.69209658252052,44.79406059228808
+421,No,Yes,Exceptional,Old Tbilisi,75.0,26,Sun Apartment,Two-Bedroom Apartment,1.6,41.69209658252052,44.79406059228808
+422,No,Yes,,Chugureti,63.0,,Boutique Pirosmani,Family Room with Bathroom,2.4,41.72340168819495,44.82088685166248
+423,Yes,No,Very Good,Mtatsminda,72.0,723,Hotello,Economy Double Room,0.8,41.693060457156996,44.78551384334914
+424,No,Yes,Wonderful,Other,75.0,69,Rest Home Tbilisi,Standard Twin Room,2.4,,
+425,No,Yes,Wonderful,Chugureti,40.0,58,Sunflower Hotel,Twin Room with Shared Bathroom,1.8,41.72340168819495,44.82088685166248
+426,No,Yes,Wonderful,Mtatsminda,268.0,9,Serviced Apartment on Rustaveli Avenue 7,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+427,No,Yes,Exceptional,Mtatsminda,271.0,8,Serviced Apartment on Rustaveli Avenue,Apartment,0.6,41.693060457156996,44.78551384334914
+428,No,Yes,Good,Chugureti,104.0,36,Taste Tbilisi,Standard Single Room,2.7,41.72340168819495,44.82088685166248
+429,No,Yes,Excellent,Vera,51.0,96,Home25,Standard Quadruple Room,1.5,41.70761261768468,44.787408551790755
+430,No,No,,Vake,48.0,,Vake Super Quiet Comfy apartment,One-Bedroom Apartment,2.6,41.70553522376798,44.75495342831405
+431,No,Yes,Exceptional,Mtatsminda,155.0,5,Tbilisi Apartment I,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+432,No,Yes,Exceptional,Old Tbilisi,94.0,52,Tiflis Hut,One-Bedroom Apartment,0.2,41.69209658252052,44.79406059228808
+433,No,Yes,Excellent,Other,81.0,8,დღიური ბინა ჰუალინგში daily apartment in Hualing,One-Bedroom Apartment,6.9,,
+434,No,Yes,Exceptional,Mtatsminda,205.0,7,Serviced Apartment on Rustaveli Avenue 3,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+435,No,Yes,Score under 7,Other,50.0,103,Hotel Elegant,Double or Twin Room,7.1,,
+436,No,Yes,Good,Vera,251.0,9,Sweet Home 6 VIP at Rustaveli Avenue,Apartment,1.9,41.70761261768468,44.787408551790755
+437,No,No,Wonderful,Old Tbilisi,69.0,83,Aura Plaza Hotel,Standard Twin Room,1.1,41.69209658252052,44.79406059228808
+438,No,Yes,Wonderful,Mtatsminda,139.0,29,Tbilisi Art apartament,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+439,No,Yes,Exceptional,Old Tbilisi,41.0,39,Siemens House,Double Room with Shared Bathroom,0.45,41.69209658252052,44.79406059228808
+440,No,Yes,Exceptional,Saburtalo,104.0,3,Fully-furnished luxury apartment hosted by Beka,One-Bedroom Apartment,7.8,41.72222376354178,44.746048306010806
+441,No,Yes,Excellent,Chugureti,107.0,13,Style Apartments by Picnic,Two-Bedroom Apartment,2.3,41.72340168819495,44.82088685166248
+442,No,Yes,,Other,125.0,,The Tbilisi Experience Apartments,Two-Bedroom Apartment,5.5,,
+443,No,Yes,Exceptional,Old Tbilisi,94.0,32,Heart of Tbilisi,Apartment,1.5,41.69209658252052,44.79406059228808
+444,No,No,Excellent,Other,160.0,22,APARTMENT SIXTEEN,Three-Bedroom Apartment,2.1,,
+445,No,Yes,Excellent,Old Tbilisi,54.0,61,Epic Meidan Hotel,Economy Single Room,,41.69209658252052,44.79406059228808
+446,No,Yes,,Mtatsminda,102.0,,Old Tbilisi rustaveli,One-Bedroom Apartment,0.8,41.693060457156996,44.78551384334914
+447,No,Yes,Good,Other,82.0,37,Hotel Lux,Large Twin Room,9.9,,
+448,No,Yes,Excellent,Old Tbilisi,69.0,100,Hotel Avlabari,Twin Room,1.1,41.69209658252052,44.79406059228808
+449,No,Yes,Exceptional,Vera,96.0,6,City Center Apartment,One-Bedroom Apartment,,41.70761261768468,44.787408551790755
+450,No,Yes,Exceptional,Other,125.0,2,EVIS LTD apartments Tbilisi,One-Bedroom Apartment,2.6,,
+451,No,Yes,Wonderful,Old Tbilisi,85.0,3,Art Apartment in Kala Tbilisi Historic District,One-Bedroom Apartment,0.5,41.69209658252052,44.79406059228808
+452,No,No,Wonderful,Old Tbilisi,63.0,42,The best view on Tbilisi,Two-Bedroom Apartment,0.7,41.69209658252052,44.79406059228808
+453,No,Yes,Excellent,Old Tbilisi,82.0,120,Velvet Hotel,Economy Twin Room,1.1,41.69209658252052,44.79406059228808
+454,No,Yes,Exceptional,Saburtalo,144.0,2,Business Studio Apartment in Central Park,One-Bedroom Apartment,5.2,41.72222376354178,44.746048306010806
+455,No,Yes,Exceptional,Old Tbilisi,75.0,5,Home Galaktioni,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+456,No,No,Good,Other,97.0,76,Lisi Hills Hotel,Single Room,6.4,,
+457,No,No,Exceptional,Vera,79.0,2,Home Away From Home Tbilisi,Double Room with Garden View,2.2,41.70761261768468,44.787408551790755
+458,No,No,Exceptional,Other,94.0,2,Gulf Aquamarine Hotel,Standard Double or Twin Room,6.2,,
+459,No,No,Wonderful,Old Tbilisi,72.0,5,Panorama apartment,Two-Bedroom Apartment,,41.69209658252052,44.79406059228808
+460,No,Yes,Exceptional,Other,60.0,1,Late,One-Bedroom Apartment,7.5,,
+461,No,Yes,Very Good,Other,67.0,14,Hotel Caucase,Luxury Quadruple Room,6.7,,
+462,No,Yes,Wonderful,Vera,85.0,14,Apartment on Tatishvili,One-Bedroom Apartment,,41.70761261768468,44.787408551790755
+463,No,Yes,Exceptional,Other,90.0,8,Mary Apartament Saburtalo,One-Bedroom Apartment,7.3,,
+464,No,Yes,Exceptional,Mtatsminda,173.0,5,Harmony Apartment III,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+465,No,No,Excellent,Vake,31.0,96,Hostel Vake Garden,Quadruple Room,2.7,41.70553522376798,44.75495342831405
+466,No,Yes,,Saburtalo,98.0,,Near city center with River and City view,One-Bedroom Apartment,4.6,41.72222376354178,44.746048306010806
+467,No,No,Excellent,Chugureti,123.0,5,Wehost Apartment Near Fabrika,Apartment,2.1,41.72340168819495,44.82088685166248
+468,No,Yes,,Other,151.0,,chastni dom,Two-Bedroom Villa,4.4,,
+469,No,Yes,Wonderful,Mtatsminda,75.0,14,KUXOS Besiki Studio,Studio Apartment,0.7,41.693060457156996,44.78551384334914
+470,Yes,Yes,Very Good,Other,63.0,34,MOKO Apartments,One-Bedroom Apartment,6.5,,
+471,No,Yes,Exceptional,Chugureti,89.0,22,Apartment on Sundukiani Street Lane,Apartment with Garden View,1.4,41.72340168819495,44.82088685166248
+472,No,Yes,,Other,34.0,,One room apartment at Temqa Tbilisi,One-Bedroom Apartment,,,
+473,No,Yes,,Old Tbilisi,17.0,,Tents In Georgia,Tent,0.45,41.69209658252052,44.79406059228808
+474,No,Yes,Score under 7,Other,56.0,50,Hotel Marsel,Double Room with Balcony,3.2,,
+475,No,Yes,Very Good,Chugureti,63.0,2,Loft Pirosmani,Deluxe Apartment,2.4,41.72340168819495,44.82088685166248
+476,No,Yes,Wonderful,Old Tbilisi,60.0,15,Anastasia,Deluxe Apartment,1.3,41.69209658252052,44.79406059228808
+477,No,Yes,Wonderful,Other,76.0,14,"luxury studio with internet, Netflix , parking",One-Bedroom Apartment,3.1,,
+478,No,Yes,Exceptional,Mtatsminda,63.0,4,Nia's apartment,One-Bedroom Apartment,1.1,41.693060457156996,44.78551384334914
+479,No,Yes,Good,Chugureti,75.0,157,Harmony Hotel,Double Room with Garden View,1.3,41.72340168819495,44.82088685166248
+480,No,Yes,Exceptional,Chugureti,99.0,2,Vintage Apartment,Two-Bedroom Apartment,2.2,41.72340168819495,44.82088685166248
+481,No,Yes,,Chugureti,63.0,,home 53,One-Bedroom Apartment,2.1,41.72340168819495,44.82088685166248
+482,No,Yes,Exceptional,Mtatsminda,96.0,6,Sweet Memories•ტკბილი მოგონებები,One-Bedroom Apartment,0.8,41.693060457156996,44.78551384334914
+483,No,Yes,Excellent,Mtatsminda,218.0,12,Serviced Apartment on Rustaveli Avenue 16,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+484,No,No,Wonderful,Other,83.0,25,Neapol Boutique Hotel,Single Room with a Big Bed,2.7,,
+485,No,Yes,Wonderful,Old Tbilisi,75.0,42,Meidani Guest house,Twin Room with Private Bathroom,1.1,41.69209658252052,44.79406059228808
+486,Yes,No,Wonderful,Mtatsminda,152.0,165,Bridge Hotel,Standard Double Room,0.9,41.693060457156996,44.78551384334914
+487,No,Yes,Wonderful,Old Tbilisi,48.0,5,NATA HOST old tbilisi,Double Room,1.5,41.69209658252052,44.79406059228808
+488,No,Yes,,Mtatsminda,141.0,,Аппартамент Мтацминда,Apartment,0.6,41.693060457156996,44.78551384334914
+489,No,Yes,Wonderful,Old Tbilisi,138.0,145,Pomegranate in Old Tbilisi,Deluxe Apartment,0.35,41.69209658252052,44.79406059228808
+490,No,Yes,Wonderful,Mtatsminda,251.0,155,Dat Exx Apartments On Liberty Square,Penthouse Apartment,0.15,41.693060457156996,44.78551384334914
+491,No,Yes,Wonderful,Other,58.0,46,5 Rooms near 300 Aragveli metro station,Deluxe Double Room,2.4,,
+492,Yes,Yes,Excellent,Old Tbilisi,73.0,141,Stay Boutique,Standard Double Room,1.3,41.69209658252052,44.79406059228808
+493,No,Yes,Excellent,Chugureti,50.0,5,4you,Apartment,1.1,41.72340168819495,44.82088685166248
+494,No,Yes,Exceptional,Mtatsminda,185.0,11,NEW! - Downtown Apartment,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+495,No,Yes,Good,Saburtalo,82.0,2,Georges Apartment,One-Bedroom Apartment,5.2,41.72222376354178,44.746048306010806
+496,No,Yes,Exceptional,Old Tbilisi,100.0,52,Firuzi Apartment TBS,Studio Apartment,1.1,41.69209658252052,44.79406059228808
+497,No,Yes,Exceptional,Mtatsminda,201.0,17,Harmony Apartment,Three-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+498,No,Yes,Exceptional,Saburtalo,64.0,1,Saburtalo,One-Bedroom Apartment,6.7,41.72222376354178,44.746048306010806
+499,No,Yes,Exceptional,Other,125.0,2,EVIS LTD apartments Tbilisi,One-Bedroom Apartment,2.6,,
+500,No,No,Exceptional,Old Tbilisi,212.0,302,Paskunji Residence,Studio - Split Level,0.2,41.69209658252052,44.79406059228808
+501,No,Yes,Exceptional,Old Tbilisi,196.0,4,Tbilisi Bliss Old Town,One-Bedroom Apartment,0.9,41.69209658252052,44.79406059228808
+502,No,Yes,Good,Chugureti,38.0,5,Chubinashvili 19,One-Bedroom Apartment,2.2,41.72340168819495,44.82088685166248
+503,No,Yes,Wonderful,Old Tbilisi,125.0,232,Freedom Square Apart Hotel,Standard Double Room,0.3,41.69209658252052,44.79406059228808
+504,No,Yes,Exceptional,Other,83.0,3,Quality Area,Two-Bedroom Apartment,3.8,,
+505,No,No,Exceptional,Other,83.0,214,Tbilisi Sea Hotel,Large Twin Room,5.4,,
+506,No,Yes,,Other,63.0,,ROYAL ARCH,King Room with Balcony,4.9,,
+507,No,Yes,Good,Saburtalo,188.0,16,Sweet Home Apartment VIP 1,Apartment with Terrace,,41.72222376354178,44.746048306010806
+508,Yes,Yes,Very Good,Other,65.0,195,Hotel Diadema,Deluxe Double Room with Balcony,3.3,,
+509,No,Yes,,Other,42.0,,Tiflisi Sky 2,Double Room,4.2,,
+510,Yes,Yes,Wonderful,Old Tbilisi,130.0,6,Luxin,Standard Double Room,1.2,41.69209658252052,44.79406059228808
+511,Yes,Yes,Exceptional,Vake,63.0,4,Double Room with Private Bathroom,Double Room with Private Bathroom,2.4,41.70553522376798,44.75495342831405
+512,No,Yes,Exceptional,Vake,74.0,3,Lukas Guest House,One-Bedroom Apartment,4.2,41.70553522376798,44.75495342831405
+513,No,Yes,Exceptional,Other,75.0,91,Emis Hotel,Superior Family Room,,,
+514,No,Yes,Excellent,Chugureti,157.0,134,Dat Exx Apartments on Marjanishvili,One-Bedroom Apartment,1.8,41.72340168819495,44.82088685166248
+515,No,Yes,Wonderful,Old Tbilisi,,353,Folk Boutique Hotel,Standard Double Room,1.7,41.69209658252052,44.79406059228808
+516,Yes,Yes,Very Good,Old Tbilisi,172.0,6,GOLDEN IR-ME_NI,Deluxe Double or Twin Room,1.5,41.69209658252052,44.79406059228808
+517,No,Yes,Good,Other,75.0,93,Hotel 7 STAR,Double Room,3.3,,
+518,No,Yes,Very Good,Chugureti,63.0,2,Loft Pirosmani,Deluxe Apartment,2.4,41.72340168819495,44.82088685166248
+519,No,Yes,Wonderful,Old Tbilisi,60.0,15,Anastasia,Deluxe Apartment,1.3,41.69209658252052,44.79406059228808
+520,No,Yes,Wonderful,Other,76.0,14,"luxury studio with internet, Netflix , parking",One-Bedroom Apartment,3.1,,
+521,No,Yes,Exceptional,Mtatsminda,63.0,4,Nia's apartment,One-Bedroom Apartment,1.1,41.693060457156996,44.78551384334914
+522,No,Yes,Good,Chugureti,75.0,157,Harmony Hotel,Double Room with Garden View,1.3,41.72340168819495,44.82088685166248
+523,No,Yes,Exceptional,Chugureti,99.0,2,Vintage Apartment,Two-Bedroom Apartment,2.2,41.72340168819495,44.82088685166248
+524,No,Yes,,Chugureti,63.0,,home 53,One-Bedroom Apartment,2.1,41.72340168819495,44.82088685166248
+525,Yes,No,Exceptional,Other,44.0,51,Gis Guest House,Comfort Twin Room,3.5,,
+526,No,Yes,Good,Saburtalo,157.0,8,Obim apartments,One-Bedroom Apartment,3.3,41.72222376354178,44.746048306010806
+527,No,Yes,,Chugureti,80.0,,Sun Rise Apartment,Two-Bedroom Apartment,,41.72340168819495,44.82088685166248
+528,No,Yes,Exceptional,Old Tbilisi,125.0,46,Artemida Apartment TBS,Apartment,1.1,41.69209658252052,44.79406059228808
+529,No,Yes,Wonderful,Old Tbilisi,63.0,5,Cozy Home,One-Bedroom Apartment,1.3,41.69209658252052,44.79406059228808
+530,No,Yes,Exceptional,Saburtalo,85.0,2,apartment,One-Bedroom Apartment,3.3,41.72222376354178,44.746048306010806
+531,No,Yes,,Other,76.0,,Beka,One-Bedroom Apartment,4.9,,
+532,Yes,No,Wonderful,Vake,141.0,296,Irmisa Hotel Tbilisi,Standard Double Room,3.9,41.70553522376798,44.75495342831405
+533,No,Yes,Exceptional,Mtatsminda,186.0,7,Downtown Two-bedrom Apartment,Two-Bedroom Apartment,0.7,41.693060457156996,44.78551384334914
+534,Yes,Yes,Exceptional,Old Tbilisi,119.0,60,Tbili Metekhi Boutique Hotel,Double Room,1.3,41.69209658252052,44.79406059228808
+535,No,Yes,Wonderful,Other,68.0,12,GSS - A Apartment,One-Bedroom Apartment,5.6,,
+536,No,Yes,Exceptional,Mtatsminda,230.0,9,Apartment in the city center lll,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+537,No,Yes,Good,Vera,221.0,39,Luxury 4-Bedroom Apartment In The Center,Apartment,2.3,41.70761261768468,44.787408551790755
+538,No,Yes,Excellent,Other,63.0,6,"Квартира Варкетили, IV микрорайон корпус 404, II подъезд, IX этаж, квартира 52 А",One-Bedroom Apartment,6.4,,
+539,No,Yes,Very Good,Chugureti,75.0,61,Apartment Sharm,Apartment with Terrace,2.6,41.72340168819495,44.82088685166248
+540,No,No,Wonderful,Old Tbilisi,50.0,26,Sesili's Apartment,Apartment,0.2,41.69209658252052,44.79406059228808
+541,No,Yes,Excellent,Old Tbilisi,107.0,53,G&M,Superior Apartment,0.5,41.69209658252052,44.79406059228808
+542,No,Yes,Exceptional,Mtatsminda,182.0,7,City Luxury Apartment ll,Three-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+543,No,Yes,Wonderful,Old Tbilisi,63.0,42,Vakhtang Gorgasali apartment,Studio Apartment,1.3,41.69209658252052,44.79406059228808
+544,No,Yes,Wonderful,Other,80.0,1,Peace,One-Bedroom Apartment,,,
+545,No,Yes,Very Good,Mtatsminda,75.0,6,Tata’s Apartment,Apartment,1.1,41.693060457156996,44.78551384334914
+546,No,Yes,,Old Tbilisi,75.0,,Painters,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+547,No,Yes,Exceptional,Mtatsminda,274.0,5,Serviced Apartment on Rustaveli Avenue 9,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+548,No,Yes,Very Good,Chugureti,116.0,184,Rogas Home,Standard Double Room,1.6,41.72340168819495,44.82088685166248
+549,No,Yes,,Saburtalo,85.0,,Kobi Apartments,One-Bedroom Apartment,3.6,41.72222376354178,44.746048306010806
+550,No,Yes,Wonderful,Mtatsminda,63.0,19,Beridze Apartment,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+551,No,Yes,Exceptional,Old Tbilisi,81.0,8,La Maison #7,Apartment,0.4,41.69209658252052,44.79406059228808
+552,No,No,Very Good,Old Tbilisi,89.0,82,Epic Hotel,Economy Double or Twin Room,1.1,41.69209658252052,44.79406059228808
+553,No,Yes,Exceptional,Chugureti,75.0,24,Center Apartment,Apartment,3.2,41.72340168819495,44.82088685166248
+554,No,Yes,Exceptional,Saburtalo,45.0,36,Hotel White House,Double Room with Balcony,,41.72222376354178,44.746048306010806
+555,No,Yes,Exceptional,Other,50.0,1,2 rooms apartment in varketili,One-Bedroom Apartment,6.7,,
+556,No,Yes,,Vake,100.0,,Piccolo Casa Apartment,Standard Studio,3.3,41.70553522376798,44.75495342831405
+557,No,Yes,Very Good,Mtatsminda,63.0,15,Apartment in City Center,Two-Bedroom Apartment,0.7,41.693060457156996,44.78551384334914
+558,No,No,Wonderful,Vera,53.0,14,Tita home,One-Bedroom Apartment,1.5,41.70761261768468,44.787408551790755
+559,No,Yes,Exceptional,Saburtalo,80.0,7,Comfortable apartment,Two-Bedroom Apartment,4.3,41.72222376354178,44.746048306010806
+560,No,Yes,Exceptional,Chugureti,51.0,1,2-bedroom apartment in the center of Tbilisi,Two-Bedroom Apartment,1.2,41.72340168819495,44.82088685166248
+561,No,Yes,Excellent,Other,94.0,50,MG Apartments in Tbilisi,One-Bedroom Apartment,2.2,,
+562,No,No,Wonderful,Saburtalo,84.0,11,Apartment in Tbilisi,One-Bedroom Apartment,4.7,41.72222376354178,44.746048306010806
+563,No,Yes,Exceptional,Chugureti,63.0,12,cozy and center,One-Bedroom Apartment,1.3,41.72340168819495,44.82088685166248
+564,No,Yes,Exceptional,Other,16.0,7,G-Spot FEMALE ONLY,Bunk Bed in Female Dormitory Room  ,7.3,,
+565,No,No,Wonderful,Other,68.0,13,Apartment D. Digomi,Two-Bedroom Apartment,1.2,,
+566,No,No,Excellent,Other,124.0,169,MD Hotel Tbilisi,Double Room with Balcony,3.3,,
+567,No,Yes,Exceptional,Chugureti,102.0,1,Aida Tbilisi,One-Bedroom Apartment,1.5,41.72340168819495,44.82088685166248
+568,No,No,Wonderful,Other,51.0,13,lovely and cozy apartament in Tbilisi,One-Bedroom Apartment,9.3,,
+569,No,Yes,Wonderful,Saburtalo,68.0,61,MARCH,Studio with Garden View,4.4,41.72222376354178,44.746048306010806
+570,No,Yes,Exceptional,Chugureti,88.0,20,MM Marani,Deluxe Double or Twin Room,1.9,41.72340168819495,44.82088685166248
+571,No,Yes,Very Good,Chugureti,89.0,34,Four Rooms,Double Room with Private Bathroom,1.3,41.72340168819495,44.82088685166248
+572,No,Yes,Exceptional,Chugureti,155.0,99,Luxury Apartments on Central Avenue,Studio with Sofa Bed,2.6,41.72340168819495,44.82088685166248
+573,No,Yes,Very Good,Old Tbilisi,85.0,10,apartament MARIA,Standard Apartment,0.3,41.69209658252052,44.79406059228808
+574,Yes,Yes,Wonderful,Other,107.0,178,Hotel Doesi,Single Room - New Building,3.1,,
+575,No,Yes,Good,Old Tbilisi,63.0,16,Cozy Home,Two-Bedroom Apartment,,41.69209658252052,44.79406059228808
+576,No,Yes,,Didube,75.0,,Narvana Apartments,One-Bedroom Apartment,4.8,41.750520159335146,44.7815007925187
+577,No,Yes,Excellent,Mtatsminda,94.0,31,G&L APARTMENTS,Triple Room with Private External Bathroom,0.5,41.693060457156996,44.78551384334914
+578,No,Yes,Excellent,Chugureti,125.0,16,Yango Apartment,Two-Bedroom Apartment,1.7,41.72340168819495,44.82088685166248
+579,No,No,Excellent,Mtatsminda,96.0,137,Vista Hotel,Standard Double Room,1.1,41.693060457156996,44.78551384334914
+580,No,No,Exceptional,Chugureti,102.0,12,Boutique Hotel Alegria,Single Room with Bathroom,,41.72340168819495,44.82088685166248
+581,No,Yes,Exceptional,Old Tbilisi,68.0,31,Ana's Apartment in Old Tbilisi,Apartment,0.4,41.69209658252052,44.79406059228808
+582,Yes,No,Excellent,Other,95.0,289,Hotel Diamond, Double Room without Window,2.3,,
+583,No,Yes,Wonderful,Old Tbilisi,80.0,66,Old Tbilisi N&M,One-Bedroom Apartment,0.45,41.69209658252052,44.79406059228808
+584,No,Yes,Good,Didube,94.0,1,appartement in didube tbilisi,One-Bedroom Apartment,6.1,41.750520159335146,44.7815007925187
+585,No,Yes,Exceptional,Mtatsminda,228.0,5,Luxury Landing IV,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+586,No,Yes,Wonderful,Old Tbilisi,63.0,10,Apartment Anna- Katrin,One-Bedroom Apartment,1.3,41.69209658252052,44.79406059228808
+587,No,Yes,Wonderful,Vera,63.0,1,Vere Homestay,Large Twin Room,1.7,41.70761261768468,44.787408551790755
+588,No,Yes,Wonderful,Other,72.0,2,Гостевой дом близко к центру Тбилиси,Two-Bedroom House,2.4,,
+589,No,Yes,Good,Other,69.0,44,Hotel Shine Palace,Standard Double Room,0.2,,
+590,No,Yes,Excellent,Old Tbilisi,56.0,14,Apartment Marialisa,Two-Bedroom Apartment,0.45,41.69209658252052,44.79406059228808
+591,No,Yes,Exceptional,Old Tbilisi,157.0,125,Shiny Avlabari Apartment,Studio Apartment,,41.69209658252052,44.79406059228808
+592,Yes,No,Wonderful,Old Tbilisi,188.0,655,Hotel Passport Tbilisi,Standard Double or Twin Room,0.9,41.69209658252052,44.79406059228808
+593,No,Yes,Exceptional,Saburtalo,85.0,16,Saburtalo Apartment,One-Bedroom Apartment,3.6,41.72222376354178,44.746048306010806
+594,No,Yes,Exceptional,Other,56.0,4,VARAZI HOME,One-Bedroom Apartment,1.4,,
+595,No,No,,Other,54.0,,Heavens gate luxury apartment,One-Bedroom Apartment,0.8,,
+596,No,Yes,Very Good,Other,49.0,37,Galavani,One-Bedroom Apartment,1.9,,
+597,No,No,Wonderful,Chugureti,16.0,9,Modeli hostel,Quadruple Room,2.5,41.72340168819495,44.82088685166248
+598,No,Yes,,Other,31.0,,Varketeli-3,Double Room,6.8,,
+599,No,Yes,Wonderful,Mtatsminda,63.0,19,Beridze Apartment,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+600,No,Yes,Exceptional,Mtatsminda,50.0,2,Lia's Guest House,Double Room with Extra Bed,,41.693060457156996,44.78551384334914
+601,No,Yes,Wonderful,Chugureti,104.0,15,Apartment 54,Apartment,1.7,41.72340168819495,44.82088685166248
+602,No,No,Wonderful,Chugureti,81.0,215,Brickwall Tbilisi-Tbilisi vibe,Standard Queen Room,1.8,41.72340168819495,44.82088685166248
+603,No,Yes,Exceptional,Mtatsminda,75.0,1,Riverhouse in old Tbilisi,One-Bedroom Apartment,1.2,41.693060457156996,44.78551384334914
+604,No,Yes,Wonderful,Old Tbilisi,38.0,6,Guest House Santlis Shesakhvevi,Budget Double Room,,41.69209658252052,44.79406059228808
+605,No,Yes,Exceptional,Old Tbilisi,130.0,256,Old Tbilisi Apartments1,Family Studio,0.25,41.69209658252052,44.79406059228808
+606,No,Yes,Very Good,Old Tbilisi,100.0,81,Hotel DavidL,Standard Twin Room,,41.69209658252052,44.79406059228808
+607,No,Yes,,Other,56.0,,New eurolux hotel,Deluxe King Room,5.1,,
+608,No,Yes,Exceptional,Old Tbilisi,56.0,62,Guest house tm,Double Room with Shared Toilet,0.4,41.69209658252052,44.79406059228808
+609,No,Yes,Exceptional,Old Tbilisi,82.0,3,Avlabari apartment,One-Bedroom Apartment,1.8,41.69209658252052,44.79406059228808
+610,No,Yes,Very Good,Other,44.0,63,Best Builder,Twin Room,5.4,,
+611,Yes,Yes,Exceptional,Other,56.0,1,Sierra Hotel Tbilisi,Double or Twin Room,7.3,,
+612,No,No,,Other,100.0,,Sarmad Apartment,One-Bedroom Apartment,3.6,,
+613,No,Yes,,Other,50.0,,River Side,One-Bedroom Apartment,3.5,,
+614,No,Yes,,Other,82.0,,dighomi apartment,Three-Bedroom Apartment,0.5,,
+615,No,Yes,Wonderful,Old Tbilisi,56.0,3,Apartment in old Tbilisi,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+616,No,Yes,Exceptional,Other,45.0,21,veranda m,One-Bedroom Apartment,1.5,,
+617,No,Yes,Wonderful,Vera,88.0,22,Boutique Hotel Filosofia,Double Room,1.6,41.70761261768468,44.787408551790755
+618,No,Yes,Excellent,Other,56.0,88,Guest House Stefanos,Budget Double Room,1.7,,
+619,No,Yes,,Saburtalo,51.0,,Lulu,One-Bedroom Apartment,6.8,41.72222376354178,44.746048306010806
+620,No,Yes,Good,Other,47.0,55,Golden Star,Deluxe Double Room with Bath,3.5,,
+621,No,Yes,Very Good,Old Tbilisi,58.0,81,Sunny Tiflis,Double Room with Balcony,1.3,41.69209658252052,44.79406059228808
+622,No,Yes,Wonderful,Old Tbilisi,50.0,64,K&N Guesthouse,Double Room with Private Bathroom,1.4,41.69209658252052,44.79406059228808
+623,Yes,No,Good,Saburtalo,151.0,152,Green Queen Hotel,Superior Double Room,4.6,41.72222376354178,44.746048306010806
+624,No,Yes,Good,Old Tbilisi,63.0,16,Cozy Home,Two-Bedroom Apartment,,41.69209658252052,44.79406059228808
+625,No,Yes,,Saburtalo,73.0,,Apartments,One-Bedroom Apartment,4.1,41.72222376354178,44.746048306010806
+626,No,Yes,Very Good,Old Tbilisi,38.0,41,GUEST HOUSE HISTORIC DISTRICT,Budget Triple Room,0.9,41.69209658252052,44.79406059228808
+627,No,Yes,Exceptional,Other,70.0,1,Tuta's cozy place,One-Bedroom Apartment,8.5,,
+628,Yes,No,Excellent,Old Tbilisi,229.0,340,Badagoni Boutique Hotel Rustaveli,Deluxe Double Room with Balcony,0.1,41.69209658252052,44.79406059228808
+629,No,Yes,Wonderful,Saburtalo,78.0,33,Central Park apartments,Studio Apartment,4.5,41.72222376354178,44.746048306010806
+630,No,Yes,Good,Mtatsminda,44.0,153,Parallax Hotel and Apartments,Double Room with Shared Bathroom,0.6,41.693060457156996,44.78551384334914
+631,No,Yes,Excellent,Other,75.0,26,Lords Hotel,Standard Double Room,4.1,,
+632,Yes,Yes,Exceptional,Old Tbilisi,133.0,77,Hotel Winoterra,Double Room,1.6,41.69209658252052,44.79406059228808
+633,No,Yes,Excellent,Chugureti,75.0,11,New Lights Apartment,Studio Apartment,2.2,41.72340168819495,44.82088685166248
+634,Yes,Yes,Wonderful,Mtatsminda,207.0,30,The 10,One-Bedroom Suite,0.6,41.693060457156996,44.78551384334914
+635,No,Yes,Excellent,Old Tbilisi,107.0,643,Bricks Hotel,Economy Double Room,,41.69209658252052,44.79406059228808
+636,Yes,Yes,Exceptional,Old Tbilisi,163.0,1,Hotel 21,Standard Double or Twin Room,1.5,41.69209658252052,44.79406059228808
+637,No,Yes,Very Good,Old Tbilisi,67.0,2,Apartement in Old Tbilisi,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+638,No,Yes,Exceptional,Mtatsminda,66.0,17,TAMO Rooms,Studio with Sofa Bed,0.9,41.693060457156996,44.78551384334914
+639,No,Yes,Very Good,Chugureti,75.0,70,Tabori Apart Hotel,Budget Double or Twin Room,1.4,41.72340168819495,44.82088685166248
+640,No,Yes,Wonderful,Old Tbilisi,157.0,54,Betlemi Apartment 41,Apartment,0.8,41.69209658252052,44.79406059228808
+641,Yes,No,Wonderful,Old Tbilisi,156.0,705,Communal Hotel Sololaki,Double Room,0.8,41.69209658252052,44.79406059228808
+642,No,Yes,Exceptional,Old Tbilisi,196.0,4,Tbilisi Bliss Old Town,One-Bedroom Apartment,0.9,41.69209658252052,44.79406059228808
+643,Yes,Yes,Very Good,Other,128.0,5,Genesis Hotel Tbilisi,Standard Double Room,2.8,,
+644,No,Yes,Excellent,Other,75.0,5,Dona Palace Gold,Two-Bedroom Apartment,3.6,,
+645,No,Yes,Wonderful,Other,78.0,16,Natali Boutique Hotel,Large Double Room,1.9,,
+646,No,Yes,Wonderful,Old Tbilisi,107.0,26,Old Tbilisi Art home,Apartment,0.4,41.69209658252052,44.79406059228808
+647,No,Yes,Exceptional,Mtatsminda,491.0,6,Serviced Apartment in the City Center,Apartment,0.7,41.693060457156996,44.78551384334914
+648,No,Yes,,Old Tbilisi,59.0,,TIKO'S APPARTMENT,One-Bedroom Apartment,0.9,41.69209658252052,44.79406059228808
+649,No,Yes,,Other,82.0,,Cosy House,Two-Bedroom Apartment,8.9,,
+650,No,Yes,Exceptional,Other,69.0,49,Apartments on Akhalubani St 2,Two-Bedroom Apartment,1.5,,
+651,No,Yes,Wonderful,Old Tbilisi,75.0,37,Anzori House,Triple Room with Private Bathroom,0.7,41.69209658252052,44.79406059228808
+652,No,Yes,Wonderful,Other,67.0,173,HarmonyHome,King Room with Garden View,2.1,,
+653,No,Yes,Wonderful,Other,18.0,30,HOSTEL NUMBER 49,Mixed Dormitory Room,0.6,,
+654,No,Yes,,Other,68.0,,Gio Apartment,One-Bedroom Apartment,1.7,,
+655,No,No,Very Good,Old Tbilisi,122.0,73,City Center Apart Hotel,Deluxe Apartment,,41.69209658252052,44.79406059228808
+656,Yes,Yes,Wonderful,Old Tbilisi,232.0,160,Twentyone By Vintage Hotel Collections,Large Double Room,1.1,41.69209658252052,44.79406059228808
+657,No,Yes,Wonderful,Chugureti,107.0,36,City Center Apartments by Picnic,Two-Bedroom Apartment,2.3,41.72340168819495,44.82088685166248
+658,No,Yes,Wonderful,Chugureti,31.0,17,Red Door,Bed in 8-Bed Mixed Dormitory Room,,41.72340168819495,44.82088685166248
+659,Yes,Yes,Excellent,Old Tbilisi,78.0,42,Janashia Boutique Hotels,Twin Room with Terrace,1.4,41.69209658252052,44.79406059228808
+660,No,Yes,Exceptional,Mtatsminda,82.0,70,Twins,Family Room with Terrace,0.5,41.693060457156996,44.78551384334914
+661,Yes,Yes,Excellent,Other,160.0,90,Hotel Antique,Twin Room with Garden View,5.8,,
+662,No,Yes,Exceptional,Other,82.0,12,Luxury Apartment Tbilisi,Two-Bedroom Apartment,3.6,,
+663,No,Yes,Excellent,Old Tbilisi,44.0,141,Guesthouse Gia,Classic Triple Room,1.2,41.69209658252052,44.79406059228808
+664,No,Yes,Very Good,Other,99.0,85,Hotel Majestic,Small Twin Room,3.1,,
+665,No,Yes,Wonderful,Old Tbilisi,75.0,5,Beautiful Apartment in the heart af AVLABARI,One-Bedroom Apartment,1.1,41.69209658252052,44.79406059228808
+666,No,Yes,Excellent,Old Tbilisi,48.0,112,Your House In Tbilisi,Twin Room with Shared Bathroom,1.3,41.69209658252052,44.79406059228808
+667,No,Yes,Very Good,Mtatsminda,141.0,30,APARTAMENT OLD YARD,Apartment with Balcony,0.9,41.693060457156996,44.78551384334914
+668,No,Yes,Excellent,Chugureti,125.0,29,Cibola Boutique - B,Apartment with Balcony,1.1,41.72340168819495,44.82088685166248
+669,No,Yes,Very Good,Old Tbilisi,88.0,24,Wine Rise,Apartment,0.9,41.69209658252052,44.79406059228808
+670,Yes,Yes,Excellent,Old Tbilisi,88.0,127,Hotel Gallery,Double Room,1.1,41.69209658252052,44.79406059228808
+671,No,Yes,Wonderful,Old Tbilisi,163.0,28,Hotel Tuta,Economy Double Room,1.1,41.69209658252052,44.79406059228808
+672,No,Yes,Wonderful,Chugureti,65.0,7,Guest house Solomon,Double Room with Shared Toilet,1.1,41.72340168819495,44.82088685166248
+673,No,Yes,,Other,59.0,,GSS - B Apartment,One-Bedroom Apartment,5.6,,
+674,No,Yes,Good,Chugureti,155.0,6,tbilicity hotel,Standard Double Room,1.3,41.72340168819495,44.82088685166248
+675,No,No,Excellent,Mtatsminda,440.0,1676,Radisson Blu Iveria Hotel,Standard Room,1.4,41.693060457156996,44.78551384334914
+676,No,Yes,,Other,91.0,,Digomii,One-Bedroom Apartment,8.3,,
+677,No,Yes,Very Good,Mtatsminda,37.0,51,polonia tbilisi House,Single Room,,41.693060457156996,44.78551384334914
+678,No,Yes,Exceptional,Other,85.0,19,Best Point,One-Bedroom Apartment,1.8,,
+679,No,Yes,Wonderful,Old Tbilisi,94.0,52,Hotel at Gomi 19,Standard  Double Room,0.7,41.69209658252052,44.79406059228808
+680,No,Yes,Exceptional,Ortachala,86.0,2,holiday apartament,One-Bedroom Apartment,2.4,41.67561715536923,44.80989550394795
+681,No,Yes,Very Good,Didube,75.0,14,D'Plaza Hotel,Standard Double Room,5.3,41.750520159335146,44.7815007925187
+682,No,Yes,Very Good,Other,56.0,5,Tbilisi Holiday,Two-Bedroom Apartment,2.3,,
+683,No,Yes,Exceptional,Mtatsminda,91.0,11,Nino's Apartment in the center of Tbilisi,Apartment,1.3,41.693060457156996,44.78551384334914
+684,No,Yes,Exceptional,Mtatsminda,162.0,5,Tbilisi Apartment III,One-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+685,No,Yes,Very Good,Other,50.0,41,Hotel Isani,King Room,3.2,,
+686,No,Yes,Very Good,Old Tbilisi,201.0,10,Apartment Sweet Home at Freedom Square 2,Superior Apartment,0.1,41.69209658252052,44.79406059228808
+687,No,Yes,Wonderful,Old Tbilisi,43.0,46,Apartment in Tbilisi center Amethyst,Budget Twin Room,0.45,41.69209658252052,44.79406059228808
+688,No,Yes,Wonderful,Mtatsminda,53.0,4,Памятник архитектуры,Two-Bedroom House,1.3,41.693060457156996,44.78551384334914
+689,No,Yes,Excellent,Mtatsminda,63.0,23,lika’s Hause,One-Bedroom Apartment,1.1,41.693060457156996,44.78551384334914
+690,No,No,Exceptional,Chugureti,68.0,33,INoldtbilisi,One-Bedroom Apartment,1.1,41.72340168819495,44.82088685166248
+691,No,Yes,Wonderful,Saburtalo,144.0,69,Tbilisi Comfort Apartment,One-Bedroom Apartment,6.7,41.72222376354178,44.746048306010806
+692,No,Yes,Exceptional,Mtatsminda,182.0,10,Joyful Place,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+693,No,No,Wonderful,Chugureti,151.0,113,Hotel ZP Palace,Standard Double Room,2.1,41.72340168819495,44.82088685166248
+694,No,Yes,Very Good,Old Tbilisi,53.0,78,Sani,One-Bedroom Apartment,0.3,41.69209658252052,44.79406059228808
+695,No,No,Wonderful,Old Tbilisi,108.0,465,Doors Meidan Design Hotel,Standard Double Room,0.6,41.69209658252052,44.79406059228808
+696,No,Yes,Wonderful,Other,63.0,32,Hotel Stal+,Deluxe Twin Room,2.5,,
+697,Yes,Yes,,Other,304.0,,"Royal Tulip Hotel & Casino, Tbilisi",Standard Twin Room,2.9,,
+698,No,Yes,Wonderful,Chugureti,144.0,11,Cibola Boutique - A,Deluxe Apartment,1.1,41.72340168819495,44.82088685166248
+699,No,Yes,Exceptional,Mtatsminda,172.0,5,Luxury Landing,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+700,No,Yes,,Other,101.0,,Firas home,Two-Bedroom Apartment,6.5,,
+701,No,No,Wonderful,Vake,18.0,44,Tbili C Hostel,Bed in 6-Bed Mixed Dormitory Room,2.9,41.70553522376798,44.75495342831405
+702,Yes,Yes,Excellent,Old Tbilisi,129.0,31,Boutique Hotel,Deluxe Double Room with Balcony,0.9,41.69209658252052,44.79406059228808
+703,No,Yes,Exceptional,Vera,99.0,2,Colorful house near Rustaveli Avenue,One-Bedroom Apartment,1.7,41.70761261768468,44.787408551790755
+704,No,Yes,,Other,63.0,,Eudaimonia,One-Bedroom Apartment,1.9,,
+705,No,Yes,Excellent,Old Tbilisi,57.0,13,Flamingo Hotel,Economy Triple Room with Shared Bathroom,1.2,41.69209658252052,44.79406059228808
+706,Yes,Yes,Exceptional,Old Tbilisi,169.0,93,Omart Hotel - Gallery,Deluxe Double or Twin Room with Balcony,1.6,41.69209658252052,44.79406059228808
+707,No,Yes,Wonderful,Old Tbilisi,82.0,204,Old Tbilisi Gate,Suite,0.35,41.69209658252052,44.79406059228808
+708,No,Yes,Very Good,Old Tbilisi,63.0,4,Botanical 34,Studio Apartment,,41.69209658252052,44.79406059228808
+709,No,Yes,Wonderful,Chugureti,62.0,5,Old Tbilisi GN,One-Bedroom Apartment,1.3,41.72340168819495,44.82088685166248
+710,Yes,No,Wonderful,Chugureti,56.0,29,Guest House Old Tiflis 5,Double or Twin Room,1.3,41.72340168819495,44.82088685166248
+711,Yes,No,Excellent,Old Tbilisi,96.0,297,Hotel New Metekhi,Budget Double Room with Balcony,,41.69209658252052,44.79406059228808
+712,No,Yes,,Old Tbilisi,65.0,,Old home,One-Bedroom Apartment,0.3,41.69209658252052,44.79406059228808
+713,No,Yes,Exceptional,Mtatsminda,392.0,14,Luxury 4 Bedroom Apartment,Apartment,0.6,41.693060457156996,44.78551384334914
+714,No,Yes,Exceptional,Mtatsminda,100.0,9,Orbeliani Residence,One-Bedroom Apartment,0.7,41.693060457156996,44.78551384334914
+715,No,Yes,Exceptional,Mtatsminda,177.0,6,Luxury Landing ll,Three-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+716,No,Yes,Exceptional,Saburtalo,125.0,4,Onyx Hotel,Standard Double Room,4.4,41.72222376354178,44.746048306010806
+717,No,Yes,Exceptional,Old Tbilisi,63.0,1,Hotel Guri,Deluxe Double Room with Side Sea View,1.1,41.69209658252052,44.79406059228808
+718,Yes,Yes,Score under 7,Other,56.0,2,New Star,Large Double Room,3.7,,
+719,No,Yes,Wonderful,Old Tbilisi,218.0,197,Silver 39 Corner Hotel,Standard Double Room,0.3,41.69209658252052,44.79406059228808
+720,No,Yes,Excellent,Saburtalo,56.0,10,Badris Apartamenti,Apartment with Balcony,6.2,41.72222376354178,44.746048306010806
+721,Yes,No,Very Good,Old Tbilisi,72.0,300,Hotel Tabi,Superior King Room,0.15,41.69209658252052,44.79406059228808
+722,No,Yes,Exceptional,Mtatsminda,154.0,14,Harmony Place,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+723,No,No,Good,Chugureti,60.0,72,Kope Hotel,Single Room,1.4,41.72340168819495,44.82088685166248
+724,No,Yes,Exceptional,Chugureti,63.0,35,"Your home, Old Tbilisi",Double Room,1.6,41.72340168819495,44.82088685166248
+725,No,Yes,Good,Chugureti,82.0,38,MARJANI apartments,Standard Double Room,2.2,41.72340168819495,44.82088685166248
+726,No,Yes,Wonderful,Mtatsminda,96.0,28,RMS Rustaveli Apartments,Deluxe Double Room,0.7,41.693060457156996,44.78551384334914
+727,No,Yes,Good,Old Tbilisi,124.0,38,Lela Apartments,Apartment,0.4,41.69209658252052,44.79406059228808
+728,No,Yes,Excellent,Old Tbilisi,75.0,199,Tonusi Luxe Hotel in the Historic City Center,Standard Twin Room with Sofa,1.7,41.69209658252052,44.79406059228808
+729,No,Yes,Wonderful,Other,49.0,2,Astoria Sky,Classic Triple Room,6.6,,
+730,No,Yes,Exceptional,Other,220.0,44,Villa in Tbilisi,Villa,,,
+731,No,No,Very Good,Saburtalo,55.0,57,Hotel Medea,Double Room,4.9,41.72222376354178,44.746048306010806
+732,No,Yes,Very Good,Vake,79.0,45,GNT+,Double Room,2.6,41.70553522376798,44.75495342831405
+733,No,Yes,Very Good,Saburtalo,98.0,8,Pekini street apartment,Studio Apartment,4.2,41.72222376354178,44.746048306010806
+734,No,Yes,Wonderful,Chugureti,90.0,44,Apartment Story,Comfort Triple Room,1.9,41.72340168819495,44.82088685166248
+735,No,Yes,Wonderful,Old Tbilisi,54.0,62,Hotel Kristina,Apartment,0.45,41.69209658252052,44.79406059228808
+736,Yes,Yes,Wonderful,Old Tbilisi,143.0,5,BARSUNA,One-Bedroom Apartment,0.45,41.69209658252052,44.79406059228808
+737,No,Yes,Very Good,Old Tbilisi,107.0,55,Zharuma Caravan,Double Room with Private Bathroom,0.1,41.69209658252052,44.79406059228808
+738,No,Yes,Exceptional,Mtatsminda,113.0,18,Apartment on Gia Chanturia 5,One-Bedroom Apartment,0.7,41.693060457156996,44.78551384334914
+739,No,No,Wonderful,Old Tbilisi,82.0,196,Renaissance Hotel Tbilisi,Twin Room,1.1,41.69209658252052,44.79406059228808
+740,No,Yes,Wonderful,Old Tbilisi,36.0,53,Old District Guest House,Apartment (1 Adult),0.9,41.69209658252052,44.79406059228808
+741,No,Yes,Very Good,Old Tbilisi,69.0,21,Your home in Tbilisi,Three-Bedroom Apartment,1.3,41.69209658252052,44.79406059228808
+742,No,Yes,,Other,56.0,,Lika,One-Bedroom Apartment,1.9,,
+743,No,Yes,Very Good,Chugureti,38.0,15,Avenue Hostel,Budget Twin Room,2.3,41.72340168819495,44.82088685166248
+744,No,Yes,Exceptional,Mtatsminda,148.0,11,Heartful Home,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+745,No,No,Exceptional,Other,88.0,128,Ma Xata,King Room,1.8,,
+746,No,Yes,Exceptional,Mtatsminda,198.0,22,Rustaveli Residence,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+747,No,Yes,Exceptional,Other,88.0,41,Terrace View,Apartment with Terrace,1.8,,
+748,No,Yes,Exceptional,Vake,56.0,7,"Gardens in Vake, Tbilisi",Studio Apartment,,41.70553522376798,44.75495342831405
+749,No,Yes,Wonderful,Old Tbilisi,80.0,28,Lalis Apartment,Two-Bedroom Apartment,0.4,41.69209658252052,44.79406059228808
+750,Yes,Yes,Exceptional,Old Tbilisi,212.0,108,The House Hotel Old Tbilisi,Queen Room with Balcony,0.45,41.69209658252052,44.79406059228808
+751,No,Yes,Excellent,Chugureti,63.0,34,Apartment Fine Home,Apartment - Ground Floor,2.2,41.72340168819495,44.82088685166248
+752,No,Yes,Good,Other,44.0,27,Piano Hotel,Standard Triple Room,6.1,,
+753,No,Yes,Wonderful,Old Tbilisi,60.0,25,Meidan Palace,One-Bedroom Apartment,1.1,41.69209658252052,44.79406059228808
+754,Yes,Yes,Excellent,Mtatsminda,113.0,60,CAROUSEL HOTEL,Twin Room with Balcony,1.6,41.693060457156996,44.78551384334914
+755,No,Yes,Wonderful,Other,65.0,1,Nik’s apartment,One-Bedroom Apartment,5.4,,
+756,No,Yes,Very Good,Old Tbilisi,48.0,49,Sophie`s Garden,Budget Twin Room,,41.69209658252052,44.79406059228808
+757,No,Yes,Exceptional,Old Tbilisi,125.0,3,Apartment Elizabeth in Old Tbilisi,Two-Bedroom Apartment,0.4,41.69209658252052,44.79406059228808
+758,Yes,Yes,Exceptional,Vake,82.0,2,Art Mansarda,Studio with Balcony,3.3,41.70553522376798,44.75495342831405
+759,Yes,Yes,Good,Old Tbilisi,75.0,225,Hotel Shalimar,Queen Room with Balcony,1.1,41.69209658252052,44.79406059228808
+760,No,Yes,Good,Vake,42.0,2,Home @ Felix2,Standard Double Room,3.6,41.70553522376798,44.75495342831405
+761,Yes,Yes,Very Good,Mtatsminda,144.0,200,Brosse Garden,Standard Twin Room,,41.693060457156996,44.78551384334914
+762,No,Yes,Exceptional,Old Tbilisi,68.0,31,Malu,Apartment,0.45,41.69209658252052,44.79406059228808
+763,No,Yes,Good,Vake,63.0,67,Hotel Vake Palace,Budget Single Room,4.4,41.70553522376798,44.75495342831405
+764,No,Yes,Exceptional,Mtatsminda,204.0,13,City Luxury Apartment,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+765,No,Yes,Exceptional,Other,53.0,18,Panorama of Tbilisi,Deluxe Double Room (2 Adults + 1 Child),1.8,,
+766,No,Yes,Wonderful,Chugureti,36.0,104,gogoli family hotel,Twin Room with Shared Bathroom,2.5,41.72340168819495,44.82088685166248
+767,No,Yes,,Vake,53.0,,Vake Super Quiet Comfy apartment,One-Bedroom Apartment,2.6,41.70553522376798,44.75495342831405
+768,No,Yes,Exceptional,Vera,69.0,3,Cozy studio-apartment in the center of Tbilisi,One-Bedroom Apartment,1.9,41.70761261768468,44.787408551790755
+769,No,Yes,Exceptional,Old Tbilisi,63.0,11,DARIA,One-Bedroom Apartment,0.5,41.69209658252052,44.79406059228808
+770,Yes,No,Very Good,Old Tbilisi,109.0,75,Gallery Inn operated by zapbed,Standard Double Room,1.2,41.69209658252052,44.79406059228808
+771,No,Yes,Excellent,Mtatsminda,94.0,27,Sweet Rooms Inn,King Room,1.3,41.693060457156996,44.78551384334914
+772,No,No,Wonderful,Old Tbilisi,124.0,4,Postcard Balconies,Duplex Apartment,0.9,41.69209658252052,44.79406059228808
+773,No,No,Excellent,Old Tbilisi,98.0,84,Boutique Hotel Avlabar,Standard Single Room,1.4,41.69209658252052,44.79406059228808
+774,No,Yes,Excellent,Other,64.0,120,Hotel Garden,Double Room,,,
+775,No,Yes,Exceptional,Old Tbilisi,105.0,5,Hotel Embassy,Standard Double Room,1.1,41.69209658252052,44.79406059228808
+776,No,No,Excellent,Old Tbilisi,124.0,572,Hotel Garnet Tbilisi,Standard Double or Twin Room,0.4,41.69209658252052,44.79406059228808
+777,No,No,Very Good,Other,38.0,65,Hotel G & J,Twin Room with Shared Bathroom,5.9,,
+778,No,Yes,Excellent,Old Tbilisi,97.0,185,Hotel Kalanga,Deluxe Double or Twin Room with City View,0.6,41.69209658252052,44.79406059228808
+779,Yes,No,Good,Other,79.0,174,L Plaza Hotel,Superior Single Room,2.8,,
+780,No,Yes,,Other,55.0,,Luxury apartment,One-Bedroom Apartment,6.3,,
+781,No,No,Excellent,Other,126.0,210,Hotel Old Wall,Small Double Room,2.1,,
+782,No,Yes,Exceptional,Old Tbilisi,53.0,7,Old Town-Booking Apartment,One-Bedroom Apartment,1.1,41.69209658252052,44.79406059228808
+783,No,Yes,Exceptional,Old Tbilisi,119.0,51,Old Tbilisi Rhymes,Apartment,0.7,41.69209658252052,44.79406059228808
+784,No,Yes,Very Good,Chugureti,41.0,8,"1-bedroom rental in tbilisi, javakhishvili 24",One-Bedroom Apartment,1.3,41.72340168819495,44.82088685166248
+785,Yes,Yes,Excellent,Other,113.0,138,WESTAY Hotel,Queen Room,3.1,,
+786,No,Yes,Wonderful,Vera,68.0,47,Vere Corner Hotel,Standard Double Room,2.2,41.70761261768468,44.787408551790755
+787,No,No,Excellent,Mtatsminda,62.0,54,2nd Floor Hotel,Budget Double Room,1.2,41.693060457156996,44.78551384334914
+788,No,Yes,Wonderful,Other,44.0,163,PALAZZO,Double Room with Balcony,3.9,,
+789,No,Yes,Exceptional,Old Tbilisi,107.0,80,Apartment Paysage,Two-Bedroom Apartment,0.9,41.69209658252052,44.79406059228808
+790,No,Yes,,Chugureti,102.0,,Salome's White Studio,One-Bedroom Apartment,1.5,41.72340168819495,44.82088685166248
+791,No,Yes,Wonderful,Old Tbilisi,157.0,408,Kisi Boutique Hotel,Compact Double or Twin Room,,41.69209658252052,44.79406059228808
+792,Yes,Yes,Good,Old Tbilisi,88.0,80,Hotel MMG,Deluxe Double or Twin Room,0.2,41.69209658252052,44.79406059228808
+793,No,Yes,Very Good,Other,13.0,32,Villa Lalla,8-Bed Mixed Dormitory Room,8.8,,
+794,No,Yes,Exceptional,Old Tbilisi,55.0,73,Guest house Madonna,Standard Double Room,0.4,41.69209658252052,44.79406059228808
+795,No,Yes,,Old Tbilisi,94.0,,Apartment Ekaterine,One-Bedroom Apartment,0.4,41.69209658252052,44.79406059228808
+796,No,Yes,Exceptional,Mtatsminda,182.0,11,Pleasing Place,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+797,No,Yes,Wonderful,Other,31.0,15,Tbilisi-Marjani,Double Room,4.5,,
+798,Yes,No,Wonderful,Old Tbilisi,172.0,88,Clocks Hotel Tbilisi,Standard Double or Twin Room,1.5,41.69209658252052,44.79406059228808
+799,No,Yes,Exceptional,Old Tbilisi,38.0,17,Guest house UTA,Large Double or Twin Room,,41.69209658252052,44.79406059228808
+800,No,No,Very Good,Old Tbilisi,129.0,111,Hotel Dcorner,Deluxe Double Room with Extra Bed,0.5,41.69209658252052,44.79406059228808
+801,No,Yes,Score under 7,Mtatsminda,35.0,191,Marani Hotel and bon voyage,Twin Room with Shared Bathroom,1.1,41.693060457156996,44.78551384334914
+802,No,Yes,Excellent,Old Tbilisi,88.0,11,Hermosa Vista,Apartment,1.2,41.69209658252052,44.79406059228808
+803,No,No,Good,Other,28.0,5,Smile Guesthouse,Budget Triple Room,1.7,,
+804,Yes,Yes,Very Good,Vera,56.0,35,Hotel Kartli,Single Room,2.1,41.70761261768468,44.787408551790755
+805,No,Yes,Very Good,Chugureti,38.0,39,Guest House R&T,Twin Room with Bath,2.3,41.72340168819495,44.82088685166248
+806,No,Yes,Exceptional,Old Tbilisi,100.0,47,★ Blue Door Rhapsody ★ - Special Stay In Old Town!,Apartment,0.3,41.69209658252052,44.79406059228808
+807,Yes,Yes,Very Good,Old Tbilisi,56.0,35,Rimma Homestay,Double Room,0.4,41.69209658252052,44.79406059228808
+808,No,Yes,Wonderful,Old Tbilisi,83.0,68,Diamond Globe,Apartment with Balcony,1.1,41.69209658252052,44.79406059228808
+809,No,Yes,,Saburtalo,94.0,,Вахтанг Бочоришвили 37 Б,One-Bedroom Apartment,3.7,41.72222376354178,44.746048306010806
+810,No,Yes,Exceptional,Other,38.0,2,Overnight Flat in Tbilisi,One-Bedroom Apartment,2.7,,
+811,No,No,Wonderful,Saburtalo,178.0,47,"King David Building, Tbilisi",Studio Apartment,2.9,41.72222376354178,44.746048306010806
+812,No,No,Wonderful,Old Tbilisi,50.0,166,Nona's Guest House,Budget Double Room,0.3,41.69209658252052,44.79406059228808
+813,No,Yes,Score under 7,Other,35.0,10,old home,Standard Double Room with Two Double Beds,3.6,,
+814,No,Yes,Very Good,Chugureti,85.0,113,Mini Hotel on Aghmashenebeli Ave,Deluxe Room,,41.72340168819495,44.82088685166248
+815,No,Yes,Exceptional,Chugureti,68.0,28,Family Guest House,Double or Twin Room with Balcony,1.7,41.72340168819495,44.82088685166248
+816,No,Yes,Very Good,Chugureti,104.0,16,DazHotels,Double Room,2.7,41.72340168819495,44.82088685166248
+817,No,Yes,Good,Old Tbilisi,44.0,22,Cozy Place in Old Town,Double Room,0.5,41.69209658252052,44.79406059228808
+818,Yes,Yes,Excellent,Saburtalo,135.0,440,Ameri Plaza Tbilisi,Budget Double Room,3.9,41.72222376354178,44.746048306010806
+819,No,Yes,Excellent,Old Tbilisi,62.0,11,Apartment Ani,One-Bedroom Apartment,0.25,41.69209658252052,44.79406059228808
+820,Yes,No,Excellent,Other,140.0,117,Vinum Hotel,Superior Single Room,2.9,,
+821,No,Yes,Excellent,Old Tbilisi,44.0,41,Nika's Apartment 34,Studio Apartment,,41.69209658252052,44.79406059228808
+822,No,Yes,Wonderful,Old Tbilisi,201.0,18,SWEET HOME 7 at Freedom Square,Three-Bedroom Apartment,0.1,41.69209658252052,44.79406059228808
+823,No,Yes,Very Good,Vera,88.0,99,Demi Hotel,Double Room,2.6,41.70761261768468,44.787408551790755
+824,Yes,No,Excellent,Mtatsminda,144.0,50,Rustaveli Palace,Standard Single Room,1.4,41.693060457156996,44.78551384334914
+825,Yes,No,Good,Old Tbilisi,147.0,603,Bridge Boutique Hotel,Economy Double Room,0.9,41.69209658252052,44.79406059228808
+826,No,Yes,Good,Old Tbilisi,19.0,344,Sheni Hostel,Bed in 4-Bed Female Dormitory Room,1.8,41.69209658252052,44.79406059228808
+827,No,Yes,Score under 7,Other,63.0,1,Vangogh apartment,Apartment,2.6,,
+828,Yes,Yes,Very Good,Saburtalo,70.0,93,Avenue Hotel Tbilisi,King Room,3.6,41.72222376354178,44.746048306010806
+829,No,Yes,,Other,42.0,,"Apartment Near Subway by Goodwili , McDonald Didi digomi and trade Center Tbilisi mall",One-Bedroom Apartment,0.8,,
+830,No,Yes,Wonderful,Old Tbilisi,82.0,46,White House Taso,One-Bedroom Apartment,0.2,41.69209658252052,44.79406059228808
+831,Yes,Yes,Wonderful,Old Tbilisi,127.0,80,Rasta Maidan Hotel,Budget Twin Room,0.8,41.69209658252052,44.79406059228808
+832,No,No,Exceptional,Old Tbilisi,50.0,6,3 Rooms,Standard King Room,1.1,41.69209658252052,44.79406059228808
+833,No,Yes,Wonderful,Other,50.0,14,Bella Apartment,Apartment,2.5,,
+834,No,Yes,Wonderful,Old Tbilisi,48.0,37,Grandma`s Hotel,Apartment,0.3,41.69209658252052,44.79406059228808
+835,No,Yes,Exceptional,Old Tbilisi,100.0,13,Kuxos Machabeli 2 Studio,Apartment,0.45,41.69209658252052,44.79406059228808
+836,Yes,Yes,Very Good,Old Tbilisi,68.0,180,Hotel Garden House,Twin Room,,41.69209658252052,44.79406059228808
+837,No,Yes,Very Good,Old Tbilisi,50.0,167,Hotel Lile,Budget Double Room,,41.69209658252052,44.79406059228808
+838,No,Yes,Very Good,Old Tbilisi,24.0,98,Backpackers Hostel Tbilisi,Bed in 10-Bed Mixed Dormitory Room,0.35,41.69209658252052,44.79406059228808
+839,Yes,Yes,Wonderful,Old Tbilisi,125.0,4,Hotel Classic Suites,Deluxe Double Room,1.3,41.69209658252052,44.79406059228808
+840,No,Yes,Wonderful,Chugureti,173.0,102,Apart-Hotel David,Penthouse Apartment,1.2,41.72340168819495,44.82088685166248
+841,No,No,Very Good,Old Tbilisi,99.0,206,Point Hotel Tbilisi,Deluxe Double or Twin Room,0.3,41.69209658252052,44.79406059228808
+842,No,No,Good,Old Tbilisi,140.0,163,Tiflis House,Standard Triple Room,,41.69209658252052,44.79406059228808
+843,Yes,Yes,Wonderful,Chugureti,91.0,3,Rooms With Terrace in Hotel NB,Double Room with Terrace,2.1,41.72340168819495,44.82088685166248
+844,No,Yes,Wonderful,Old Tbilisi,56.0,101,Tina's Homestay,Economy Double Room,0.2,41.69209658252052,44.79406059228808
+845,No,No,Very Good,Vake,13.0,118,City Dorm,Bed in 6-Bed Mixed Dormitory Room,4.8,41.70553522376798,44.75495342831405
+846,No,No,Wonderful,Old Tbilisi,182.0,583,Platforma Design Hotel,Standard Double Room,0.25,41.69209658252052,44.79406059228808
+847,No,Yes,Very Good,Saburtalo,107.0,9,Apartament - Axis palace saburtalo,Apartment,4.3,41.72222376354178,44.746048306010806
+848,Yes,No,Excellent,Vake,161.0,373,Hotel Atlas Abashidze,Single Room,4.1,41.70553522376798,44.75495342831405
+849,No,Yes,Wonderful,Old Tbilisi,96.0,63,Wine Rock Hotel,Budget Double Room,1.2,41.69209658252052,44.79406059228808
+850,No,Yes,Score under 7,Chugureti,22.0,43,guest house Artisha,Male Dormitory Room,2.1,41.72340168819495,44.82088685166248
+851,No,Yes,Exceptional,Chugureti,83.0,64,Mose art Hotel,Luxury Triple Room,1.2,41.72340168819495,44.82088685166248
+852,No,No,Very Good,Old Tbilisi,36.0,17,Old tbilisi,One-Bedroom Apartment,0.7,41.69209658252052,44.79406059228808
+853,No,Yes,Excellent,Old Tbilisi,90.0,441,Apartment Tamarioni,Double Room,0.9,41.69209658252052,44.79406059228808
+854,No,Yes,Very Good,Other,125.0,602,TM Apart Hotel,Standard Double Room,3.6,,
+855,Yes,No,Very Good,Old Tbilisi,113.0,122,Gallery Palace,Standard Single Room,0.3,41.69209658252052,44.79406059228808
+856,No,Yes,Excellent,Old Tbilisi,41.0,140,Guest House Imereti,Economy Twin Room,,41.69209658252052,44.79406059228808
+857,No,Yes,Wonderful,Chugureti,50.0,178,City Hotel,Double Room,,41.72340168819495,44.82088685166248
+858,No,Yes,Excellent,Mtatsminda,138.0,63,Hotel Griboedov,Double Room,0.8,41.693060457156996,44.78551384334914
+859,No,Yes,Exceptional,Other,75.0,17,"Cozy 1-bedroom unit in Tbilisi, with amazing view",One-Bedroom Apartment,3.4,,
+860,Yes,No,Excellent,Old Tbilisi,259.0,1290,Ambassadori Tbilisi Hotel,Classic Double (Historical Building),0.5,41.69209658252052,44.79406059228808
+861,No,Yes,Exceptional,Mtatsminda,242.0,9,Rustaveli Residence III,Two-Bedroom Apartment,0.6,41.693060457156996,44.78551384334914
+862,No,Yes,Very Good,Old Tbilisi,78.0,12,your home in tbilisi,Apartment with Balcony,1.3,41.69209658252052,44.79406059228808
+863,No,No,Wonderful,Old Tbilisi,69.0,80,Two Lions Hotel,Twin Room,0.6,41.69209658252052,44.79406059228808
+864,No,Yes,,Other,75.0,,Luxery Apartment Tbilisi 2,Two-Bedroom Apartment,3.6,,
+865,No,Yes,Excellent,Mtatsminda,56.0,170,Second House Rustaveli,Apartment,1.1,41.693060457156996,44.78551384334914
+866,No,Yes,Excellent,Old Tbilisi,63.0,203,Guesthouse Kato,Family Room,0.3,41.69209658252052,44.79406059228808
+867,No,Yes,Wonderful,Old Tbilisi,47.0,37,Heart of Old Tbilisi Apartments 2,Loft,0.3,41.69209658252052,44.79406059228808
+868,Yes,Yes,Very Good,Old Tbilisi,94.0,72,Tamarisi Old Tbilisi,Standard Double Room,0.9,41.69209658252052,44.79406059228808
+869,Yes,No,Very Good,Old Tbilisi,138.0,364,Tekla Palace By Urban Hotels,Standard Single Room,0.4,41.69209658252052,44.79406059228808
+870,No,Yes,Good,Chugureti,31.0,160,Blossom hostel,Single Bed in Dormitory Room,1.1,41.72340168819495,44.82088685166248
+871,Yes,Yes,Excellent,Chugureti,141.0,110,g.Vino Boutique Hotel,Double Room with Garden View,2.5,41.72340168819495,44.82088685166248
+872,Yes,Yes,Excellent,Old Tbilisi,160.0,169,No12 Boutique Hotel,Standard Single Room,0.35,41.69209658252052,44.79406059228808
+873,No,Yes,Wonderful,Old Tbilisi,44.0,67,Guest House Marina,Deluxe Double Room with Shower,0.25,41.69209658252052,44.79406059228808
+874,No,Yes,Excellent,Old Tbilisi,77.0,167,Hotel Tourist,Standard Family Room,1.1,41.69209658252052,44.79406059228808
+875,No,Yes,Very Good,Old Tbilisi,75.0,8,Liberty Apartment And Rooms,Deluxe Double Room with Balcony,0.15,41.69209658252052,44.79406059228808
+876,Yes,Yes,Excellent,Chugureti,113.0,416,Gladius Inn Boutique Hotel,Standard Double or Twin Room,2.4,41.72340168819495,44.82088685166248
+877,No,Yes,Wonderful,Old Tbilisi,113.0,49,Old City Apartment,Apartment with Balcony,0.25,41.69209658252052,44.79406059228808
+878,Yes,Yes,Very Good,Chugureti,107.0,228,Margi Boutique Hotel,Standard Double or Twin Room,2.4,41.72340168819495,44.82088685166248
+879,No,Yes,Very Good,Vake,31.0,37,Birdhouse rooms,Twin Room,2.7,41.70553522376798,44.75495342831405
+880,No,Yes,Exceptional,Old Tbilisi,129.0,215,3 Heritage Rooms,Twin Room with Bathroom,0.3,41.69209658252052,44.79406059228808
+881,No,Yes,Exceptional,Old Tbilisi,55.0,4,Bonus Inn,Standard Twin Room with Mountain View,,41.69209658252052,44.79406059228808
+882,Yes,No,Wonderful,Vera,163.0,115,Boutique Hotel British House,Budget Double Room,1.8,41.70761261768468,44.787408551790755
+883,Yes,No,Wonderful,Chugureti,176.0,261,Elea Old Tbilisi Hotel,Double Room,,41.72340168819495,44.82088685166248
+884,No,No,Very Good,Old Tbilisi,86.0,189,Hotel Cordata,Twin Room with Balcony,0.4,41.69209658252052,44.79406059228808
+885,No,Yes,Very Good,Chugureti,161.0,295,Urban Apartments 116,Standard Double or Twin Room with Garden View,2.1,41.72340168819495,44.82088685166248
+886,No,Yes,Wonderful,Old Tbilisi,45.0,4,Chocolate Studio In Old Tbilisi,Superior Single Room,1.5,41.69209658252052,44.79406059228808
+887,No,Yes,Exceptional,Mtatsminda,144.0,1,KuXoS Apartment on Zubalashvilebi Street,Two-Bedroom Apartment,0.8,41.693060457156996,44.78551384334914
+888,No,No,Good,Mtatsminda,105.0,240,Opera Tbilisi Old Art Boutique Hotel,Standard Single Room,1.1,41.693060457156996,44.78551384334914
+889,No,Yes,Exceptional,Chugureti,56.0,10,Apartment Mari,One-Bedroom Apartment,1.1,41.72340168819495,44.82088685166248
+890,No,No,Very Good,Mtatsminda,25.0,63,Manana House,Apartment,1.1,41.693060457156996,44.78551384334914
+891,No,Yes,Excellent,Mtatsminda,138.0,199,Shota Rustaveli Aparthotel 14 AVE,Apartment,0.7,41.693060457156996,44.78551384334914
+892,Yes,Yes,Exceptional,Other,53.0,65,Georgian Hosts Tbilisi,Budget Double Room,2.5,,
+893,No,Yes,,Other,65.0,,kvartira,One-Bedroom Apartment,6.2,,
+894,No,Yes,Exceptional,Other,51.0,57,Eco-House Tbilisi,Twin Room with Garden View,3.1,,
+895,No,No,Very Good,Other,51.0,377,Hotel Kavela,Standard Double Room,4.2,,
+896,No,No,Wonderful,Mtatsminda,88.0,162,3 Rooms Hotel,Double Room,0.6,41.693060457156996,44.78551384334914
+897,No,Yes,Wonderful,Saburtalo,80.0,36,Tbilisi Apartment Tennis court,King Studio with Sofa Bed,3.7,41.72222376354178,44.746048306010806
+898,No,Yes,Very Good,Mtatsminda,44.0,87,Fifth Element,Twin Room,,41.693060457156996,44.78551384334914
+899,No,Yes,Wonderful,Old Tbilisi,72.0,59,Heyvany,Budget Double Room,1.9,41.69209658252052,44.79406059228808
+900,No,Yes,Very Good,Old Tbilisi,102.0,332,Hotel Aivani Old Tbilisi,Economy Double Room,0.9,41.69209658252052,44.79406059228808
+901,No,Yes,Excellent,Other,113.0,170,Elia Palace Hotel,Deluxe Double or Twin Room with Balcony,1.8,,
+902,Yes,No,Exceptional,Chugureti,204.0,106,Marjan Plaza Hotel,Budget Twin Room,1.7,41.72340168819495,44.82088685166248
+903,No,Yes,Wonderful,Old Tbilisi,53.0,35,Sunny Apartments,One-Bedroom Apartment,1.2,41.69209658252052,44.79406059228808
+904,No,Yes,Exceptional,Other,31.0,57,Tbilisi guesthouse Nini,Triple Room,2.9,,
+905,Yes,No,Excellent,Other,192.0,2408,Hotel Tbilisi Tower,Deluxe Single Room,9.5,,
+906,No,No,Exceptional,Old Tbilisi,45.0,29,Aquarium,One-Bedroom Apartment,0.5,41.69209658252052,44.79406059228808
+907,No,Yes,Exceptional,Old Tbilisi,395.0,135,Luxury Duplex Studios - City Center,Duplex Studio,0.15,41.69209658252052,44.79406059228808
+908,No,Yes,Exceptional,Chugureti,70.0,18,Gios House,One-Bedroom Apartment,1.1,41.72340168819495,44.82088685166248
+909,Yes,No,Good,Old Tbilisi,75.0,254,Hotel Vita,Budget Double Room,,41.69209658252052,44.79406059228808
+910,No,Yes,Wonderful,Old Tbilisi,63.0,68,Apartment Botanikuri 15,Deluxe Double Room,0.9,41.69209658252052,44.79406059228808
+911,Yes,No,Very Good,Other,76.0,63,Grand GMP,Double Room - Disability Access,4.1,,
+912,Yes,No,Very Good,Chugureti,112.0,119,City Avenue Hotel,Classic Double Room,2.4,41.72340168819495,44.82088685166248
+913,No,No,Very Good,Old Tbilisi,152.0,531,Citadines City Centre Tbilisi Apart`hotel,Studio Classic,0.1,41.69209658252052,44.79406059228808
+914,No,Yes,Exceptional,Old Tbilisi,75.0,99,Rezis sweet home,One-Bedroom Apartment,0.15,41.69209658252052,44.79406059228808
+915,No,Yes,Exceptional,Other,47.0,29,Guest House Eden,Twin Room with Extra Bed,3.7,,
+916,No,No,Excellent,Old Tbilisi,67.0,438,Hotel Tato,Standard King Room,1.5,41.69209658252052,44.79406059228808
+917,No,Yes,Wonderful,Didube,63.0,10,City Center Apartment,One-Bedroom Apartment,3.6,41.750520159335146,44.7815007925187
+918,No,Yes,Excellent,Other,50.0,101,Golden Way,Double Room,3.9,,
+919,No,Yes,Exceptional,Old Tbilisi,107.0,58,Lebu Apartment TBS,Apartment,1.1,41.69209658252052,44.79406059228808
+920,Yes,Yes,Very Good,Other,78.0,182,Chveni sakhli,Comfort Twin Room,6.1,,
+921,Yes,No,Very Good,Old Tbilisi,125.0,805,Hotel Zeg,Double Room,0.35,41.69209658252052,44.79406059228808
+922,Yes,Yes,Exceptional,Other,63.0,44,Veronika Home Tbilisi,Double Room with Balcony,5.3,,
+923,No,Yes,,Old Tbilisi,16.0,,Biker Guesthouse,Mixed Dormitory Room,0.25,41.69209658252052,44.79406059228808
+924,No,Yes,Very Good,Didube,61.0,132,The K Tbilisi,Standard Double Room,3.7,41.750520159335146,44.7815007925187
+925,No,Yes,Wonderful,Chugureti,111.0,67,Iren river side apartments,One-Bedroom Apartment,,41.72340168819495,44.82088685166248
+926,No,Yes,Wonderful,Other,41.0,29,Apartment Zaziashvili 30,Single Room with Bathroom,2.9,,
+927,No,Yes,Exceptional,Old Tbilisi,78.0,11,Old Gold Anteon,Studio Apartment,0.25,41.69209658252052,44.79406059228808
+928,No,No,Exceptional,Other,60.0,1,House at Ortachala,Apartment,2.3,,
+929,No,Yes,Excellent,Chugureti,35.0,314,Hostel Violet,Large Double Room,2.6,41.72340168819495,44.82088685166248
+930,No,Yes,Good,Vake,49.0,41,vake-house,Double Room,2.9,41.70553522376798,44.75495342831405
+931,No,No,Very Good,Chugureti,100.0,46,Coral Boutique Hotel,Double or Twin Room,2.3,41.72340168819495,44.82088685166248
+932,No,Yes,Exceptional,Old Tbilisi,82.0,103,Mimino T&G,Double Room with Garden View,0.9,41.69209658252052,44.79406059228808
+933,No,Yes,Score under 7,Other,40.0,13,Hotel Texas,Single Room,8.7,,
+934,No,Yes,Wonderful,Old Tbilisi,47.0,48,Guest House Marina 2,Double Room with Balcony,0.25,41.69209658252052,44.79406059228808
+935,No,No,Good,Chugureti,58.0,29,English Home Hotel Tbilisi,Economy Double Room,2.2,41.72340168819495,44.82088685166248
+936,No,Yes,,Other,129.0,,Natali Apartment,Three-Bedroom Apartment,2.8,,
+937,Yes,No,Excellent,Old Tbilisi,138.0,494,Sole Palace,Double or Twin Room with Balcony,1.4,41.69209658252052,44.79406059228808
+938,No,Yes,Wonderful,Chugureti,69.0,5,Apartment 55,One-Bedroom Apartment,1.6,41.72340168819495,44.82088685166248
+939,No,Yes,Exceptional,Mtatsminda,174.0,11,Rustaveli Residence1,Two-Bedroom Apartment,0.5,41.693060457156996,44.78551384334914
+940,No,No,Wonderful,Old Tbilisi,113.0,321,Hotel Frida,Superior Double or Twin Room,0.45,41.69209658252052,44.79406059228808
+941,No,Yes,Excellent,Chugureti,61.0,4,Natia,One-Bedroom House,1.8,41.72340168819495,44.82088685166248
+942,No,Yes,Exceptional,Chugureti,162.0,218,5 STAR APART HOTEL,Standard Studio,2.1,41.72340168819495,44.82088685166248
+943,Yes,Yes,Good,Mtatsminda,107.0,52,Hotel Sanapiro Tbilisi,Deluxe Room,,41.693060457156996,44.78551384334914
+944,No,Yes,Score under 7,Other,82.0,519,Hotel Lilo near Airport,Quadruple Room with Private Bathroom,3.3,,
+945,No,No,Good,Old Tbilisi,44.0,100,Leila Apartment,Standard Apartment,0.15,41.69209658252052,44.79406059228808
+946,No,Yes,Exceptional,Chugureti,67.0,180,NAIKE,Deluxe Double Room with Extra Bed,,41.72340168819495,44.82088685166248
+947,No,Yes,,Old Tbilisi,85.0,,Cozy studio in old Tbilisi,One-Bedroom Apartment,0.3,41.69209658252052,44.79406059228808
+948,No,No,Good,Other,68.0,297,Rogalux Blue,Standard Single Room,6.7,,
+949,No,Yes,Wonderful,Old Tbilisi,113.0,241,Orden Hotel,Standard King Room,1.2,41.69209658252052,44.79406059228808
+950,No,Yes,,Saburtalo,45.0,,apartament Stay a while,Studio Apartment,5.6,41.72222376354178,44.746048306010806
+951,No,No,Very Good,Mtatsminda,113.0,342,Rustaveli Hotel,Standard Double Room,,41.693060457156996,44.78551384334914
+952,No,Yes,Excellent,Old Tbilisi,69.0,163,Bonus Hotel,Twin Room with City View,1.1,41.69209658252052,44.79406059228808
+953,No,Yes,Excellent,Old Tbilisi,113.0,241,Boutique Hotel Villa Mtiebi,Standard Double Room,0.4,41.69209658252052,44.79406059228808
+954,No,No,Exceptional,Saburtalo,59.0,3,Glass Dome Guesthouse - Tbilisi City Center,Double Room with Balcony,3.6,41.72222376354178,44.746048306010806
+955,Yes,No,Very Good,Mtatsminda,127.0,152,Orbeliani Residence Hotel,Standard Double or Twin Room,0.6,41.693060457156996,44.78551384334914
+956,Yes,No,Very Good,Chugureti,185.0,579,Urban Park Hotels,Economy Double Room,1.7,41.72340168819495,44.82088685166248
+957,No,Yes,Exceptional,Old Tbilisi,56.0,5,Guest house Beautiful Avlabar,Large Double or Twin Room,0.9,41.69209658252052,44.79406059228808
+958,No,No,Very Good,Vera,116.0,34,Pino Vere Palace Hotel,Standard Double Room,2.3,41.70761261768468,44.787408551790755
+959,No,Yes,Wonderful,Old Tbilisi,41.0,61,Gomi13,Budget Double Room,0.7,41.69209658252052,44.79406059228808
+960,Yes,No,Very Good,Vera,159.0,821,Urban Boutique Hotel,Economy Double or Twin Room,1.7,41.70761261768468,44.787408551790755
+961,No,Yes,Very Good,Chugureti,35.0,4,Near Fabrika,Double Room,,41.72340168819495,44.82088685166248
+962,No,Yes,Wonderful,Old Tbilisi,47.0,27,Metta Tbilisi Apartment,One-Bedroom Apartment,0.4,41.69209658252052,44.79406059228808
+963,Yes,No,Wonderful,Old Tbilisi,177.0,341,Tiflis Palace,Standard Double Room,,41.69209658252052,44.79406059228808
+964,Yes,Yes,Excellent,Vera,132.0,403,Vera Hills Boutique Hotel,Economy Double or Twin Room,1.7,41.70761261768468,44.787408551790755
+965,No,Yes,Wonderful,Other,75.0,89,Boutique Hotel Dany,Standard Double or Twin Room,2.8,,
+966,No,Yes,Wonderful,Old Tbilisi,78.0,137,Betlemi Old Town Hotel,Comfort Double Room,0.7,41.69209658252052,44.79406059228808
+967,No,No,Good,Other,80.0,644,Gtm Plaza,Standard Single Room,3.3,,
+968,Yes,Yes,Wonderful,Didube,94.0,83,Hotel Okriba Tbilisi,Standard Double or Twin Room,6.8,41.750520159335146,44.7815007925187
+969,Yes,No,Excellent,Old Tbilisi,91.0,29,RASTA MAIDAN HOTEL,Budget Double or Twin Room,0.9,41.69209658252052,44.79406059228808
+970,No,Yes,Wonderful,Old Tbilisi,38.0,176,Apartment Panorama,One-Bedroom Apartment,1.4,41.69209658252052,44.79406059228808
+971,No,Yes,Exceptional,Old Tbilisi,75.0,70,Apartamenti Gomi 17,Apartment - Ground Floor,0.7,41.69209658252052,44.79406059228808
+972,No,Yes,Very Good,Vera,69.0,80,Hotel Reverence,Twin Room,2.3,41.70761261768468,44.787408551790755
+973,No,Yes,Excellent,Vake,75.0,15,Piccolo Casa Bella Hotel,Small Double Room,3.3,41.70553522376798,44.75495342831405
+974,No,No,Wonderful,Mtatsminda,201.0,1201,Shota @ Rustaveli Boutique Hotel,Standard Double Room,0.5,41.693060457156996,44.78551384334914
+975,No,Yes,Very Good,Saburtalo,63.0,22,Hotel Bu,Double Room with Balcony,4.7,41.72222376354178,44.746048306010806
+976,Yes,Yes,Excellent,Old Tbilisi,122.0,269,Sharden Villa Boutique Hotel,Standard Single Room,0.6,41.69209658252052,44.79406059228808
+977,No,Yes,Very Good,Old Tbilisi,73.0,20,Hotel Diplomat,Small Single Room,1.1,41.69209658252052,44.79406059228808
+978,No,Yes,Wonderful,Vera,82.0,2,Vera City Center Apartment,One-Bedroom Apartment,,41.70761261768468,44.787408551790755
+979,No,Yes,Exceptional,Old Tbilisi,61.0,79,Hotel Marioni,Twin Room,0.8,41.69209658252052,44.79406059228808
+980,No,Yes,Exceptional,Other,31.0,52,Big House,Single Room,4.8,,
+981,Yes,No,Very Good,Old Tbilisi,129.0,603,KMM Hotel,Budget Double Room,,41.69209658252052,44.79406059228808
+982,No,Yes,,Didube,56.0,,Tbilisi didube appartement daily,One-Bedroom Apartment,5.8,41.750520159335146,44.7815007925187
+983,No,No,Excellent,Old Tbilisi,113.0,322,Central Gate Boutique Hotel Tbilisi,Small Double Room,0.3,41.69209658252052,44.79406059228808
+984,Yes,No,Excellent,Old Tbilisi,138.0,451,Hotel City,Double Room,0.15,41.69209658252052,44.79406059228808
+985,No,Yes,Good,Chugureti,49.0,64,Yard-11 Hotel,Economy Twin Room,1.4,41.72340168819495,44.82088685166248
+986,No,No,Very Good,Old Tbilisi,28.0,20,Guesthouse Zeinabi,Single Room,0.6,41.69209658252052,44.79406059228808
+987,Yes,Yes,Very Good,Chugureti,113.0,516,Old City Boutique Hotel,Deluxe Double Room,1.2,41.72340168819495,44.82088685166248
+988,No,No,Wonderful,Vera,153.0,273,Barnovi Boutique Hotel,Deluxe Twin Room,1.6,41.70761261768468,44.787408551790755
+989,Yes,Yes,Wonderful,Old Tbilisi,197.0,841,Hotel Flower,Double or Twin Room with City View,0.45,41.69209658252052,44.79406059228808
+990,No,Yes,Exceptional,Saburtalo,107.0,120,ApartHotel Otin,Superior Apartment,5.1,41.72222376354178,44.746048306010806
+991,No,No,Excellent,Mtatsminda,70.0,28,Opera Apartment Very Heart Of Tbilisi,Apartment,0.9,41.693060457156996,44.78551384334914
+992,No,Yes,Exceptional,Old Tbilisi,100.0,259,Botanical 21,One-Bedroom Apartment,,41.69209658252052,44.79406059228808
+993,Yes,No,Wonderful,Chugureti,90.0,40,Tea for Two Hotel,Standard Double Room,1.5,41.72340168819495,44.82088685166248
+994,No,Yes,Wonderful,Old Tbilisi,44.0,66,Guest House Rampa,Single Room with Private Bathroom,,41.69209658252052,44.79406059228808
+995,No,No,Wonderful,Chugureti,120.0,30,TownHouse Tbilisi Boutique Hotel,Double or Twin Room with City View,2.1,41.72340168819495,44.82088685166248
+996,No,Yes,Wonderful,Saburtalo,75.0,43,Ann's Apartment,One-Bedroom Apartment,,41.72222376354178,44.746048306010806
+997,No,Yes,Very Good,Chugureti,69.0,101,Hotel Darchi,Triple Room,2.1,41.72340168819495,44.82088685166248
+998,No,Yes,Wonderful,Old Tbilisi,50.0,103,GTNL Aparthotel,One-Bedroom Apartment,0.35,41.69209658252052,44.79406059228808
+999,Yes,Yes,Wonderful,Old Tbilisi,79.0,226,Georgia Tbilisi GT Hotel,Single Room,0.45,41.69209658252052,44.79406059228808

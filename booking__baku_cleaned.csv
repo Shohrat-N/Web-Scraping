@@ -1,0 +1,608 @@
+,breakfast,cancelation,guest_reviews,location,price_AZN,review_number,title,type_room,distance_km,latitude,longitude
+0,No,Yes,Very Good,Sabayil,50.0,742,Center Hotel Baku,Economy Double Room,0.15,40.34018472008257,49.81870865057885
+1,Yes,Yes,Very Good,Sabayil,35.0,101,Madinah Hotel Baku,Single Room,2.3,40.34018472008257,49.81870865057885
+2,Yes,Yes,Very Good,Sabayil,98.0,253,Shirvanshah Hotel,Budget Single Room,0.7,40.34018472008257,49.81870865057885
+3,No,No,Very Good,Sabayil,10.0,745,SAHIL Hostel & Hotel,Bed in 10-Bed Mixed Dormitory Room,0.6,40.34018472008257,49.81870865057885
+4,No,Yes,Very Good,Sabayil,26.0,22,La Villa Hotel Old Baku,Economy Double or Twin Room,0.6,40.34018472008257,49.81870865057885
+5,No,Yes,Wonderful,Sabayil,180.0,1126,The Merchant Baku, Double Room No Window,0.35,40.34018472008257,49.81870865057885
+6,No,No,Wonderful,Sabayil,82.0,299,Art Club,Standard Double Room,0.8,40.34018472008257,49.81870865057885
+7,No,Yes,Good,Sabayil,20.0,62,Red Roof Hotel,Double Room with Garden View,2.9,40.34018472008257,49.81870865057885
+8,No,Yes,Good,Other,26.0,47,ATFK Hotel Baku,Basic Single Room,4.7,,
+9,No,Yes,Very Good,Nasimi,10.0,295,Hostello Hostel,Upper Bunk Bed in Female Dormitory Room 3,1.3,40.39482299502607,49.82684828968684
+10,Yes,Yes,Excellent,Sabayil,45.0,107,ZamZam Hotel,Standard Double or Twin Room,2.4,40.34018472008257,49.81870865057885
+11,No,Yes,Good,Other,45.0,292,Inside City Hotel Baku,Standard Double Room,2.7,,
+12,Yes,Yes,Very Good,Nasimi,81.0,260,Grand Midway Hotel,Budget Double or Twin Room,0.3,40.39482299502607,49.82684828968684
+13,Yes,Yes,Wonderful,Other,53.0,30,Avenue Hotel Baku by Smart,Budget Double Room,6.8,,
+14,Yes,Yes,Good,Sabayil,60.0,14,Sera Boutique Hotel,Standard Double Room,0.1,40.34018472008257,49.81870865057885
+15,Yes,Yes,Exceptional,Yasamal,80.0,258,Home Boutique Hotel,Twin Room with Private Bathroom,1.6,40.37910692339686,49.809651649057464
+16,No,Yes,Very Good,Nasimi,45.0,16,Access Hotel,Twin Room with Bathroom,1.8,40.39482299502607,49.82684828968684
+17,No,Yes,Exceptional,Other,11.0,2,Ijaz inn,Single Room with Shared Shower and Toilet,6.7,,
+18,No,Yes,Very Good,Sabayil,96.0,145,Sapphire Inn Hotel,Business Double or Twin Room,0.7,40.34018472008257,49.81870865057885
+19,No,Yes,Very Good,White City,181.0,2298,Baku Marriott Hotel Boulevard,Standard Guest Room with 2 Twin/Single Bed(s),3.9,40.38191540820948,49.88996746617085
+20,No,Yes,Excellent,Nasimi,65.0,81,Clover Hotel Baku,Standard Single Room,1.6,40.39482299502607,49.82684828968684
+21,Yes,Yes,Excellent,Sabayil,79.0,256,Hotel Square Inn,Standard Double or Twin Room,0.25,40.34018472008257,49.81870865057885
+22,Yes,Yes,Excellent,Sabayil,65.0,497,Home Suites Baku-Halal Hotel,Superior Single Room,2.5,40.34018472008257,49.81870865057885
+23,Yes,Yes,Good,Yasamal,50.0,296,Passage Boutique Hotel,Single Room with Bath,0.25,40.37910692339686,49.809651649057464
+24,No,Yes,Good,Other,56.0,192,Arion Hotel Baku,Double or Twin Room with Spa Access,,,
+25,No,Yes,Exceptional,Sabayil,180.0,3,VIP Apartment MARIOTT,Apartment with Sea View,0.8,40.34018472008257,49.81870865057885
+26,No,Yes,Excellent,Yasamal,135.0,134,Mogan Hotel Baku,Standard Double Room,1.5,40.37910692339686,49.809651649057464
+27,No,Yes,Wonderful,Sabayil,189.0,339,Landmark Hotel Baku,Deluxe Double Room with City View,1.3,40.34018472008257,49.81870865057885
+28,Yes,Yes,Very Good,Sabayil,125.0,103,White Boutique Baku Hotel,Standard Double Room,0.1,40.34018472008257,49.81870865057885
+29,Yes,Yes,,Sabayil,36.0,,Grand Palace,Double Room with Balcony,3.6,40.34018472008257,49.81870865057885
+30,Yes,No,Very Good,Nasimi,86.0,216,Dondar Hotel Formula 1 View,Economy Single Room,1.6,40.39482299502607,49.82684828968684
+31,Yes,Yes,Very Good,Sabayil,150.0,763,Promenade Hotel Baku,Budget Double Room ( No Window ) ,0.7,40.34018472008257,49.81870865057885
+32,No,Yes,Good,Nasimi,131.0,489,Sapphire Hotel,Double or Twin Room,0.6,40.39482299502607,49.82684828968684
+33,Yes,No,Score under 7,Sabayil,43.0,177,Old City Inn Hotel,Standard Single Room,0.4,40.34018472008257,49.81870865057885
+34,No,Yes,Good,Sabayil,54.0,99,Qala Hotel,Budget Double Room,0.6,40.34018472008257,49.81870865057885
+35,No,Yes,Score under 7,Sabayil,11.0,63,Centrum Hotel&Hostel,Mixed Dormitory Room,0.3,40.34018472008257,49.81870865057885
+36,No,Yes,,Other,77.0,,ApartamentıAbuArena,Two-Bedroom Apartment,3.5,,
+37,No,Yes,,Other,72.0,,Xatai apartment,Two-Bedroom Apartment,3.4,,
+38,No,No,Wonderful,Nasimi,11.0,2,Hostello Baku,Bunk Bed in Male Dormitory Room ,1.2,40.39482299502607,49.82684828968684
+39,No,Yes,Very Good,Other,15.0,6,Ariva Hotel Baku,Bunk Bed in Male Dormitory Room ,2.4,,
+40,Yes,Yes,Exceptional,Sabayil,23.0,2,AL Khaleej Baku Hotel And Apr,Deluxe Double Room,4.4,40.34018472008257,49.81870865057885
+41,No,Yes,Good,Sabayil,31.0,64,Altstadt Hotel & Cafe,Standard Double or Twin Room,0.5,40.34018472008257,49.81870865057885
+42,No,Yes,Exceptional,Sabayil,150.0,5,Apartment For Kings,Apartment with Balcony,0.15,40.34018472008257,49.81870865057885
+43,No,No,Exceptional,Nasimi,7.0,1,Punjab Hostel AZ,Bunk Bed in Male Dormitory Room ,0.6,40.39482299502607,49.82684828968684
+44,No,No,Good,Yasamal,34.0,44,Dionis Baku Hotel,Single Room with Private Bathroom,0.6,40.37910692339686,49.809651649057464
+45,No,Yes,Score under 7,Other,21.0,489,Altus Hotel Baku,Budget Single Room,4.8,,
+46,Yes,Yes,Excellent,Sabayil,90.0,108,Regal Inn Badamdar Hotel,Standard Double Room,3.3,40.34018472008257,49.81870865057885
+47,No,Yes,Score under 7,Yasamal,,88,Lake Palace Baku,Standard Single Room ,2.2,40.37910692339686,49.809651649057464
+48,No,Yes,Very Good,Nasimi,135.0,5,Mc Donalds Apartment,Apartment with Sea View,0.15,40.39482299502607,49.82684828968684
+49,Yes,Yes,Exceptional,Sabayil,23.0,3,Baku Residency,Double Room with Shared Bathroom,5.6,40.34018472008257,49.81870865057885
+50,No,No,Very Good,Nasimi,176.0,842,"Holiday Inn Baku, an IHG Hotel",King Room - Non Smoking,1.9,40.39482299502607,49.82684828968684
+51,No,Yes,Good,Sabayil,22.0,48,Antique Hotel Baku,Standard Double Room,0.5,40.34018472008257,49.81870865057885
+52,No,No,Excellent,Other,70.0,672,ibis Baku City,Budget Double Room,3.5,,
+53,No,No,Excellent,Sabayil,48.0,86,Boulevard Inn,Double Room,1.3,40.34018472008257,49.81870865057885
+54,Yes,Yes,Very Good,Sabayil,71.0,202,Nizami Hotel,Standard Double or Twin Room,0.1,40.34018472008257,49.81870865057885
+55,Yes,Yes,Good,Sabayil,130.0,939,Theatrum Hotel Baku,Standard Budget King Room (no window),0.35,40.34018472008257,49.81870865057885
+56,No,Yes,Good,Yasamal,9.0,92,Flora Hostel,Single Bed in Mixed Dormitory Room,0.3,40.37910692339686,49.809651649057464
+57,No,Yes,Excellent,Nasimi,129.0,119,Parkside Hotel & Apartments,Standard Double or Twin Room,1.6,40.39482299502607,49.82684828968684
+58,Yes,Yes,Exceptional,Sabayil,40.0,93,NAR BOUTIQUE HOTEL,Twin Room with View,3.8,40.34018472008257,49.81870865057885
+59,Yes,Yes,Wonderful,Sabayil,80.0,83,Seven Rooms Boutique Hotel,Double Room,0.6,40.34018472008257,49.81870865057885
+60,Yes,No,Excellent,Nasimi,50.0,27,Best City Hotel,Standard Double or Twin Room,0.35,40.39482299502607,49.82684828968684
+61,No,No,Excellent,Sabayil,285.0,792,"InterContinental Baku, an IHG Hotel",Classic King Room - Non-Smoking ,0.7,40.34018472008257,49.81870865057885
+62,No,No,Wonderful,Nasimi,363.0,548,JW Marriott Absheron Baku Hotel,"Deluxe, Guest room, 2 Double, City view",1.7,40.39482299502607,49.82684828968684
+63,Yes,Yes,Good,Sabayil,124.0,886,Shah Palace Luxury Museum Hotel,Standard Double Room,0.35,40.34018472008257,49.81870865057885
+64,Yes,Yes,Wonderful,Other,100.0,185,Modern Hotel,Standard Double Room,3.5,,
+65,No,No,Excellent,Sabayil,249.0,896,"Fairmont Baku, Flame Towers",Deluxe King Room City View,1.5,40.34018472008257,49.81870865057885
+66,No,Yes,Excellent,Sabayil,44.0,181,East Legend Hotel,Standard Single Room,2.6,40.34018472008257,49.81870865057885
+67,No,Yes,,Other,70.0,,Best Hotel Baku,One-Bedroom Suite,3.4,,
+68,Yes,Yes,Very Good,Sabayil,77.0,70,Renaissance Boutique,Deluxe Room,0.45,40.34018472008257,49.81870865057885
+69,No,No,Very Good,Sabayil,147.0,1436,Park Inn by Radisson Baku Hotel,Standard Room,,40.34018472008257,49.81870865057885
+70,Yes,Yes,Good,Sabayil,56.0,63,Donna Hotel,Standard Double or Twin Room,0.2,40.34018472008257,49.81870865057885
+71,Yes,Yes,Excellent,Other,70.0,295,Square Baku Hotel,Budget Single Room,0.2,,
+72,No,Yes,Good,Sabayil,45.0,127,Shalimar Boutique Hotel,Large Double Room,0.35,40.34018472008257,49.81870865057885
+73,No,Yes,Very Good,Yasamal,13.0,27,Home Boutique Hostel,Bed in Male Dormitory Room,1.3,40.37910692339686,49.809651649057464
+74,Yes,Yes,Good,Sabayil,77.0,59,Kasamasa Hotel,Superior King Room,0.4,40.34018472008257,49.81870865057885
+75,Yes,Yes,Very Good,Sabayil,86.0,381,La Casa Nizami,Standard Double or Twin Room,0.1,40.34018472008257,49.81870865057885
+76,No,Yes,Wonderful,Other,159.0,591,FLY INN BAKU,Classic King Room,0.9,,
+77,No,Yes,Very Good,Yasamal,51.0,31,Prestige Boutique Hotel,Deluxe Double Room,0.2,40.37910692339686,49.809651649057464
+78,No,Yes,Excellent,Sabayil,77.0,287,Sunday Hotel Baku,Standard Single Room,0.45,40.34018472008257,49.81870865057885
+79,Yes,Yes,Excellent,Sabayil,129.0,19,Malakan Hotel,Budget Double Room,0.2,40.34018472008257,49.81870865057885
+80,Yes,Yes,Score under 7,Other,36.0,86,Bosfor Hotel,Standard Single Room,4.9,,
+81,No,Yes,Excellent,Sabayil,61.0,49,Solo Hotel on Nizami street,Triple Room,0.35,40.34018472008257,49.81870865057885
+82,Yes,Yes,Very Good,Other,68.0,695,ALBA HOTEL & SPA,Standard Double or Twin Room,4.8,,
+83,No,Yes,Excellent,Sabayil,91.0,303,Sapphire Bayil,Standard Double Room,3.2,40.34018472008257,49.81870865057885
+84,No,Yes,Very Good,Other,104.0,476,Excelsior Hotel & Spa Baku,Standard Double Room,3.5,,
+85,No,Yes,Excellent,Yasamal,102.0,157,Deniz Inn City Hotel,Standard Double Room,0.3,40.37910692339686,49.809651649057464
+86,No,Yes,Score under 7,Other,40.0,84,Mensen Hotel Baku,Large Single Room,4.8,,
+87,Yes,Yes,Wonderful,Yasamal,88.0,309,City Park Hotel,Standard Double or Twin Room,0.3,40.37910692339686,49.809651649057464
+88,No,No,Good,Sabayil,,840,Ramada by Wyndham Baku,Deluxe Twin Room,7.8,40.34018472008257,49.81870865057885
+89,Yes,Yes,Very Good,Sabayil,56.0,128,Baku Sea View Hotel,Deluxe King Room,1.1,40.34018472008257,49.81870865057885
+90,Yes,Yes,Exceptional,Sabayil,24.0,1,Crown International Hostel Baku,Budget Double Room,4.4,40.34018472008257,49.81870865057885
+91,Yes,Yes,Excellent,Nasimi,142.0,117,1883 Boutique Hotel,Large Double Room,0.7,40.39482299502607,49.82684828968684
+92,No,No,Wonderful,Sabayil,58.0,303,Moss Art Boutique Hotel,Double Room,0.1,40.34018472008257,49.81870865057885
+93,Yes,No,Good,Nasimi,61.0,254,Best Center Hotel,Budget Single Room,0.25,40.39482299502607,49.82684828968684
+94,No,Yes,Good,Nasimi,93.0,10,Premier Palace Baku,Standard Double or Twin Room,,40.39482299502607,49.82684828968684
+95,No,No,Excellent,Sabayil,282.0,723,Hilton Baku,King Guest Room,1.1,40.34018472008257,49.81870865057885
+96,No,Yes,,Nasimi,33.0,,Apartment in Baku,One-Bedroom Apartment,0.9,40.39482299502607,49.82684828968684
+97,No,Yes,Very Good,Other,118.0,49,Divan Express Baku,Standard Double Room,4.1,,
+98,No,Yes,Wonderful,Sabayil,50.0,86,Sazeli Boutique Hotel,Small Double Room,0.35,40.34018472008257,49.81870865057885
+99,Yes,Yes,Very Good,Nasimi,117.0,140,Port Rivoli Baku Luxury Boutique Hotel,Standard Double Room,,40.39482299502607,49.82684828968684
+100,Yes,Yes,Wonderful,Other,90.0,22,Madison Hotel Baku,Standard Double Room,3.2,,
+101,No,Yes,Wonderful,Nasimi,153.0,1933,Winter Park Hotel Baku,Standard Double Room,0.5,40.39482299502607,49.82684828968684
+102,No,Yes,Very Good,Sabayil,79.0,48,Sweet Garden Hotel,Twin Room,0.8,40.34018472008257,49.81870865057885
+103,No,Yes,Excellent,Yasamal,54.0,360,Royal Palace Hotel Baku,Deluxe Room,0.3,40.37910692339686,49.809651649057464
+104,No,No,Wonderful,Sabayil,178.0,125,Sultan Inn Boutique Hotel,Superior Double Room,0.5,40.34018472008257,49.81870865057885
+105,No,Yes,Excellent,Nasimi,45.0,45,Citadel Boutique Hotel,Deluxe Double Room,0.2,40.39482299502607,49.82684828968684
+106,No,Yes,Wonderful,Other,102.0,154,Golden Horn Apart Hotel,Deluxe Double Room,4.4,,
+107,Yes,Yes,Exceptional,Sabayil,181.0,41,Royal Antique Boutique Hotel,Double Room,0.8,40.34018472008257,49.81870865057885
+108,No,No,Exceptional,Sabayil,108.0,138,Centric Baku Boutique Hotel,Double or Twin Room,0.4,40.34018472008257,49.81870865057885
+109,Yes,Yes,Wonderful,Yasamal,52.0,120,Cth-Baku-Hostel,Budget Twin Room,1.1,40.37910692339686,49.809651649057464
+110,Yes,No,Wonderful,Nasimi,77.0,296,Boutique Hotel Baku,Single Room with Bathroom,0.6,40.39482299502607,49.82684828968684
+111,No,Yes,Very Good,Nasimi,170.0,1407,Courtyard by Marriott Baku,King Room,0.6,40.39482299502607,49.82684828968684
+112,No,No,Wonderful,Yasamal,71.0,347,Eleven Hotel Baku,Budget Single Room,0.15,40.37910692339686,49.809651649057464
+113,Yes,Yes,Very Good,Sabayil,34.0,143,Sea Pearl Hotel,Large Single Room,3.8,40.34018472008257,49.81870865057885
+114,Yes,Yes,Score under 7,Nasimi,36.0,119,Istanbul Gold Baku Hotel,Budget Single Room,,40.39482299502607,49.82684828968684
+115,Yes,Yes,Very Good,Nasimi,64.0,376,New Baku Hotel,Standard Single Room,,40.39482299502607,49.82684828968684
+116,Yes,Yes,Very Good,Other,80.0,46,Rusel Park Hotel,Large Double Room,4.1,,
+117,No,Yes,Very Good,Sabayil,81.0,159,Liman Hotel Baku,Standard King Room,0.8,40.34018472008257,49.81870865057885
+118,Yes,No,Excellent,Sabayil,54.0,212,Du Port Hotel,Standard Single Room,0.25,40.34018472008257,49.81870865057885
+119,No,Yes,,Other,22.0,,"Отдельная комната с общей кухней, ванной, туалетом",Apartment With Shared Bathroom,0.8,,
+120,No,Yes,Good,Sabayil,45.0,102,Rigs Hotel Boulevard,Standard Single Room,1.2,40.34018472008257,49.81870865057885
+121,Yes,Yes,Wonderful,Nasimi,60.0,72,OLF Hotel,Budget Single Room,0.35,40.39482299502607,49.82684828968684
+122,No,Yes,Very Good,Sabayil,75.0,225,Boutique Hotel Avenue,Double Room,0.5,40.34018472008257,49.81870865057885
+123,No,Yes,Score under 7,Other,45.0,151,Nord Hotel Baku,Budget Double Room,0.1,,
+124,No,No,Excellent,Sabayil,15.0,292,Travel Inn Hostel,Single Bed in Mixed Dormitory Room,0.5,40.34018472008257,49.81870865057885
+125,No,Yes,Good,Sabayil,100.0,3,F1 Track & Sea View Apartment On Burla Khatun,Two-Bedroom Apartment,0.7,40.34018472008257,49.81870865057885
+126,No,Yes,,Other,60.0,,Ev,One-Bedroom Apartment,1.1,,
+127,No,No,Very Good,Sabayil,810.0,59,Yacht club conference hall,Holiday Home,,40.34018472008257,49.81870865057885
+128,No,Yes,Exceptional,Nasimi,253.0,6,Port Baku,One-Bedroom Apartment,,40.39482299502607,49.82684828968684
+129,No,Yes,Excellent,Other,72.0,7,Apartment in Baku,Superior Apartment,2.5,,
+130,No,Yes,,Nasimi,83.0,,Winter park apartment,Three-Bedroom Apartment,1.2,40.39482299502607,49.82684828968684
+131,No,Yes,,Other,52.0,,дом в новханах у моря,Four-Bedroom House,7.8,,
+132,No,Yes,,Other,65.0,,Shuvelan 1 Villa,Villa with Garden View,0.6,,
+133,No,Yes,,Other,154.0,,The Orange Villa,One-Bedroom Villa,9.7,,
+134,No,Yes,,Sabayil,238.0,,Apartment near KFC Baku,Apartment,0.4,40.34018472008257,49.81870865057885
+135,No,Yes,,Nasimi,100.0,,"Apartment Nizami 60, Baku",Superior Apartment,0.3,40.39482299502607,49.82684828968684
+136,No,Yes,,Yasamal,170.0,,VIP Apartment On Nizami Street,Apartment with Sea View,0.3,40.37910692339686,49.809651649057464
+137,No,Yes,Exceptional,Nasimi,285.0,1,Apartment on Tarqovu steert,Apartment,0.7,40.39482299502607,49.82684828968684
+138,No,Yes,Exceptional,Nasimi,100.0,1,Mc Donalds Apartment Gold,Deluxe Apartment,0.2,40.39482299502607,49.82684828968684
+139,No,Yes,Exceptional,Other,65.0,2,Luxe Azure Apartment,One-Bedroom Apartment,3.1,,
+140,No,Yes,Exceptional,Other,72.0,13,Cozy apartment in city center by Baku Housing,Two-Bedroom Apartment,3.6,,
+141,No,Yes,Exceptional,Sabayil,200.0,1,Special Apartment VIP Nizami 112,Apartment with Balcony,0.7,40.34018472008257,49.81870865057885
+142,No,Yes,,Nasimi,80.0,,Квартира,One-Bedroom Apartment,1.7,40.39482299502607,49.82684828968684
+143,No,Yes,,Nasimi,128.0,,Piramida.apartment,Three-Bedroom Apartment,0.6,40.39482299502607,49.82684828968684
+144,No,Yes,,Sabayil,130.0,,Дом у главный трассы,Deluxe Villa,3.6,40.34018472008257,49.81870865057885
+145,Yes,No,Score under 7,Nasimi,135.0,1,Port Baku Residance One Bedroom,Deluxe King Room,2.1,40.39482299502607,49.82684828968684
+146,No,No,Exceptional,Sabayil,119.0,4,Deniz Inn Apartment,Apartment with Garden View,1.1,40.34018472008257,49.81870865057885
+147,No,Yes,,Nasimi,72.0,,Квартира,Two-Bedroom House,0.3,40.39482299502607,49.82684828968684
+148,No,No,Very Good,Yasamal,110.0,43,Amber Hotel,Double or Twin Room,1.2,40.37910692339686,49.809651649057464
+149,No,No,Exceptional,Sabayil,146.0,10,Gulluoglu Royal Deluxe Apartment,Deluxe Apartment,0.6,40.34018472008257,49.81870865057885
+150,No,No,,Nasimi,116.0,,Mercury sweet house,Two-Bedroom Apartment,0.5,40.39482299502607,49.82684828968684
+151,No,Yes,,Sabayil,60.0,,Boulvard apartment,Two-Bedroom Apartment,1.1,40.34018472008257,49.81870865057885
+152,No,Yes,Exceptional,Other,30.0,4,West Shine Boutique Hotel,Single Room,,,
+153,Yes,No,Exceptional,Yasamal,79.0,5,Miraj hotel,Standard Double Room,1.9,40.37910692339686,49.809651649057464
+154,No,Yes,Exceptional,Nasimi,333.0,1,Luxary Apartment ISR Plaza,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+155,No,Yes,Score under 7,Other,200.0,10,Sea Breeze Apartments,Deluxe Double Room with Balcony and Sea View,5.9,,
+156,No,Yes,,Sabayil,49.0,,Dublex apartment in Fountains,One-Bedroom Apartment,0.15,40.34018472008257,49.81870865057885
+157,No,Yes,,Sabayil,100.0,,3 komnotnaya kvartira,Three-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+158,No,No,Exceptional,Sabayil,135.0,1,Sea View Apartment Burj Khalifa,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+159,No,No,Good,Other,78.0,17,Manor Hotel,Standard Double Room,1.7,,
+160,No,Yes,Exceptional,Other,90.0,11,Park Azure Apartment Deluxe 2 Bedroom,Two-Bedroom Apartment,3.3,,
+161,No,No,Wonderful,Other,198.0,1,Sweet apartment in Baku Palace,Three-Bedroom Apartment,2.5,,
+162,No,No,,Sabayil,41.0,,Solo Inn Hotel,Small Single Room,0.35,40.34018472008257,49.81870865057885
+163,No,No,Exceptional,Sabayil,152.0,5,Azneft Square Flame Towers View Apartment,Deluxe Apartment,,40.34018472008257,49.81870865057885
+164,No,No,Very Good,Nasimi,81.0,22,Diplomat Suites,Deluxe Queen Studio ,1.1,40.39482299502607,49.82684828968684
+165,No,No,Score under 7,Yasamal,60.0,22,Dubai International Hotel,Standard Double Room,2.9,40.37910692339686,49.809651649057464
+166,No,Yes,,Sabayil,100.0,,View Apartment Baku,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+167,No,No,Exceptional,Sabayil,101.0,10,Monolit Apartment,Deluxe Apartment,0.25,40.34018472008257,49.81870865057885
+168,No,Yes,,Other,77.0,,Guneshli Apartment,One-Bedroom Apartment,,,
+169,No,Yes,Good,Nasimi,270.0,4,Bulvar Residance Sea view,Apartment,1.8,40.39482299502607,49.82684828968684
+170,No,Yes,,Sabayil,109.0,,Gloriya 2 bedroom,One-Bedroom Apartment,0.4,40.34018472008257,49.81870865057885
+171,No,Yes,,Other,78.0,,Park Azure 47,One-Bedroom Apartment,3.4,,
+172,No,Yes,Score under 7,Nasimi,125.0,12,Port Baku Residance Qroup Family,One-Bedroom Apartment,2.1,40.39482299502607,49.82684828968684
+173,No,Yes,Exceptional,Nasimi,209.0,3,Special Tropical Marina House,Apartment with Sea View,0.45,40.39482299502607,49.82684828968684
+174,No,Yes,Wonderful,Nasimi,316.0,5,Royal Suite Apartment on Nizami Street,Apartment,,40.39482299502607,49.82684828968684
+175,No,Yes,Exceptional,Sabayil,250.0,2,CENTRAL APARTMENT BAKU ( Formula 1),Apartment with Terrace,0.5,40.34018472008257,49.81870865057885
+176,No,No,Good,Other,72.0,18,Caspian Business Hotel & SPA,Standard Double Room,6.4,,
+177,No,No,Exceptional,Nasimi,81.0,4,Apartment near 28 Mall,One-Bedroom Apartment,1.8,40.39482299502607,49.82684828968684
+178,No,No,Wonderful,Sabayil,70.0,64,Bayil Breeze Hotel & Restaurant,Large Double Room,2.6,40.34018472008257,49.81870865057885
+179,No,Yes,,Other,150.0,,Buzovna Delmar Residence,One-Bedroom Apartment,9.7,,
+180,No,Yes,,Sabayil,104.0,,Real Nizami Street Apartment,Two-Bedroom Apartment,0.6,40.34018472008257,49.81870865057885
+181,No,Yes,Score under 7,Sabayil,82.0,3,ONE BEDROOM APARTMENT BY HILTON Near By bulivar #Fountain Square #NizamiStreet #McDonald,Two-Bedroom Apartment,1.2,40.34018472008257,49.81870865057885
+182,Yes,No,Very Good,Other,99.0,34,BS Hotel,Deluxe Double Studio,3.1,,
+183,No,Yes,Very Good,Other,75.0,31,City Apartments,Standard Apartment,,,
+184,No,Yes,,Other,110.0,,Abmasador Apartment,Apartment,3.3,,
+185,No,No,Exceptional,Sabayil,288.0,1,VIP Apartment PANAMERA,Apartment,0.35,40.34018472008257,49.81870865057885
+186,No,Yes,Wonderful,Yasamal,40.0,9,Baku Butik Mini-Hotel,Triple Room with Shared Bathroom,3.6,40.37910692339686,49.809651649057464
+187,No,Yes,Wonderful,Other,230.0,14,Park Azure apartment by Baku Housing,Deluxe Apartment,3.4,,
+188,No,Yes,,Nasimi,100.0,,Apartment on Shimarik - Targovi Konsul,Apartment,0.2,40.39482299502607,49.82684828968684
+189,No,Yes,,Yasamal,70.0,,"""METROPOL"" APARTMENT HOTEL",Apartment,1.8,40.37910692339686,49.809651649057464
+190,Yes,Yes,Very Good,Sabayil,35.0,83,My Bed,Standard Single Room,2.4,40.34018472008257,49.81870865057885
+191,No,Yes,,Nasimi,219.0,,Baku Park View 15 luxury Home,Two-Bedroom Apartment,0.9,40.39482299502607,49.82684828968684
+192,No,Yes,,Other,128.0,,red vılla bakı,Two-Bedroom Villa,1.2,,
+193,No,Yes,Exceptional,Nasimi,238.0,6,Luxary Apartments,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+194,No,Yes,Exceptional,Other,150.0,3,Megafun Luxury Family Apartment,Two-Bedroom Apartment,3.3,,
+195,No,Yes,Score under 7,Sabayil,65.0,1,Fountain Square Baku,One-Bedroom Apartment,0.1,40.34018472008257,49.81870865057885
+196,No,Yes,Exceptional,Nasimi,130.0,1,VIP APARTMENT IN BULVARr,Apartment with Balcony,1.4,40.39482299502607,49.82684828968684
+197,No,Yes,,Nasimi,170.0,,Delux Apartment Mc Donalds,Apartment with Sea View,0.2,40.39482299502607,49.82684828968684
+198,No,No,Exceptional,Sabayil,84.0,3,Azneft Garden Apartment,Two-Bedroom Apartment,,40.34018472008257,49.81870865057885
+199,Yes,No,Very Good,Other,95.0,176,Rich Hotel,Standard King Room,6.6,,
+200,Yes,Yes,Excellent,Nasimi,140.0,27,Callisto Hotel,Standard Single Room,1.1,40.39482299502607,49.82684828968684
+201,Yes,Yes,Score under 7,Other,54.0,19,Paradise Hotel Baku,Budget Double Room,4.8,,
+202,Yes,Yes,Excellent,Other,50.0,30,Capitol Hotel,Standard Single Room,3.7,,
+203,No,Yes,Excellent,Other,270.0,22,Panorama Villa Lux Hotel,Comfort Villa,8.1,,
+204,Yes,No,Good,White City,55.0,45,Days Hotel By Wyndham Baku,Twin Room - Non-Smoking,4.8,40.38191540820948,49.88996746617085
+205,No,No,Very Good,Sabayil,49.0,2,Qala Stone Hotel,Budget Single Room,0.7,40.34018472008257,49.81870865057885
+206,Yes,No,Excellent,Sabayil,,106,Da Vinci Hotel,Single Standard,0.8,40.34018472008257,49.81870865057885
+207,No,Yes,Very Good,Sabayil,150.0,4,Vip Apartamen Nizami Street,Two-Bedroom Apartment,0.25,40.34018472008257,49.81870865057885
+208,No,No,Excellent,Yasamal,32.0,39,Soprano Butik Hotel,Single Room with Balcony,2.7,40.37910692339686,49.809651649057464
+209,No,Yes,,Other,20.0,,House-appartment,One-Bedroom House,4.3,,
+210,Yes,No,Good,Other,115.0,128,Piano Hotel Baku,Budget Double Room,4.7,,
+211,No,Yes,,Nasimi,130.0,,Apartment On MADO,Deluxe Apartment,0.7,40.39482299502607,49.82684828968684
+212,Yes,No,Good,Sabayil,40.0,55,Town Gates Hotel,Standard Single Room,0.7,40.34018472008257,49.81870865057885
+213,No,Yes,,Nasimi,55.0,,Apartments Rashid Beybutov,One-Bedroom Apartment,,40.39482299502607,49.82684828968684
+214,No,No,Good,Sabayil,162.0,3,Luxary Apartments Hillton,Apartment,0.7,40.34018472008257,49.81870865057885
+215,No,No,Wonderful,Sabayil,65.0,5,Lovely 1-bedroom flat with view of Flame Towers,One-Bedroom Apartment,1.2,40.34018472008257,49.81870865057885
+216,No,Yes,,Other,62.0,,Lovely studio washer and dryer inside,One-Bedroom Apartment,2.6,,
+217,No,Yes,,Nasimi,144.0,,luks 3 rooms,Two-Bedroom Apartment,0.5,40.39482299502607,49.82684828968684
+218,No,Yes,,Other,96.0,,Sea Breeze Park residence studio,One-Bedroom Apartment,7.3,,
+219,No,Yes,Exceptional,Other,122.0,15,Amazing apartment in city center by Baku Housing,One-Bedroom Apartment,3.1,,
+220,No,Yes,,Yasamal,80.0,,Apartament vozle caspian biznes centr,Three-Bedroom Apartment,1.6,40.37910692339686,49.809651649057464
+221,No,Yes,Exceptional,Other,138.0,3,Sahil Luxury Apartment,Apartment,3.2,,
+222,No,No,Exceptional,Sabayil,155.0,3,Crown Deluxe Apartment on Nizami Street,Deluxe Apartment,0.6,40.34018472008257,49.81870865057885
+223,No,Yes,,Nasimi,126.0,,Nizami Apartment,Apartment,0.6,40.39482299502607,49.82684828968684
+224,No,Yes,Exceptional,Nasimi,180.0,1,apartament naxcivani street,Three-Bedroom Apartment,1.6,40.39482299502607,49.82684828968684
+225,No,Yes,,Yasamal,149.0,,Apartment nizami street 1 bedrooms,Two-Bedroom Apartment,0.25,40.37910692339686,49.809651649057464
+226,No,Yes,Exceptional,Other,40.0,4,Home,Two-Bedroom House,7.6,,
+227,No,Yes,Very Good,Sabayil,131.0,25,Compleks Apartmants of Nizami street,Two-Bedroom Apartment,0.35,40.34018472008257,49.81870865057885
+228,No,Yes,Score under 7,Other,45.0,1,28 May,One-Bedroom Apartment,2.1,,
+229,No,Yes,Very Good,Sabayil,154.0,1,BAKU VILLA,Villa,4.2,40.34018472008257,49.81870865057885
+230,No,No,Exceptional,Sabayil,87.0,14,Four seasons apartment by Baku Housing,One-Bedroom Apartment,0.8,40.34018472008257,49.81870865057885
+231,No,Yes,,Nasimi,180.0,,VIP Apartment PANAMERA,Apartment with Sea View,0.25,40.39482299502607,49.82684828968684
+232,Yes,No,Exceptional,Other,85.0,44,Merida Hotel Baku,Standard Double Room,,,
+233,No,Yes,,Nasimi,135.0,,Baku luks 4 rooms,Three-Bedroom Apartment,0.6,40.39482299502607,49.82684828968684
+234,No,Yes,Good,Sabayil,50.0,54,Caspian Pearl Boutique Hotel,Single Room,0.8,40.34018472008257,49.81870865057885
+235,Yes,Yes,Score under 7,Other,60.0,55,Continental Hotel,Standard Single Room,5.1,,
+236,Yes,Yes,Very Good,Sabayil,78.0,61,Royal Sapphire Hotel Baku,Standard Double Room,,40.34018472008257,49.81870865057885
+237,No,Yes,,Other,280.0,,Apartment On Mc Donalds,Apartment,0.15,,
+238,No,Yes,Exceptional,Nasimi,315.0,1,Deluxe Apartment on Tarqovu centr,Apartment with Balcony,0.15,40.39482299502607,49.82684828968684
+239,No,Yes,,Sabayil,120.0,,Sea View Apartment On LEXUS,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+240,Yes,No,Very Good,Sabayil,,58,Atropat Old City Hotel,Single Standard,0.45,40.34018472008257,49.81870865057885
+241,Yes,Yes,Score under 7,Sabayil,220.0,20,The Crescent Beach Hotel,Family Junior Suite,7.8,40.34018472008257,49.81870865057885
+242,No,Yes,Exceptional,Other,75.0,48,Charming 2 Bedroom Apartment near the City's Biggest Mall,Apartment with Balcony,3.9,,
+243,No,Yes,Exceptional,Other,108.0,2,Park Azure Louvre apartment,Two-Bedroom Apartment,3.4,,
+244,No,Yes,Good,Yasamal,45.0,16,Budget Private Rooms,Budget Double Room,0.3,40.37910692339686,49.809651649057464
+245,No,Yes,Very Good,Other,88.0,2,Park Azure Apartments,One-Bedroom Apartment,3.4,,
+246,No,Yes,Exceptional,Sabayil,78.0,1,Mallacanes entire apartment,Two-Bedroom Apartment,0.35,40.34018472008257,49.81870865057885
+247,No,Yes,Very Good,Other,59.0,1,SECRET HOTEL BAKU,Large Double Room,5.3,,
+248,No,Yes,Exceptional,Sabayil,238.0,2,Apartment on MADO,Apartment,,40.34018472008257,49.81870865057885
+249,No,Yes,,Sabayil,66.0,,AZNEFT SQUARE FAMILY APARTMENT,Two-Bedroom Apartment,,40.34018472008257,49.81870865057885
+250,Yes,Yes,Very Good,Sabayil,88.0,6,Utopia Guest House,Standard King Room,0.5,40.34018472008257,49.81870865057885
+251,No,Yes,Exceptional,Nasimi,71.0,1,"Apartment near 28 mall, in new boulding",Two-Bedroom Apartment,1.3,40.39482299502607,49.82684828968684
+252,No,Yes,Exceptional,Yasamal,37.0,3,Art Hotel,Standard Twin Room,2.6,40.37910692339686,49.809651649057464
+253,Yes,Yes,Very Good,Sabayil,35.0,126,Baku Exotica Hotel,Standard Single Room,2.4,40.34018472008257,49.81870865057885
+254,Yes,No,Wonderful,Sabayil,52.0,37,sebail inn hotel,Deluxe King Suite,4.7,40.34018472008257,49.81870865057885
+255,No,Yes,Very Good,Yasamal,60.0,3,Baku Azerbaijan House,One-Bedroom Apartment,2.1,40.37910692339686,49.809651649057464
+256,Yes,No,Good,Nasimi,51.0,25,Diplomat Hotel Baku,Standard Single Room,,40.39482299502607,49.82684828968684
+257,Yes,Yes,Good,Other,120.0,104,Porto Hotel Baku,Budget Double or Twin Room,,,
+258,No,Yes,Wonderful,Nasimi,315.0,4,Bulvar Residance with a pool,Apartment,,40.39482299502607,49.82684828968684
+259,Yes,Yes,Excellent,Sabayil,60.0,57,MidCity Hotel,Standard Double Room,1.1,40.34018472008257,49.81870865057885
+260,Yes,Yes,Good,Nasimi,,39,Deluxe City Hotel,Double Single Use Standard,1.8,40.39482299502607,49.82684828968684
+261,No,Yes,Excellent,Nasimi,145.0,12,Luxury Winter Park Hotel Apartments,One-Bedroom Apartment,0.8,40.39482299502607,49.82684828968684
+262,No,Yes,Good,Sabayil,125.0,108,Sapphire Marine,Standard Double or Twin Room,7.5,40.34018472008257,49.81870865057885
+263,Yes,No,Very Good,Other,65.0,34,Atlas Hotel Baku,Double Room,4.8,,
+264,Yes,Yes,Very Good,Other,81.0,57,Teatro Rooms Hotel,Double Room,4.8,,
+265,Yes,No,Good,Nasimi,90.0,85,Ganjali Plaza Hotel,Standard Double or Twin Room,1.7,40.39482299502607,49.82684828968684
+266,No,Yes,Score under 7,Nasimi,64.0,9,AF Hotel Baku,Standard Double Room,1.4,40.39482299502607,49.82684828968684
+267,No,Yes,,Sabayil,85.0,,Прекрасный вид на море.Центр города. Есть wi-fi,One-Bedroom Apartment,1.5,40.34018472008257,49.81870865057885
+268,Yes,Yes,Very Good,Other,50.0,26,Golden City Hotel Baku,Standard Single Room,,,
+269,No,Yes,,Other,61.0,,Bakuvi Apartments on New Boulveard,Budget Double Room,2.4,,
+270,Yes,Yes,Excellent,Sabayil,35.0,13,Baku Romantik Hotel,Standard Single Room,2.3,40.34018472008257,49.81870865057885
+271,No,Yes,Very Good,Sabayil,45.0,11,DJ City Hotel,Standard Single Room,0.5,40.34018472008257,49.81870865057885
+272,Yes,Yes,Wonderful,Sabayil,53.0,8,My Music Karaoke Hotel,Economy Double Room,3.6,40.34018472008257,49.81870865057885
+273,No,No,Good,Sabayil,153.0,6,VIP APARTAMENT NIZAMI STREET,Studio Apartment,0.2,40.34018472008257,49.81870865057885
+274,No,Yes,,Nasimi,150.0,,5 Rooms Mc Donalds & SwimmingPool,Apartment with Pool View ,0.25,40.39482299502607,49.82684828968684
+275,Yes,Yes,Very Good,Sabayil,,77,Sands Of Time Hotel,Single Standard,0.6,40.34018472008257,49.81870865057885
+276,No,Yes,Very Good,Sabayil,11.0,18,Baku Home Hostel,Bed in 8-Bed Mixed Dormitory Room,0.9,40.34018472008257,49.81870865057885
+277,No,No,Good,Sabayil,62.0,28,Center Khagani Hotel,Deluxe Double or Twin Room,0.3,40.34018472008257,49.81870865057885
+278,Yes,No,Good,Sabayil,36.0,80,City Walls Hotel,Budget Single Room,0.8,40.34018472008257,49.81870865057885
+279,No,No,Exceptional,Sabayil,58.0,26,Baku Central Apartment,Apartment,0.6,40.34018472008257,49.81870865057885
+280,Yes,No,Excellent,Yasamal,95.0,161,Grand Hotel Baku Central Park,Standard Double Room,0.7,40.37910692339686,49.809651649057464
+281,No,Yes,Exceptional,Nasimi,257.0,7,Nizami Street VIP Apartment,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+282,Yes,No,Good,Sabayil,80.0,155,Pilot Hotel,Double Room with Terrace,0.15,40.34018472008257,49.81870865057885
+283,Yes,Yes,Good,Other,50.0,76,El Royal Hotel,Superior Single Room,3.5,,
+284,No,Yes,Good,Sabayil,66.0,212,Aysberq Resort,Large Single Room,8.3,40.34018472008257,49.81870865057885
+285,No,No,Wonderful,Other,116.0,73,Gallery Lux Hotel Baku,Superior Double Room,2.8,,
+286,No,Yes,,Yasamal,156.0,,Nizami Street Royal Luxury Apartment,Three-Bedroom Apartment,0.15,40.37910692339686,49.809651649057464
+287,Yes,Yes,Very Good,Sabayil,35.0,21,Baku Panorama Hotel,Standard Single Room,2.3,40.34018472008257,49.81870865057885
+288,No,Yes,Exceptional,Sabayil,81.0,1,Two Rooms Plus Residence,Two-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+289,No,Yes,Wonderful,Yasamal,64.0,2,Bakuvi Central Apartments,One-Bedroom Apartment,0.25,40.37910692339686,49.809651649057464
+290,No,Yes,,Yasamal,12.0,,R & R International,Male Dormitory Room,1.4,40.37910692339686,49.809651649057464
+291,No,Yes,Exceptional,Other,104.0,23,PARK AZURE Apartment,Two-Bedroom Apartment,3.4,,
+292,No,Yes,Wonderful,Yasamal,40.0,26,Flamingo Hotel Baku,Single Room,1.4,40.37910692339686,49.809651649057464
+293,No,Yes,Wonderful,Other,170.0,35,SEA BREEZE LIGHTHOUSE,Family Room with Terrace,7.7,,
+294,No,Yes,Exceptional,Sabayil,102.0,10,Azneft Royal Suite Apartment Sea View,Two-Bedroom Apartment,,40.34018472008257,49.81870865057885
+295,No,Yes,Excellent,Yasamal,56.0,152,Maestro Hotel,Large Single Room,0.8,40.37910692339686,49.809651649057464
+296,No,Yes,,Sabayil,150.0,,HOTEL APARMENT ViP PORT BAKU RESIDANCE,Apartment with Sea View,0.6,40.34018472008257,49.81870865057885
+297,No,Yes,Score under 7,Sabayil,47.0,4,Pak Az Hotel,Family Room with Bathroom,0.15,40.34018472008257,49.81870865057885
+298,Yes,No,Wonderful,Sabayil,112.0,24,Hillmond Hotel Baku,Standard King Room,4.4,40.34018472008257,49.81870865057885
+299,No,Yes,,Nasimi,70.0,,NEMI Apartment in Tarqovi,One-Bedroom Suite,0.2,40.39482299502607,49.82684828968684
+300,Yes,Yes,Excellent,Other,85.0,19,Volga Hotel,Standard Double Room,7.4,,
+301,Yes,No,Exceptional,Nasimi,89.0,20,Auroom Hotel,Standard Single Room,,40.39482299502607,49.82684828968684
+302,Yes,Yes,Wonderful,Nasimi,68.0,9,Central Park Baku,Double or Twin Room with Balcony,0.9,40.39482299502607,49.82684828968684
+303,No,No,Exceptional,Other,77.0,2,Wyndham Garden Baku,Standard Accessible Room,8.7,,
+304,No,Yes,,Nasimi,139.0,,3 otaqli menzil,Two-Bedroom Apartment,,40.39482299502607,49.82684828968684
+305,No,No,Very Good,Nasimi,67.0,223,Kristal Inn Hotel & SPA,Standard Double Room,2.7,40.39482299502607,49.82684828968684
+306,No,Yes,Good,Sabayil,36.0,131,AEF Hotel,Triple Room,4.2,40.34018472008257,49.81870865057885
+307,Yes,Yes,Good,Other,81.0,70,Teatro Boutique Hotel,Standard Single Room,4.8,,
+308,No,Yes,,Sabayil,50.0,,Qesr Hotel Restaurant,Economy Double Room,4.7,40.34018472008257,49.81870865057885
+309,No,No,Good,Nasimi,45.0,62,Nizami Street Hotel,Single Room,1.8,40.39482299502607,49.82684828968684
+310,Yes,Yes,Good,Other,81.0,12,AYF Palace,Standard Double or Twin Room,2.9,,
+311,Yes,No,Very Good,Yasamal,73.0,377,Point Hotel Baku,Standard Double or Twin Room,1.7,40.37910692339686,49.809651649057464
+312,No,Yes,Excellent,Other,42.0,49,Damla Hotel Baku,Twin Room with Bathroom,8.8,,
+313,No,No,Good,Sabayil,94.0,150,Salam Baku Hotel (SBH),Double or Twin Room,0.25,40.34018472008257,49.81870865057885
+314,Yes,Yes,Good,Other,50.0,44,Safran Hotel,Standard Single Room,3.7,,
+315,Yes,Yes,Very Good,Other,44.0,15,Consul Hotel,Standard Triple Room,3.8,,
+316,No,Yes,Very Good,Sabayil,180.0,6,Vip Hiltton Apartment,Deluxe Apartment,0.6,40.34018472008257,49.81870865057885
+317,No,Yes,Good,Other,52.0,198,Abu Arena Hotel Arena Hall,Standard Double or Twin Room,3.6,,
+318,Yes,No,Very Good,Sabayil,108.0,104,Premier Old Gates Hotel,Standard  Double Room,0.8,40.34018472008257,49.81870865057885
+319,No,Yes,,Nasimi,130.0,,Sheyx Apartment On Nizami Street,Apartment with Balcony,0.4,40.39482299502607,49.82684828968684
+320,No,Yes,,Nasimi,51.0,,Studio LikeHome 83,Studio Apartment,1.8,40.39482299502607,49.82684828968684
+321,No,Yes,Exceptional,Sabayil,116.0,1,Seaside Apartments,Apartment - Ground Floor,,40.34018472008257,49.81870865057885
+322,No,Yes,,Other,159.0,,Private Home,One-Bedroom Apartment,3.4,,
+323,Yes,Yes,Good,Sabayil,54.0,64,Empire Hotel,Single Room with Park View,1.4,40.34018472008257,49.81870865057885
+324,No,Yes,,Sabayil,68.0,,Baku Hero of Old City,One-Bedroom Apartment,0.35,40.34018472008257,49.81870865057885
+325,No,Yes,Good,Yasamal,64.0,29,Nemi Hotel Baku,Budget Double Room,0.2,40.37910692339686,49.809651649057464
+326,No,Yes,Very Good,Sabayil,81.0,77,Moon Light hotel,Deluxe Double Room,0.6,40.34018472008257,49.81870865057885
+327,No,Yes,Exceptional,Sabayil,51.0,1,Sahil Park Hotel on Nizami street,Deluxe King Room,,40.34018472008257,49.81870865057885
+328,Yes,Yes,Very Good,Other,55.0,24,Azalea Hotel Baku,Single Room,4.7,,
+329,Yes,No,Wonderful,Sabayil,96.0,89,Two Seasons Boutique Hotel Baku,Deluxe Double Room,0.4,40.34018472008257,49.81870865057885
+330,No,Yes,Exceptional,Yasamal,110.0,3,MC DONALDS HOTEl APARTMENT CENTER BAKU,Deluxe Apartment,0.3,40.37910692339686,49.809651649057464
+331,Yes,Yes,Very Good,Nasimi,107.0,89,White Hotel & SPA,Standard Single Room,2.7,40.39482299502607,49.82684828968684
+332,No,No,Good,Nasimi,129.0,148,Hazz Hotel,Double or Twin Room,0.25,40.39482299502607,49.82684828968684
+333,No,Yes,Good,Nasimi,45.0,16,Between 28may Metro station and National Boulevard Seaside Park,Apartment with Balcony,1.6,40.39482299502607,49.82684828968684
+334,Yes,No,Very Good,Other,122.0,522,Sahil Hotel Baku,Superior Twin Room,3.9,,
+335,No,Yes,Wonderful,Other,30.0,68,Hasanovs Villa,Deluxe Double Room (2 Adults + 1 Child),6.6,,
+336,No,Yes,Good,Nasimi,10.0,25,White city Hostel,Single Bed in Dormitory Room,1.6,40.39482299502607,49.82684828968684
+337,Yes,No,Very Good,Yasamal,189.0,275,Hyatt Regency Baku,King Room,2.1,40.37910692339686,49.809651649057464
+338,No,Yes,Exceptional,Sabayil,180.0,1,Prestige Apartment VIP HILTTON,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+339,Yes,Yes,Excellent,Nasimi,140.0,36,The Clocktower Hotel,Standard Double Room,2.2,40.39482299502607,49.82684828968684
+340,No,Yes,Good,Sabayil,161.0,296,Sapphire City Hotel,Standard Double or Twin Room,0.2,40.34018472008257,49.81870865057885
+341,Yes,No,Wonderful,Nasimi,144.0,313,Midtown Hotel Baku,Standard Double Room,1.3,40.39482299502607,49.82684828968684
+342,Yes,Yes,Very Good,Sabayil,35.0,79,Baku Voyage Hotel,Standard Single Room,2.3,40.34018472008257,49.81870865057885
+343,Yes,Yes,Excellent,Sabayil,170.0,80,Badam d'Art Boutique Hotel,Double Room with Garden View,2.5,40.34018472008257,49.81870865057885
+344,Yes,Yes,Very Good,Sabayil,35.0,161,Baku Tour Hotel & Hostel,Large Single Room,2.4,40.34018472008257,49.81870865057885
+345,No,Yes,Exceptional,Sabayil,113.0,17,Apartments Formula 1 on Niyazi with Balconies,Apartment with Balcony,,40.34018472008257,49.81870865057885
+346,Yes,Yes,Very Good,Sabayil,114.0,195,Golden Coast,Budget Double Room,2.8,40.34018472008257,49.81870865057885
+347,No,Yes,Exceptional,Sabayil,72.0,1,Apartment near Boulevard,Three-Bedroom Apartment,0.7,40.34018472008257,49.81870865057885
+348,No,Yes,Exceptional,Yasamal,170.0,1,Apartment VIP Nizami Street,Apartment with Sea View,0.1,40.37910692339686,49.809651649057464
+349,Yes,Yes,Very Good,Other,80.0,37,Opera Hotel,Budget Twin Room,4.8,,
+350,No,No,Excellent,Other,74.0,154,Smith Hotel,Standard Double or Twin Room,3.6,,
+351,Yes,Yes,Very Good,Yasamal,120.0,84,Chirag Plaza Hotel,Deluxe Double Room,3.1,40.37910692339686,49.809651649057464
+352,Yes,No,Very Good,Nasimi,135.0,318,Ivy Garden Hotel Baku,Standard Twin Room,1.9,40.39482299502607,49.82684828968684
+353,No,Yes,Exceptional,Sabayil,92.0,6,Deluxe Formula Apartment on Nizami Street,Deluxe Apartment,0.25,40.34018472008257,49.81870865057885
+354,No,Yes,Wonderful,Sabayil,814.0,364,Four Seasons Hotel Baku,Deluxe Twin Room with City View,0.9,40.34018472008257,49.81870865057885
+355,Yes,Yes,Excellent,Yasamal,89.0,245,Parallel Hotel,Standard Double or Twin Room,1.7,40.37910692339686,49.809651649057464
+356,Yes,Yes,Very Good,Other,40.0,95,Premier Hotel,Standard Double Room,3.8,,
+357,No,Yes,Score under 7,Yasamal,6.0,35,Yasamal Hostel,4-Bed Mixed Dormitory Room,4.3,40.37910692339686,49.809651649057464
+358,No,Yes,Good,Other,37.0,55,Mont Inn Hotel Baku,Superior Double Room,4.6,,
+359,No,Yes,Very Good,Nasimi,30.0,127,Old Yard Hotel,Standard Single Room,1.2,40.39482299502607,49.82684828968684
+360,Yes,Yes,Excellent,Other,230.0,121,Dreamland Golf Hotel Baku,Standard King Room,2.3,,
+361,No,Yes,Good,Other,25.0,60,white horse hotel,Single Room,4.2,,
+362,No,Yes,Wonderful,Sabayil,77.0,8,LV Apartments,Apartment,0.15,40.34018472008257,49.81870865057885
+363,No,Yes,Exceptional,Sabayil,95.0,3,F1 TRACK & HOTEL APARTMENT ViP SAHIL RESIDANCE,Apartment with Sea View,0.6,40.34018472008257,49.81870865057885
+364,Yes,Yes,Very Good,Other,90.0,85,Khazar Inji,Double Room with Garden View,,,
+365,No,Yes,,Nasimi,14.0,,SHARDA INN Hostel,Family Room with Shared Bathroom,1.1,40.39482299502607,49.82684828968684
+366,No,Yes,Good,Other,82.0,124,Nobel Hotel,Double Room,2.9,,
+367,No,Yes,Exceptional,Other,30.0,45,Guest house near Baku airport,One-Bedroom Apartment,3.1,,
+368,Yes,No,Wonderful,Nasimi,100.0,284,Premium Park Hotel,Standard Double Room,2.1,40.39482299502607,49.82684828968684
+369,No,No,Excellent,Nasimi,81.0,66,Aksent Hotel,Standard Single Room,1.1,40.39482299502607,49.82684828968684
+370,No,No,Excellent,Other,54.0,236,Supreme Hotel Baku,Single Room,0.6,,
+371,No,Yes,Score under 7,Other,17.0,133,Olympic Hotel and Resort,Double or Twin Room with Spa Access,0.6,,
+372,Yes,Yes,Very Good,Sabayil,74.0,189,La Casa Fountains Square,Budget Double or Twin Room,0.5,40.34018472008257,49.81870865057885
+373,Yes,No,Wonderful,Yasamal,71.0,133,Seven Boutique Hotel Baku,Double Room,0.2,40.37910692339686,49.809651649057464
+374,No,No,Wonderful,Yasamal,67.0,347,Parkway Inn Hotel & Spa,Standard Single Room,1.4,40.37910692339686,49.809651649057464
+375,No,No,Good,Sabayil,13.0,53,Badamdar HOTEL,Single Bed in Male Dormitory Room,3.6,40.34018472008257,49.81870865057885
+376,No,Yes,Very Good,Yasamal,7.0,85,Baku Central City,10-Bed Mixed Dormitory Room,1.4,40.37910692339686,49.809651649057464
+377,Yes,No,Very Good,Nasimi,72.0,226,City Inn Boutique Hotel,Economy Single Room,0.5,40.39482299502607,49.82684828968684
+378,No,Yes,Very Good,Sabayil,189.0,3,Real Apartment On Malakan Garden,Deluxe Apartment,0.35,40.34018472008257,49.81870865057885
+379,No,Yes,Very Good,Other,55.0,173,Marine Inn Hotel Baku,Deluxe Double Room,1.7,,
+380,Yes,No,Excellent,Sabayil,47.0,345,Maajid Hotel & Restaurant,Budget Double Room,0.7,40.34018472008257,49.81870865057885
+381,Yes,No,Wonderful,Sabayil,76.0,143,Molokan Inn Hotel,Single Room,0.35,40.34018472008257,49.81870865057885
+382,No,No,Wonderful,Sabayil,184.0,75,Deniz Inn Boutique Hotel,Standard Double Room,0.6,40.34018472008257,49.81870865057885
+383,Yes,Yes,Very Good,Other,65.0,230,Diamond Hotel Baku,Standard Double Room,4.9,,
+384,No,Yes,Good,Nasimi,9.0,21,Shaan E Punjab Hostel,Bunk Bed in Mixed Dormitory Room,0.45,40.39482299502607,49.82684828968684
+385,Yes,Yes,Very Good,Other,70.0,76,Emerald Suite Hotel,Superior Double Room,4.6,,
+386,Yes,Yes,Score under 7,Other,40.0,34,Admiral Hotel,Budget Double Room,,,
+387,Yes,Yes,Excellent,Yasamal,35.0,9,EKM HOTEL,Single Room with Balcony,,40.37910692339686,49.809651649057464
+388,Yes,Yes,Very Good,Sabayil,94.0,242,La Casa Sahil,Standard Double or Twin Room,0.6,40.34018472008257,49.81870865057885
+389,Yes,No,Good,Other,71.0,134,Alison Hotel,Double Room,3.4,,
+390,No,No,Wonderful,Nasimi,14.0,2,Friends Hostel,Single Bed in Male Dormitory Room,1.5,40.39482299502607,49.82684828968684
+391,No,Yes,Wonderful,Sabayil,300.0,3,VIP APARTMENT FRANCE EMBASSY,Duplex Apartment,0.3,40.34018472008257,49.81870865057885
+392,No,No,Excellent,Sabayil,78.0,372,Sahil inn Hotel (Formula 1 view),Double or Twin Room,0.7,40.34018472008257,49.81870865057885
+393,Yes,Yes,Good,Sabayil,95.0,27,Azcot Hotel,Standard Double Room,0.1,40.34018472008257,49.81870865057885
+394,No,Yes,Very Good,Other,36.0,112,Kristal Hotel,Standard Double Room,6.4,,
+395,Yes,Yes,Very Good,Sabayil,71.0,166,Old Street Boutique Hotel,Standard  Double Room,0.45,40.34018472008257,49.81870865057885
+396,No,Yes,Good,Yasamal,39.0,1019,Renaissance Palace Baku,King Room,1.5,40.37910692339686,49.809651649057464
+397,No,Yes,Exceptional,Sabayil,213.0,1,Apartment VİP Tarqovu centr,Apartment,0.8,40.34018472008257,49.81870865057885
+398,No,Yes,Exceptional,Nasimi,120.0,1,Apartment On Champan Taylor Center,Apartment,0.2,40.39482299502607,49.82684828968684
+399,Yes,No,Good,Sabayil,71.0,190,Austin Hotel Baku,Standard Double Room,0.4,40.34018472008257,49.81870865057885
+400,Yes,No,Good,Other,120.0,6,Armada Villa Hotel,Double Room with Park View,6.7,,
+401,No,Yes,,Nasimi,170.0,,Apartment On Mc Donalds,Apartment with Sea View,0.2,40.39482299502607,49.82684828968684
+402,No,Yes,Score under 7,Sabayil,130.0,1,Nizami street floor 1,Apartment,0.3,40.34018472008257,49.81870865057885
+403,No,Yes,,Other,168.0,,Apartment Khatai,One-Bedroom Apartment,2.7,,
+404,No,Yes,,Other,75.0,,Apartment,One-Bedroom Apartment,,,
+405,No,Yes,,Yasamal,120.0,,Classic Baku Apartment,Two-Bedroom Apartment,1.2,40.37910692339686,49.809651649057464
+406,No,Yes,,Yasamal,126.0,,One bedroom apartments near Nizami street 51,One-Bedroom Apartment,0.3,40.37910692339686,49.809651649057464
+407,No,Yes,Score under 7,Sabayil,122.0,1,Apartment near Nizami street and Boulevard,Two-Bedroom Apartment,0.3,40.34018472008257,49.81870865057885
+408,No,No,Wonderful,Nasimi,172.0,8,Spacious Apt in the Heart of Baku,Two-Bedroom Apartment,0.4,40.39482299502607,49.82684828968684
+409,No,Yes,,Other,140.0,,Chirag Plaza Apartment,Two-Bedroom Apartment,2.8,,
+410,No,Yes,Exceptional,Other,141.0,1,Family Luxe Sea View,Two-Bedroom Apartment,,,
+411,No,Yes,,Sabayil,380.0,,Badamdar villa lux,Villa,3.6,40.34018472008257,49.81870865057885
+412,No,Yes,,Other,163.0,,Villa Mehdiabad,Villa,4.2,,
+413,No,Yes,,Yasamal,134.0,,Apartment near Metro Nizami,Apartment,1.5,40.37910692339686,49.809651649057464
+414,No,No,,Nasimi,306.0,,Apartment VIP Carlton Tower,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+415,No,Yes,,Sabayil,405.0,,Villa close to city center,One-Bedroom Villa,4.2,40.34018472008257,49.81870865057885
+416,No,Yes,,Yasamal,120.0,,apartament Nizami mool,Two-Bedroom Apartment,1.5,40.37910692339686,49.809651649057464
+417,No,Yes,,Nasimi,280.0,,Nizami vip appartment,Two-Bedroom Apartment,0.9,40.39482299502607,49.82684828968684
+418,No,Yes,,Sabayil,600.0,,APARTMEt,Superior Apartment,0.4,40.34018472008257,49.81870865057885
+419,No,Yes,,Sabayil,180.0,,Hotel Apartment Sahil Baku Residence,Apartment,0.7,40.34018472008257,49.81870865057885
+420,No,Yes,,Other,167.0,,Baku Deluxe apt. Sapfir 15,Two-Bedroom Apartment,,,
+421,No,Yes,,Other,350.0,,Villa Palma,Villa,1.5,,
+422,No,Yes,Very Good,Other,201.0,1,Sahil plaza modern,Three-Bedroom Apartment,,,
+423,No,Yes,,Sabayil,250.0,,Apartment Near Shah Palace,Apartment with Balcony,0.4,40.34018472008257,49.81870865057885
+424,No,Yes,Very Good,Nasimi,150.0,1,Central Baku New Apartment,One-Bedroom Apartment,,40.39482299502607,49.82684828968684
+425,No,Yes,,Sabayil,450.0,,Delux Villa in Baku,Deluxe Villa,4.1,40.34018472008257,49.81870865057885
+426,No,No,Score under 7,Nasimi,234.0,1,Port Baku Residance Apartment A1705,Deluxe Double or Twin Room with Balcony,2.1,40.39482299502607,49.82684828968684
+427,No,Yes,Exceptional,Nasimi,800.0,4,Three bedrooms comfortable apartment by Baku Housing,Three-Bedroom Apartment,2.3,40.39482299502607,49.82684828968684
+428,No,No,,Yasamal,179.0,,VIP Apartment in Buta palace 703,Three-Bedroom Apartment,0.45,40.37910692339686,49.809651649057464
+429,No,No,Very Good,Other,495.0,1,Marriot Apartment 4 bedroom,Apartment with Sea View,3.9,,
+430,No,No,Exceptional,Nasimi,194.0,1,Fountan square ViP 6 bedroom,Apartment,0.35,40.39482299502607,49.82684828968684
+431,No,No,,Yasamal,205.0,,Buta Palace luxury House,One-Bedroom Apartment,0.45,40.37910692339686,49.809651649057464
+432,No,Yes,,Yasamal,200.0,,Sheikh Apartment in Baku,Three-Bedroom Apartment,,40.37910692339686,49.809651649057464
+433,No,No,Score under 7,Nasimi,180.0,2,Port Baku Residance only families,Apartment with Sea View,2.1,40.39482299502607,49.82684828968684
+434,No,Yes,,Yasamal,205.0,,apartament Qlobus mol,Two-Bedroom Apartment,1.7,40.37910692339686,49.809651649057464
+435,No,No,,Nasimi,100.0,,Luxe House in Nizami Street 1,One-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+436,No,No,,Sabayil,342.0,,Cheerful 5 bedroom Villa with Pool,Villa,6.2,40.34018472008257,49.81870865057885
+437,No,No,,Other,192.0,,Lux VIP Tarqovi Centr,Three-Bedroom Apartment,0.15,,
+438,No,Yes,,Other,434.0,,Park Azur,One-Bedroom Apartment,2.7,,
+439,No,No,,Nasimi,198.0,,Baku Avangard Apartment,Apartment with Sea View,2.1,40.39482299502607,49.82684828968684
+440,No,Yes,,Sabayil,209.0,,Apartment On Al Bahar,Three-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+441,Yes,No,Score under 7,Nasimi,171.0,3,Port Baku Residance Hotel 606 C,Deluxe Room,2.1,40.39482299502607,49.82684828968684
+442,No,No,,Sabayil,189.0,,Luxary Apartment,Three-Bedroom Apartment,0.6,40.34018472008257,49.81870865057885
+443,No,Yes,Exceptional,Sabayil,250.0,2,Deluxe apt. With seaview ”The city center of Baku”,Apartment with Sea View,2.3,40.34018472008257,49.81870865057885
+444,No,No,Exceptional,Nasimi,180.0,1,Building Ferrari İn Front Port Baku,Apartment with Sea View,2.1,40.39482299502607,49.82684828968684
+445,No,No,,Nasimi,158.0,,Two-bedroom apartments Winter Park,Two-Bedroom Apartment,0.6,40.39482299502607,49.82684828968684
+446,No,No,,Sabayil,225.0,,Luxary Apartment On Tarqovu Centr,Three-Bedroom Apartment,0.3,40.34018472008257,49.81870865057885
+447,No,No,,Other,185.0,,Cheerful 3-bedroom townhouse with pool.,One-Bedroom Villa,5.9,,
+448,No,No,,Nasimi,120.0,,Nizami Street on MCdonads SHIKKA,One-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+449,No,No,,Nasimi,121.0,,Piramida Paza ViP House 8,One-Bedroom Apartment,0.5,40.39482299502607,49.82684828968684
+450,No,No,,Yasamal,144.0,,One bedroom apartmetns near Nizami street 52,One-Bedroom Apartment,0.3,40.37910692339686,49.809651649057464
+451,No,No,,Sabayil,118.0,,NIZAMI STREET VIP MADO HOUSE,One-Bedroom Apartment,0.15,40.34018472008257,49.81870865057885
+452,No,No,,Nasimi,153.0,,VIP Apartments on Mc donads,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+453,No,No,,Sabayil,141.0,,Luxury House in NIZAMI STREET,One-Bedroom Apartment,0.15,40.34018472008257,49.81870865057885
+454,No,No,,Nasimi,180.0,,Luxary Home Mc donalds,Three-Bedroom Apartment,0.25,40.39482299502607,49.82684828968684
+455,No,No,,Nasimi,628.0,,"The Ritz-Carlton, Baku",Deluxe King Room with Balcony,3.1,40.39482299502607,49.82684828968684
+456,No,Yes,,Nasimi,319.0,,Baku Deluxe Apt. Hiss 5,Apartment,0.4,40.39482299502607,49.82684828968684
+457,No,Yes,Very Good,Sabayil,350.0,2,Ansera Badamdar,Villa with Garden View,4.5,40.34018472008257,49.81870865057885
+458,No,No,,Sabayil,198.0,,Apartment On Mc Donalds,Apartment,0.1,40.34018472008257,49.81870865057885
+459,No,Yes,,Other,450.0,,Gunluk 350 manat heyet evi,One-Bedroom House,0.9,,
+460,No,Yes,Score under 7,Sabayil,216.0,1,Baku Nizami Street Triplex 4 bedroom,Four-Bedroom House,,40.34018472008257,49.81870865057885
+461,No,Yes,Exceptional,Nasimi,176.0,5,Family Nizami Apartment,Three-Bedroom Apartment,0.8,40.39482299502607,49.82684828968684
+462,No,No,Wonderful,Nasimi,180.0,2,Baku Family Apartment,Three-Bedroom House,0.1,40.39482299502607,49.82684828968684
+463,No,No,,Yasamal,72.0,,Lovely 2-bedroom and 1-living room apartment,Two-Bedroom Apartment,3.1,40.37910692339686,49.809651649057464
+464,No,Yes,Very Good,Sabayil,155.0,2,BAKU CITY CENTRE APARTMENT,Three-Bedroom Apartment,0.3,40.34018472008257,49.81870865057885
+465,No,Yes,,Other,153.0,,Red Apartment Vip City Center,Three-Bedroom Apartment,,,
+466,No,Yes,,Other,200.0,,"Sea Breeze, Lightgouse-2",Comfort Quadruple Room,,,
+467,No,Yes,Score under 7,Sabayil,207.0,2,Formula 1 Street Apartment,Three-Bedroom Apartment,0.3,40.34018472008257,49.81870865057885
+468,No,Yes,Score under 7,Nasimi,160.0,1,Delux Apartment in Nizami street,Two-Bedroom Apartment,,40.39482299502607,49.82684828968684
+469,No,Yes,,Sabayil,145.0,,Bakı şəhəri Neftciler prospekti 12/11,Apartment with Balcony,0.7,40.34018472008257,49.81870865057885
+470,No,Yes,,Yasamal,150.0,,Vip Amartment Caspian plaza,Three-Bedroom Apartment,1.7,40.37910692339686,49.809651649057464
+471,No,Yes,,Nasimi,240.0,,Luxe Apartment in Nizami street,One-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+472,No,No,Good,Nasimi,162.0,4,Port Baku Residance room 609 C,One-Bedroom Apartment,,40.39482299502607,49.82684828968684
+473,Yes,Yes,,Other,400.0,,Villa for a nice vacation,One-Bedroom Villa,,,
+474,No,Yes,,Other,227.0,,Baku Guest Villa,Villa with Private Pool,1.6,,
+475,No,No,Exceptional,Nasimi,144.0,1,Ray in city centre Nizami street,Two-Bedroom Apartment,0.45,40.39482299502607,49.82684828968684
+476,No,No,Exceptional,Yasamal,144.0,2,Vip Apartment Sea View Plaza,Studio Apartment with Sea View,,40.37910692339686,49.809651649057464
+477,No,Yes,,Other,240.0,,Mardakan Villa,One-Bedroom Villa,8.1,,
+478,No,Yes,,Sabayil,240.0,,VIP Apartment,Two-Bedroom Apartment,0.6,40.34018472008257,49.81870865057885
+479,No,Yes,,Nasimi,243.0,,VIP Apartment PORT BAKU RESIDANCE801,Deluxe Apartment,,40.39482299502607,49.82684828968684
+480,No,No,Exceptional,Yasamal,192.0,1,Buta Place VIP House 904,Three-Bedroom Apartment,0.45,40.37910692339686,49.809651649057464
+481,No,No,Exceptional,Sabayil,200.0,1,Mango beuty apartment 7,Three-Bedroom Apartment,1.2,40.34018472008257,49.81870865057885
+482,No,Yes,,Sabayil,150.0,,APARTAMENT AXUNDOV BAGI,Two-Bedroom Apartment,1.1,40.34018472008257,49.81870865057885
+483,No,Yes,,Other,88.0,,Khatai,Two-Bedroom Apartment,3.6,,
+484,No,No,Exceptional,Nasimi,151.0,1,Leylek Sweet 3 bedroom konsul 35,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+485,No,Yes,Exceptional,Other,328.0,1,Villa Gilavar,Villa with Private Pool,5.6,,
+486,No,Yes,,Sabayil,155.0,,F1 & Sea View Luxury VIP McDonalds,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+487,No,Yes,Wonderful,Nasimi,201.0,1,Port Baku Family Residance twobed,Two-Bedroom Apartment,,40.39482299502607,49.82684828968684
+488,Yes,No,Score under 7,Other,135.0,2,Azure Residence,One-Bedroom Apartment,3.3,,
+489,No,Yes,Score under 7,Sabayil,170.0,1,Zarifa Aliyeva str. 28 M63 Daire,Three-Bedroom Apartment,0.8,40.34018472008257,49.81870865057885
+490,No,Yes,,Other,300.0,,Загородный дом,Deluxe Double or Twin Room,2.8,,
+491,No,Yes,,Other,298.0,,Baku Villa,Three-Bedroom Villa,0.8,,
+492,No,Yes,,Other,270.0,,"Modern Minimalism, the city center, Sea View",One-Bedroom Apartment,3.4,,
+493,No,Yes,,Nasimi,136.0,,Baku 3 rooms,Two-Bedroom Apartment,0.5,40.39482299502607,49.82684828968684
+494,No,Yes,Score under 7,Other,160.0,1,Vip sahil,Three-Bedroom Apartment,3.4,,
+495,No,Yes,,Yasamal,176.0,,Apartament caspian plaza,Three-Bedroom Apartment,1.7,40.37910692339686,49.809651649057464
+496,No,Yes,,Nasimi,225.0,,Apartment 10 Mandarin,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+497,No,Yes,,Sabayil,109.0,,Apartment center 1,One-Bedroom Apartment,4.3,40.34018472008257,49.81870865057885
+498,No,Yes,,Nasimi,130.0,,Apartment,Two-Bedroom Apartment,1.3,40.39482299502607,49.82684828968684
+499,No,Yes,,Nasimi,101.0,,Lux nice apartment,Three-Bedroom Apartment,1.4,40.39482299502607,49.82684828968684
+500,No,Yes,Very Good,Nasimi,188.0,1,Gulustan Apartment,Three-Bedroom Apartment,,40.39482299502607,49.82684828968684
+501,No,Yes,,Nasimi,118.0,,LOFT STUDIO IN THE HEART OF BAKU,One-Bedroom Apartment,0.9,40.39482299502607,49.82684828968684
+502,No,Yes,,Sabayil,270.0,,Apartament on Nizami street 6 rooms,Apartment,0.3,40.34018472008257,49.81870865057885
+503,No,No,,Other,230.0,,Apartment On Nergiz Mall,Three-Bedroom Apartment,0.1,,
+504,No,No,,Sabayil,202.0,,Nizami View Apartment,Two-Bedroom Apartment,0.2,40.34018472008257,49.81870865057885
+505,No,No,,Yasamal,225.0,,Two bedroom apartmetns near Nizami street,Two-Bedroom Apartment,0.3,40.37910692339686,49.809651649057464
+506,No,Yes,,Other,170.0,,Lux Family Apartment in City Center,Two-Bedroom Apartment,,,
+507,No,Yes,Very Good,Other,105.0,4,La Corne Hotel Baku,Deluxe King Room,4.9,,
+508,No,Yes,,Yasamal,150.0,,Buta Palace Residance Near Cortiar,Apartment with Sea View,0.45,40.37910692339686,49.809651649057464
+509,Yes,No,Good,Other,180.0,10,Pure Boutique Hotel,Budget Twin Room,4.8,,
+510,No,No,Score under 7,Nasimi,172.0,1,Port Baku Residance Family Room 710 A,Apartment with Garden View,2.1,40.39482299502607,49.82684828968684
+511,No,Yes,Score under 7,Nasimi,135.0,5,Delux Apartament in Center,Apartment with Balcony,1.3,40.39482299502607,49.82684828968684
+512,No,Yes,,Other,160.0,,Azure Lux,Two-Bedroom Apartment,3.4,,
+513,No,Yes,,Nasimi,190.0,,Apartment VIP Sapphire Hotel,Three-Bedroom Apartment,0.4,40.39482299502607,49.82684828968684
+514,No,No,Exceptional,Sabayil,441.0,4,Villa Castle Baku,Deluxe Villa,3.7,40.34018472008257,49.81870865057885
+515,No,Yes,,Other,213.0,,Nardaran Cottage,One-Bedroom Villa,5.9,,
+516,No,Yes,,Sabayil,91.0,,Nizami street shaurma 1,One-Bedroom Apartment,0.45,40.34018472008257,49.81870865057885
+517,No,Yes,,Yasamal,120.0,,Family Apartment near Winter Park,Three-Bedroom Apartment,1.5,40.37910692339686,49.809651649057464
+518,No,Yes,,Yasamal,114.0,,"Apartment nearby Nizami metrostation, close to centre",One-Bedroom Apartment,1.1,40.37910692339686,49.809651649057464
+519,No,Yes,,Nasimi,344.0,,Luxe Apartment in Nizami street,One-Bedroom Apartment,0.4,40.39482299502607,49.82684828968684
+520,No,Yes,,Sabayil,450.0,,Sea View Villa Baku,Villa,4.1,40.34018472008257,49.81870865057885
+521,No,Yes,,Other,120.0,,КВАРТИРА,One-Bedroom House,,,
+522,No,Yes,,Other,98.0,,Dom daca,One-Bedroom Villa,1.9,,
+523,No,Yes,Score under 7,Sabayil,144.0,1,Luxary Apartment On KOLORIT,Two-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+524,No,Yes,,Yasamal,198.0,,3-bedroom apartment on Nizami street,Apartment,0.35,40.37910692339686,49.809651649057464
+525,No,Yes,,Nasimi,180.0,,vip nizami,Apartment,0.7,40.39482299502607,49.82684828968684
+526,No,Yes,,Sabayil,108.0,,Pavlove Tiny Bus House,Caravan,8.4,40.34018472008257,49.81870865057885
+527,No,Yes,,Sabayil,214.0,,Apartment on Tarqovu Otto klub,Apartment,0.3,40.34018472008257,49.81870865057885
+528,No,Yes,Score under 7,Nasimi,137.0,1,Baku Christal Apartment,One-Bedroom Apartment,,40.39482299502607,49.82684828968684
+529,No,No,Score under 7,Nasimi,225.0,3,Port Baku Residance 710 A,Family Suite,2.1,40.39482299502607,49.82684828968684
+530,No,No,,Nasimi,162.0,,VIP Apartment Kumkapi,Apartment with Sea View,0.2,40.39482299502607,49.82684828968684
+531,No,No,,Nasimi,209.0,,Flora Creek Deluxe Apartments,Three-Bedroom Apartment,0.2,40.39482299502607,49.82684828968684
+532,No,Yes,Very Good,Other,153.0,4,Style Home Buzovna,One-Bedroom Villa,9.6,,
+533,No,Yes,,Sabayil,150.0,,Luxary Apartment Molocan Garden,Three-Bedroom Apartment,0.35,40.34018472008257,49.81870865057885
+534,No,Yes,,Sabayil,100.0,,Kvartira vozle seadet sarayı,Apartment,0.5,40.34018472008257,49.81870865057885
+535,No,Yes,Excellent,Yasamal,65.0,5,Apartment Bilal,Apartment,1.8,40.37910692339686,49.809651649057464
+536,No,Yes,,Other,70.0,,Апартаменты Хырдалан Баку,One-Bedroom Apartment,1.3,,
+537,No,Yes,,Other,135.0,,Apartment in Nizami street Fountain Square,Two-Bedroom Apartment,,,
+538,No,Yes,,Sabayil,119.0,,Comfort City center. 2 bedrooms.,Two-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+539,No,No,Exceptional,Yasamal,55.0,1,Elmler Luxs Apartments,One-Bedroom Apartment,1.7,40.37910692339686,49.809651649057464
+540,No,No,Exceptional,Other,119.0,1,White villa 12,One-Bedroom Apartment,7.5,,
+541,No,Yes,Exceptional,Other,162.0,1,SEA VIEW APARTMENTS REZIDENTS,Apartment with Sea View,,,
+542,No,Yes,,Other,54.0,,Городской,One-Bedroom Apartment,8.7,,
+543,No,Yes,Exceptional,Other,50.0,5,Sweet Apartment,One-Bedroom Apartment,9.5,,
+544,No,Yes,,Sabayil,100.0,,Квартира с видом на Старый Город,One-Bedroom Apartment,0.6,40.34018472008257,49.81870865057885
+545,No,Yes,,Other,150.0,,Cozy home for leisure,Villa,9.6,,
+546,No,Yes,,Other,140.0,,Apartment Baku Park Azure,One-Bedroom Apartment,3.4,,
+547,No,Yes,Exceptional,Other,114.0,1,Park Azure Modern apartment,Two-Bedroom Apartment,3.4,,
+548,No,Yes,,Other,640.0,,Baku Villa Nardaran,One-Bedroom Villa,7.8,,
+549,No,Yes,,Sabayil,128.0,,Formula Istiglaliyyet Apartment,Apartment with Sea View,0.3,40.34018472008257,49.81870865057885
+550,No,No,Good,Sabayil,108.0,3,Elvin's Luxury Apartment,Apartment,1.1,40.34018472008257,49.81870865057885
+551,No,Yes,,Other,90.0,,My sweet houme in Kara-Karayev,Two-Bedroom Apartment,8.9,,
+552,No,Yes,Very Good,Nasimi,120.0,1,Apartment in Shaurma1 nizami street,One-Bedroom Apartment,0.3,40.39482299502607,49.82684828968684
+553,No,Yes,,Nasimi,170.0,,LUXURY APARTMENT ON LEYLEK Targovi,Deluxe Apartment,0.2,40.39482299502607,49.82684828968684
+554,No,Yes,,Other,144.0,,Baku Park Azure Apartment,Two-Bedroom Apartment,3.4,,
+555,No,Yes,,Other,148.0,,Baku Luxe Apartments,Two-Bedroom Apartment,,,
+556,No,Yes,,Other,250.0,,Golden Horn Apartments,Deluxe Apartment,4.4,,
+557,No,No,,Sabayil,122.0,,sahil 3,Two-Bedroom Apartment,0.5,40.34018472008257,49.81870865057885
+558,No,Yes,,Sabayil,150.0,,Apartment On Al Bahar,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+559,No,Yes,,Yasamal,69.0,,In the center of Baku on the Fountain Square.,One-Bedroom Apartment,0.25,40.37910692339686,49.809651649057464
+560,No,Yes,,Other,108.0,,Apartment in Boulevard,One-Bedroom Apartment,,,
+561,No,Yes,,Sabayil,300.0,,Special Apartment VIP PANDORA,Apartment,0.3,40.34018472008257,49.81870865057885
+562,No,Yes,,Other,60.0,,One bedroom apartment in Baku,One-Bedroom Apartment,2.4,,
+563,No,Yes,Exceptional,Nasimi,109.0,1,Baku central palace,Three-Bedroom Apartment,0.8,40.39482299502607,49.82684828968684
+564,No,No,Wonderful,Sabayil,216.0,1,Apartment near Four Seasons,One-Bedroom Apartment,0.7,40.34018472008257,49.81870865057885
+565,No,No,Good,Yasamal,79.0,23,Mark Hotel Baku,Queen Room with Two Queen Beds,2.3,40.37910692339686,49.809651649057464
+566,No,Yes,,Other,78.0,,ARME HOME,One-Bedroom Apartment,2.7,,
+567,No,Yes,,Nasimi,170.0,,VIP Apartment PALMALI,Apartment with Sea View,0.2,40.39482299502607,49.82684828968684
+568,No,Yes,,Nasimi,130.0,,Apartment On VİP Mado Tarqovi,Deluxe Apartment,0.4,40.39482299502607,49.82684828968684
+569,No,Yes,,White City,135.0,,Park Azure Baku,Three-Bedroom Apartment,,40.38191540820948,49.88996746617085
+570,No,Yes,Exceptional,Sabayil,210.0,1,Sea View Superdelux Apartment 7 Rooms Mc Donalds,Apartment with Sea View,0.8,40.34018472008257,49.81870865057885
+571,No,Yes,,Sabayil,272.0,,Five star villa,Villa,5.8,40.34018472008257,49.81870865057885
+572,No,Yes,,Sabayil,200.0,,Villas for rent,One-Bedroom Villa,3.5,40.34018472008257,49.81870865057885
+573,No,No,,Nasimi,227.0,,Port Baku Residance Hotel Apartment A1702,Apartment with Sea View,2.1,40.39482299502607,49.82684828968684
+574,No,Yes,Exceptional,Other,105.0,1,Park Azure Sky apartment,Two-Bedroom Apartment,3.4,,
+575,No,Yes,,Sabayil,180.0,,Sea View Lux VIP IL PATIO Apartment,Apartment with Sea View,0.8,40.34018472008257,49.81870865057885
+576,No,Yes,,Other,208.0,,Baku Villa Mashtaga,One-Bedroom Villa,2.5,,
+577,No,Yes,Exceptional,Other,170.0,4,Lighthouse Sea Breeze,One-Bedroom Apartment,7.7,,
+578,No,Yes,,Nasimi,200.0,,PENTHOUSE Apartment VIP Nizami Street,Apartment with Sea View,0.45,40.39482299502607,49.82684828968684
+579,No,Yes,,Other,200.0,,Home is located in Baku near the white city boulevard and Port Baku.,Three-Bedroom Villa,2.6,,
+580,No,No,Score under 7,Sabayil,104.0,2,Azneft Square Deluxe Apartment,Deluxe Apartment,,40.34018472008257,49.81870865057885
+581,No,Yes,,Nasimi,120.0,,Apartment on HEZZ in Targovi,Apartment,0.25,40.39482299502607,49.82684828968684
+582,No,Yes,,Sabayil,220.0,,Sea View Superdelux 5 Rooms Apartment Center McDonalds,Apartment with Sea View,0.7,40.34018472008257,49.81870865057885
+583,No,Yes,,Other,80.0,,Gündəlik kirayə ev,Two-Bedroom Apartment,1.3,,
+584,No,Yes,Good,Sabayil,155.0,2,VİP Apartment number one,Apartment with Sea View,0.5,40.34018472008257,49.81870865057885
+585,No,Yes,,Sabayil,104.0,,Apartment Between Nizami Street and Old City,Apartment,0.6,40.34018472008257,49.81870865057885
+586,No,No,Score under 7,Nasimi,150.0,1,Port Baku Residance Deluxe,Deluxe King Room,2.1,40.39482299502607,49.82684828968684
+587,No,Yes,,Other,102.0,,Отличная Вилла для отдыха,Villa,4.8,,
+588,No,Yes,Exceptional,Sabayil,150.0,3,LUX apartment near in Hard Rock,Two-Bedroom Apartment,0.9,40.34018472008257,49.81870865057885
+589,No,Yes,Good,Nasimi,333.0,20,Bulvar Residance Near Four Seasons,Deluxe Apartment,1.6,40.39482299502607,49.82684828968684
+590,No,No,,Yasamal,202.0,,Buta Palace sweet home 903,Three-Bedroom Apartment,0.45,40.37910692339686,49.809651649057464
+591,No,Yes,,Nasimi,100.0,,28 Center Apartment,Three-Bedroom Apartment,,40.39482299502607,49.82684828968684
+592,No,Yes,,Other,36.0,,Kenan,One-Bedroom Apartment,,,
+593,No,Yes,,Yasamal,68.0,,One bedroom apartments near Nizami metro,One-Bedroom Apartment,1.6,40.37910692339686,49.809651649057464
+594,No,Yes,,Other,254.0,,Cheerful 4-bedroom villa in Shuvelan,Villa,3.9,,
+595,No,Yes,Wonderful,Nasimi,122.0,1,piramida 4 rooms,Three-Bedroom Apartment,0.6,40.39482299502607,49.82684828968684
+596,No,Yes,Exceptional,Nasimi,155.0,1,Apartment in the Ferrari building,Three-Bedroom Apartment,1.3,40.39482299502607,49.82684828968684
+597,No,Yes,,Other,109.0,,AZURE Recidense,Two-Bedroom Apartment,3.2,,
+598,No,Yes,,Sabayil,160.0,,Luxury Apartment Near Hilton Hotel,Apartment with Sea View,0.6,40.34018472008257,49.81870865057885
+599,No,Yes,,Sabayil,118.0,,Papa Jons 2,Apartment,0.8,40.34018472008257,49.81870865057885
+600,No,No,Exceptional,Yasamal,58.0,3,Stay Inn Lovely City Center apartment,Apartment,0.6,40.37910692339686,49.809651649057464
+601,No,Yes,Exceptional,Yasamal,70.0,3,"3 room apartment. Baku, Azerbaijan",Apartment,2.6,40.37910692339686,49.809651649057464
+602,No,Yes,Very Good,Nasimi,350.0,3,Port Baku Residence Archi Apartment,Three-Bedroom Apartment,,40.39482299502607,49.82684828968684
+603,No,Yes,,Nasimi,255.0,,Prestige Apartment VIP Panamera,Apartment with Sea View,0.25,40.39482299502607,49.82684828968684
+604,No,Yes,,Nasimi,124.0,,City Center apartment,Apartment,,40.39482299502607,49.82684828968684
+605,No,Yes,,Other,176.0,,Merdekan Villa,One-Bedroom Villa,8.7,,
+606,Yes,Yes,Exceptional,Other,60.0,3,Apartment near Khatai,One-Bedroom Apartment,3.1,,
